@@ -875,6 +875,7 @@ Libros a explorar / Books to explore
 - Scale by Geoffrey West
 - Schaum's Outline of Graph Theory: Including Hundreds of Solved Problems	Schaum's Outline of Graph Theory: Including Hundreds of Solved Problems by V. Balakrishnan (Paperback) 
 - Schopenhauer: A Very Short Introduction, Christopher Janaway
+- Science and Cooking: Physics Meets Food, From Homemade to Haute Cuisine, Dr. Pia Sörensen (ref: Talk Nerdy podcast, episode 2021-03-08)
 - Science and Relativism: Some Key Controversies in the Philosophy of Science (Science and Its Conceptual Foundations series) by Larry Laudan
 - Science and the Production of Ignorance (https://mitpress.mit.edu/books/science-and-production-ignorance)
 - Science as a Way of Knowing: The Foundations of Modern Biology	Science as a Way of Knowing: The Foundations of Modern Biology by John A. Moore (Paperback) 
