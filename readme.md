@@ -597,6 +597,7 @@ Libros a explorar / Books to explore
 - Leviathan (Penguin Classics) by Thomas Hobbes
 - Leviathan Wakes (The Expanse Book 1)	Leviathan Wakes (The Expanse Book 1) by James S. A. Corey (Kindle Edition) |
 - Liar's Poker: Rising Through the Wreckage on Wall Street	Liar's Poker: Rising Through the Wreckage on Wall Street by Michael Lewis (Paperback) 
+- Life’s Edge: The Search for What It Means to Be Alive, Zimmer.
 - Lightning in a Bottle: Chaos, Complexity, and Computation in Climate Science. ("This is my doctoral dissertation, which also features a lot of discussions of chaos. Chapters 5 and 6 in particular might be relevant.")
 - Like a Mother: A Feminist Journey Through the Science and Culture of Pregnancy - Kindle edition by Angela Garbes. Health, Fitness & Dieting Kindle eBooks . (Entrevista con autora en podcast “talk nerdy”)
 - Linguistics: An Introduction to Language and Communication, 6th edition (The MIT Press) by Adrian Akmajian
