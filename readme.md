@@ -247,6 +247,7 @@ Libros a explorar / Books to explore
 - Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age by Michael A. Hiltzik
 - Death So Noble: Memory, Meaning, and the First World War	Death So Noble: Memory, Meaning, and the First World War by Jonathan F. Vance (Paperback) 
 - Death So Noble: Memory, Meaning, and the First World War by Jonathan F. Vance
+- Just Deserts: Debating Free Will, Daniel C. Dennett  and  Gregg D. Caruso
 - Debating Religious Liberty and Discrimination	Debating Religious Liberty and Discrimination by John Corvino, Ryan T. Anderson (Kindle Edition) 
 - Debugging the Development Process: Practical Strategies for Staying Focused, Hitting Ship Dates, and Building Solid Teams	Debugging the Development Process: Practical Strategies for Staying Focused, Hitting Ship Dates, and Building Solid Teams by Steve Maguire (Paperback) 
 - Decipher	Decipher by Stel Pavlou (Hardcover) 
