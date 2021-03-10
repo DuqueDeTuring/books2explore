@@ -688,6 +688,7 @@ Libros a explorar / Books to explore
 - Mythical Man-Month, The: Essays on Software Engineering, Anniversary Edition	Mythical Man-Month, The: Essays on Software Engineering, Anniversary Edition by Frederick Brooks Jr. (Paperback) 
 - Myths to Live By by Joseph Campbell
 - Naive Set Theory (Undergraduate Texts in Mathematics)	Naive Set Theory (Undergraduate Texts in Mathematics) by P. R. Halmos (Hardcover) 
+- Narrative and Technology Ethics. Authors: Reijers, Wessel, Coeckelbergh, Mark
 - Naturalist	Naturalist by Edward O. Wilson (Paperback) |
 - Naturalist by Edward O. Wilson
 - Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices (The Morgan Kaufmann Series in Networking)	Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices (The Morgan Kaufmann Series in Networking) by George Varghese (Hardcover) 
