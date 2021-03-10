@@ -1232,6 +1232,7 @@ Libros a explorar / Books to explore
 - The Principles of Mathematics	The Principles of Mathematics by Bertrand Russell (Paperback) 
 - The Printing Press as an Agent of Change: Communications and Cultural Trans (Complete in One Volume) by Elizabeth L. Eisenstein
 - The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey	The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey by Michael Huemer (Paperback) 
+- The Promise of Happiness, Sara Ahmed
 - The Promise of Politics by Hannah Arendt
 - The Promise of the Child: Volume One of The Amaranthine Spectrum by Tom Toner
 - The Protestant Ethic and the Spirit of Capitalism: and Other Writings (Penguin Twentieth-Century Classics)	The Protestant Ethic and the Spirit of Capitalism: and Other Writings (Penguin Twentieth-Century Classics) by Max Weber, Peter Baehr (Kindle Edition) 
