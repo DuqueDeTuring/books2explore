@@ -1239,7 +1239,8 @@ Libros a explorar / Books to explore
 - The Pursuit of Power: Technology, Armed Force, and Society since A.D. 1000 by William H. McNeill
 - The Puzzle Palace: Inside the National Security Agency, America's Most Secret Intelligence Organization by James Bamford
 - The Quants: How a New Breed of Math Whizzes Conquered Wall Street and Nearly Destroyed It, Scott Patterson
-- The Quantum Universe by Brian Cox & Jeff Forshaw
+- The Quantum Universe by Brian Cox & Jeff Forshaw 
+- The Quest for a Universal Theory of Life: Searching for Life As We Don't Know It (Cambridge Astrobiology, Series Number 11), Carol Cleland (ref: Zimmer’s What is life)
 - The Rapture of the Nerds: A tale of the singularity, posthumanity, and awkward social situations, Cory Doctorow
 - The Real Frank Zappa Book by Frank Zappa
 - The Reasoned Schemer (The MIT Press) by Daniel P. Friedman
