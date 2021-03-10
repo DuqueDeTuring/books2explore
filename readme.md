@@ -1402,6 +1402,7 @@ Libros a explorar / Books to explore
 - What is Life?: With Mind and Matter and Autobiographical Sketches (Canto Classics)	What is Life?: With Mind and Matter and Autobiographical Sketches (Canto Classics) by Erwin Schrodinger/Penrose (Paperback) 
 - What is Mathematics? by Courant and Robbins (Oxford University Press, 2nd edn., 1996) 
 - What Is Not Yours Is Not Yours, Helen Oyeyemi
+- What is Painting?: New Edition (Revised Edition), Julian Bell
 - What is this thing called Knowledge? by Duncan Pritchard
 - What Really Matters: Living a Moral Life amidst Uncertainty and Danger (source: https://overcast.fm/+lznF9D-0 )
 - What We Believe but Cannot Prove: Today's Leading Thinkers on Science in the Age of Certainty (Edge Question Series)	What We Believe but Cannot Prove: Today's Leading Thinkers on Science in the Age of Certainty (Edge Question Series) by John Brockman (Paperback) 
