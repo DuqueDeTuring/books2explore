@@ -96,6 +96,7 @@ Libros a explorar / Books to explore
 - An Introduction to Database Systems (v. 1)	An Introduction to Database Systems (v. 1) by C. J. Date (Hardcover) 
 - An Introduction to Functional Programming Through Lambda Calculus (Dover Books on Mathematics) by Greg Michaelson
 - Anathem, Neal Stephenson
+- Anatomica, Joanna Ebenstein (ref: interview with author in talk nerdy, episode 2021-02-01)
 - Anatomy for the Artist	Anatomy for the Artist by Sarah Simblet, John Davis (Hardcover) 
 - Angels and Ages: Lincoln, Darwin, and the Birth of the Modern Age by Adam Gopnik
 - Ansel Adams at 100	Ansel Adams at 100 by Ansel Adams, John Szarkowski (Paperback) |
