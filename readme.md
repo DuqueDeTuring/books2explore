@@ -1320,7 +1320,7 @@ Libros a explorar / Books to explore
 - The Two Cultures (Canto Classics)	The Two Cultures (Canto Classics) by C. P. Snow, Stefan Collini (Paperback) 
 - The Two Fundamental Problems of Ethics, Arthur Schopenhauer
 - The Tyranny of Experts: Economists, Dictators, and the Forgotten Rights of the Poor, William Easterly
-- Tyranny of Merit: What's Become of the Common Good (ref: podcast “embrace the void”, episode 182)
+- Tyranny of Merit: What's Become of the Common Good, Michael Sandel  (ref: podcast “embrace the void”, episode 182)
 - The Tyranny of Metrics by Jerry Z. Muller
 - The Undercover Economist by Tim Harford
 - The Universal Traveller: A Guide to Creativity, Problem Solving & the Process of Reaching Goals (Crisp Professional Series) by Don Koberg
