@@ -66,6 +66,7 @@ Libros a explorar / Books to explore
 - Aké: The Years of Childhood by Wole Soyinka
 - Albert Camus: A Life by Olivier Todd
 - Albert Camus: Solitude and Solidarity by Catherine Camus
+- Albert Einstein, The Human Side: Glimpses from His Archives by Albert Einstein, Edited by Helen Dukas and Banesh Hoffmann
 - Algerian Chronicles by Albert Camus
 - Algorithm Design by KLEINBERG
 - Algorithms (4th Edition): Robert Sedgewick, Kevin Wayne: 8601419534142
