@@ -638,6 +638,7 @@ Libros a explorar / Books to explore
 - Martians of Science: Five Physicists Who Changed the Twentieth Century by Istvan Hargittai
 - Marx, Capital and the Madness of Economic Reason
 - Marx's Concept of Man	Marx's Concept of Man by Erich Fromm, T. Bottomore (Kindle Edition) 
+- Masochism: Coldness and Cruelty (French: Présentation de Sacher-Masoch) is a 1967 book by the philosopher Gilles Deleuze (ref by Samantha Hill @ the quarantine tapes podcast episode 171)
 - Mastering Bitcoin: Unlocking Digital Cryptocurrencies, Andreas M. Antonopoulos
 - Mastering Copperplate Calligraphy: A Step-by-Step Manual (Lettering, Calligraphy, Typography) by Eleanor Winters
 - Mastering Digital SLR Photography	Mastering Digital SLR Photography by David D. Busch (Paperback) 
