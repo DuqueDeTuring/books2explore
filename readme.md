@@ -506,6 +506,7 @@ Libros a explorar / Books to explore
 - Imagined Communities: Reflections on the Origin and Spread of Nationalism: Benedict Anderson: 9781784786755: Books
 - Immigration and Democracy (Oxford Political Theory) by Sarah Song
 - Implementation Patterns	Implementation Patterns by Kent Beck (Paperback) 
+- Impossible Exchange, Jean Baudrillard
 - Impossible Languages By ANDREA MORO (https://www.penguinrandomhouse.com/books/657533/impossible-languages-by-andrea-moro/) (https://thereader.mitpress.mit.edu/the-sound-of-thought/)
 - Impounded: Dorothea Lange and the Censored Images of Japanese American Internment by Linda Gordon
 - In Defense of Anarchism (with a New Preface)	In Defense of Anarchism (with a New Preface) by Robert Paul Wolff (Paperback) 
