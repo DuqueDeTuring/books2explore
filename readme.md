@@ -1195,6 +1195,7 @@ Libros a explorar / Books to explore
 - The Net Delusion: The Dark Side of Internet Freedom by Evgeny Morozov
 - The New Confessions of an Economic Hit Man by John Perkins
 - The New Faces of Fascism: Populism and the Far Right by Enzo Traverso
+- The New Gods, Emil Cioran
 - The New New Thing : A Silicon Valley Story by Michael Lewis
 - The New Populism: Democracy Stares into the Abyss by Marco Revelli
 - The New York Times Magazine Photographs	The New York Times Magazine Photographs by Kathy Ryan, Gerald Marzorati (Hardcover) 
