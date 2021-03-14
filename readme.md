@@ -159,6 +159,7 @@ Libros a explorar / Books to explore
 - Blues castellano by Antonio Gamoneda
 - Breaking the Spell: Religion as a Natural Phenomenon	Breaking the Spell: Religion as a Natural Phenomenon by Daniel C. Dennett (Paperback) 
 - Breaking the Spell: Religion as a Natural Phenomenon by Daniel C. Dennett
+- Building God's Kingdom: Inside the World of Christian Reconstruction, Julie J. Ingersoll (ref “Jesus and John Wayne, chapter 4,1)
 - Building Internet Firewalls	Building Internet Firewalls by Elizabeth D. Zwicky, Brent Chapman (Paperback) |
 - Building the Commune: Radical Democracy in Venezuela (Jacobin)	Building the Commune: Radical Democracy in Venezuela (Jacobin) by George Ciccariello-Maher (Kindle Edition) 
 - Burning Chrome by William Gibson
@@ -327,6 +328,7 @@ Libros a explorar / Books to explore
 - Essentials of Programming Languages (The MIT Press) by Daniel P. Friedman
 - Ethics and the Limits of Philosophy	Ethics and the Limits of Philosophy by Bernard Williams (Paperback) 
 - Ethnicity, Inc. (Chicago Studies in Practices of Meaning) by John L. Comaroff
+- The Evangelicals: The Struggle to Shape America. Frances Fitzgerald. (Ref “Jesus and John Wayne”, chapter 5,19)
 - Every Thing Must Go: Metaphysics Naturalized by James Ladyman
 - Everyday Chaos: The Mathematics of Unpredictability, from the Weather to the Stock Market: Clegg, Brian: 9780262539692
 - Everything Was Forever, Until It Was No More por Alexei Yurchak (Mencionado en artículo https://americanaffairsjournal.org/2017/08/development-delusion-foreign-aid-inequality/)
@@ -354,6 +356,7 @@ Libros a explorar / Books to explore
 - Failure Is Not an Option: Mission Control From Mercury to Apollo 13 and Beyond by Gene Kranz
 - Fall; or, Dodge in Hell: A Novel	Fall; or, Dodge in Hell: A Novel by Neal Stephenson (Hardcover) 
 - Falling to Earth: An Apollo 15 Astronaut's Journey to the Moon by Al Worden
+- Family Values and the Rise of the Christian Right, Seth Dowland (ref “Jesus and John Wayne”, chapter 4,8)
 - Fascism, Power, and Individual Rights: Escape from Freedom, To Have or To Be?, and The Anatomy of Human Destructiveness	Fascism, Power, and Individual Rights: Escape from Freedom, To Have or To Be?, and The Anatomy of Human Destructiveness by Erich Fromm (Kindle Edition) |
 - Fashion Magazine by Alec Soth (v. 3)	Fashion Magazine by Alec Soth (v. 3) by Alec Soth, Karl Lagerfeld (Paperback) |
 - Faster: The Acceleration of Just About Everything	Faster: The Acceleration of Just About Everything by James Gleick (Paperback) 
@@ -429,6 +432,7 @@ Libros a explorar / Books to explore
 - Greeks and Greek Civilization	Greeks and Greek Civilization by Sheila Stern (Paperback) 
 - Grit: The Power of Passion and Perseverance by Angela Duckworth
 - Growth: From Microorganisms to Megacities (The MIT Press)	Growth: From Microorganisms to Megacities (The MIT Press) by Vaclav Smil (Hardcover) 
+- Guaranteed Pure: The Moody Bible Institute, Business, and the Making of Modern Evangelicalism, Timothy Gloege (ref “Jesus and John Wayne, chapter 1,6)
 - Guerras de internet: Un viaje al centro de la red para entender cómo afecta tu vida (Spanish Edition), Natalia Zuazo
 - Gulag: A History by Anne Applebaum
 - Hack Proofing Your Network: Internet Tradecraft	Hack Proofing Your Network: Internet Tradecraft by Ryan Russell (Paperback) |
@@ -566,6 +570,7 @@ Libros a explorar / Books to explore
 - Jazz by Herman Leonard
 - Jazz Icons: Series 2 (Boxed Set)	Jazz Icons: Series 2 (Boxed Set)
 - Jazz: A Film By Ken Burns	Jazz: A Film By Ken Burns
+- The Jesus Machine: How James Dobson, Focus on the Family, and Evangelical America Are Winning the Culture War. Dan Gilgoff. (Ref “Jesus and John Wayne”, chapter 4,21)
 - Joe Walsh: The Definitive Collection	Joe Walsh: The Definitive Collection by Joe Walsh (Audio CD) 
 - Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with Them in Some Capacity	Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with Them in Some Capacity by Joel Spolsky (Paperback) 
 - Johnny Got His Gun by Dalton Trumbo
@@ -684,6 +689,7 @@ Libros a explorar / Books to explore
 - Moral Mazes: The World of Corporate Managers by Robert Jackall
 - Moral Minds: How Nature Designed Our Universal Sense of Right and Wrong	Moral Minds: How Nature Designed Our Universal Sense of Right and Wrong by Marc Hauser (Hardcover) 
 - Moral Panics and the Copyright Wars	Moral Panics and the Copyright Wars by William Patry (Hardcover) 
+- Moral Politics : How Liberals and Conservatives Think. George Lakoff. (Ref “Jesus and John Wayne”, chapter 4,23).
 - More Money Than God: Hedge Funds and the Making of a New Elite (Council on Foreign Relations Books (Penguin Press))	More Money Than God: Hedge Funds and the Making of a New Elite (Council on Foreign Relations Books (Penguin Press)) by Sebastian Mallaby (Paperback) 
 - Mortal Republic: How Rome Fell into Tyranny by Edward J. Watts
 - Musashi by Eiji Yoshikawa & Charles Terry  (En un post de reddit recomendado en una recomendación sobre ficción historia no occidental y/o blanca)
@@ -1388,6 +1394,7 @@ Libros a explorar / Books to explore
 - Utopia Is Creepy: And Other Provocations by Nicholas Carr
 - Vanity Fair: The Portraits: A Century of Iconic Images by Graydon Carter
 - Vibrations and Waves (M.I.T. Introductory Physics)	Vibrations and Waves (M.I.T. Introductory Physics) by A.P. French (Paperback) 
+- Virgin Nation: Sexual Purity and American Adolescence. Sara Moslener. (Ref “Jesus and John”, chapter 9,42)
 - Virtual Private Networks: Technologies and Solutions	Virtual Private Networks: Technologies and Solutions by Ruixi Yuan, W. Timothy Strayer (Paperback) 
 - Virtue Ethics: A Pluralistic View	Virtue Ethics: A Pluralistic View by Christine Swanton (Hardcover) 
 - Visual Explanations: Images and Quantities, Evidence and Narrative	Visual Explanations: Images and Quantities, Evidence and Narrative by Edward R. Tufte (Hardcover) 
