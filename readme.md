@@ -40,6 +40,7 @@ Libros a explorar / Books to explore
 - A Practical Guide to Designing Expert Systems	A Practical Guide to Designing Expert Systems by Sholom M. Weiss, Casimir A. Kulikowski (Hardcover) 
 - A Practitioner's Guide to Software Test Design (Artech House Computing Library)	A Practitioner's Guide to Software Test Design (Artech House Computing Library) by Lee Copeland (Kindle Edition) 
 - A Primate's Memoir: A Neuroscientist's Unconventional Life Among the Baboons by Robert M. Sapolsky
+- A Primer for Forgetting: Getting Past the Past, Lewis Hyde (Ref podcast “a phone call from Paul”, episode 2020-07-02)
 - A Profile of Mathematical Logic (Dover Books on Mathematics) (source:GEB, libro que inspiró al autor.)
 - A Sound of Thunder and Other Stories by Ray Bradbury
 - A Supposedly Fun Thing I'll Never Do Again: Essays and Arguments	A Supposedly Fun Thing I'll Never Do Again: Essays and Arguments by David Foster Wallace (Paperback) 
