@@ -1,6 +1,7 @@
 Libros a explorar / Books to explore
 
 - 100 Diagrams That Changed the World: From the Earliest Cave Paintings to the Innovation of the iPod by Scott Christianson
+- 100 Poems to Break Your Heart, Edward Hirsch
 - 2001: A Space Odyssey (Penguin Galaxy) by Arthur C. Clarke
 - 21 Lessons for the 21st Century by Yuval Noah Harari
 - 2666 (En español) (Spanish Edition) by Roberto Bolaño
@@ -487,6 +488,7 @@ Libros a explorar / Books to explore
 - How to Fold It: The Mathematics of Linkages, Origami, and Polyhedra: Joseph O'Rourke: 9780748794973
 - How to Hide an Empire: A History of the Greater United States	How to Hide an Empire: A History of the Greater United States by Daniel Immerwahr (Hardcover) |
 - How to Lie with Statistics by Darrell Huff
+- How to Read a Poem: And Fall in Love with Poetry, Edward Hirsch
 - How to Read and Do Proofs: An Introduction to Mathematical Thought Processes by Daniel Solow
 - How to Solve It: Modern Heuristics	How to Solve It: Modern Heuristics by Zbigniew Michalewicz, David B. Fogel (Hardcover) |
 - How We Became Our Data: A Genealogy of the Informational Person // Notre Dame Philosophical Reviews // University of Notre Dame (https://ndpr.nd.edu/news/how-we-became-our-data-a-genealogy-of-the-informational-perso/)
@@ -682,6 +684,7 @@ Libros a explorar / Books to explore
 - Michelangelo's Finger	Michelangelo's Finger by Raymond Tallis (Kindle Edition) 
 - Microsoft in the Mirror: Nineteen Insiders Reflect on the Experience	Microsoft in the Mirror: Nineteen Insiders Reflect on the Experience by Karin Carter (Paperback) |
 - Miles: The Autobiography by Miles Davis
+- Mimesis: The Representation of Reality in Western Literature, Erich Auerbach (ref podcast “Quarantine tapes”, episode 173)
 - Mindware: An Introduction to the Philosophy of Cognitive Science by Andy Clark
 - MIRROR WORLDS	MIRROR WORLDS by GELERNTER (Paperback) 
 - Misery, Stephen King
