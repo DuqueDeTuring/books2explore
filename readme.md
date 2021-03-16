@@ -1462,5 +1462,6 @@ Libros a explorar / Books to explore
 - Zen in the Art of Archery	Zen in the Art of Archery by Eugen Herrigel, R. F. C. Hull (Paperback) 
 - Zen in the Art of Photography	Zen in the Art of Photography by Robert Leverant (Perfect Paperback) 
 - Zero: The Biography of a Dangerous Idea	Zero: The Biography of a Dangerous Idea by Charles Seife (Paperback) 
+- Zero K: A Novel, Don DeLillo
 - Zoom (Picture Puffin Books)	Zoom (Picture Puffin Books) by Istvan Banyai (Paperback) 
 - ZZT by Anna Anthropy - Boss Fight Book on the PC Classic – Boss Fight Books (https://bossfightbooks.com/products/zzt-by-anna-anthropy) (En entrevista con John Romero en gamasutra)
