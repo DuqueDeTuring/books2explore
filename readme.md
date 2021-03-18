@@ -978,6 +978,7 @@ Libros a explorar / Books to explore
 - Successful Lisp: How to Understand and Use Common Lisp	Successful Lisp: How to Understand and Use Common Lisp by David B. Lamkins (Paperback) 
 - Surveillance or Security?: The Risks Posed by New Wiretapping Technologies (The MIT Press) by Susan Landau
 - Survival Psychology by J. Leach
+- Suspicious Minds: Why We Believe Conspiracy Theories, Rob Brotherton
 - Swearing Is Good For You by Emma Byrne
 - Symbolic Exchange and Death (Published in association with Theory, Culture & Society) by Jean Baudrillard
 - Synaptic Self: How Our Brains Become Who We Are, Joseph LeDoux
