@@ -996,6 +996,7 @@ Libros a explorar / Books to explore
 - Technology and the Virtues: A Philosophical Guide to a Future Worth Wanting by Shannon Vallor
 - Technopoly: The Surrender of Culture to Technology by Neil Postman
 - Temp: How American Work, American Business, and the American Dream Became Temporary by Louis Hyman
+- Terror, Love and Brainwashing: Attachment in Cults and Totalitarian Systems, Alexandra Stein (ref podcast “embrace the void”, episode 184)
 - Tesla: Man Out of Time	Tesla: Man Out of Time by Margaret Cheney (Paperback) 
 - Tete-a-Tete: The Tumultuous Lives and Loves of Simone de Beauvoir and Jean-Paul Sartre by Hazel Rowley
 - Tetralogue	Tetralogue by Timothy Williamson (Paperback) 
