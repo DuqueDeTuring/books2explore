@@ -64,6 +64,7 @@ Libros a explorar / Books to explore
 - Against Empathy by Paul Bloom on Apple Books (Entrevista con el autor en Mindscape: https://itunes.apple.com/cr/podcast/sean-carrolls-mindscape-science-society-philosophy/id1406534739?l=en&mt=2&i=1000430105136 )
 - Against Interpretation: And Other Essays	Against Interpretation: And Other Essays by Susan Sontag (Paperback) 
 - Age of Anger: A History of the Present
+- Agents of Influence: Britain’s Secret Intelligence War Against the IRA, Aaron Edwards
 - AI and Humanity By Illah Reza Nourbakhsh and Jennifer Keating
 - Aké: The Years of Childhood by Wole Soyinka
 - Albert Camus: A Life by Olivier Todd
