@@ -1389,6 +1389,7 @@ Libros a explorar / Books to explore
 - Turing's Cathedral: The Origins of the Digital Universe by George Dyson
 - Turing's Cathedral: The Origins of the Digital Universe, George Dyson
 - Two Sides of the Moon: Our Story of the Cold War Space Race by David Scott
+- Uncanny Valley, Anna Wiener
 - Understanding Comics: The Invisible Art by Scott McCloud
 - Understanding Exposure: How to Shoot Great Photographs with a Film or Digital Camera (Updated Edition)	Understanding Exposure: How to Shoot Great Photographs with a Film or Digital Camera (Updated Edition) by Bryan Peterson (Paperback) 
 - Undoing Border Imperialism (Anarchist Interventions Book 6)	Undoing Border Imperialism (Anarchist Interventions Book 6) by Harsha Walia, Andrea Smith (Kindle Edition) 
