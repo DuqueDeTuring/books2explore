@@ -1065,6 +1065,7 @@ Libros a explorar / Books to explore
 - The Condor Years: How Pinochet And His Allies Brought Terrorism To Three Continents by John Dinges
 - The Conspiracy of Art by Jean Baudrillard
 - The Construction of Modern Science: Mechanisms and Mechanics (Cambridge Studies in the History of Science) by Richard S. Westfall
+- The core of the sun, Johanna Sinisalo
 - The Corpse Washer (The Margellos World Republic of Letters) by Sinan Antoon
 - The Cost of Living by Deborah Levy
 - The Count of Monte Cristo (Penguin Clothbound Classics) by Alexandre Dumas
