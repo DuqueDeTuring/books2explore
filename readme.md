@@ -276,6 +276,7 @@ Libros a explorar / Books to explore
 - Descartes' Error por António Damásio
 - Design and Analysis of Computer Algorithms, The	Design and Analysis of Computer Algorithms, The by Alfred Aho, John Hopcroft (Paperback) 
 - Design and Implementation of the FreeBSD Operating System, The by Marshall McKusick
+- Designerly Ways of Knowing, Nigel Cross
 - Designing Effective Database Systems	Designing Effective Database Systems by Rebecca M. Riordan (Paperback) 
 - Destiny Disrupted: A History of the World Through Islamic Eyes: Tamim Ansary: 9781586488130: Books
 - Dialogues and Essays (Oxford World's Classics) by Seneca
