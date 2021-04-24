@@ -1141,6 +1141,7 @@ Libros a explorar / Books to explore
 - The Globalization of Addiction: A Study in Poverty of the Spirit by Bruce Alexander
 - The God Particle: If the Universe Is the Answer, What Is the Question? by Leon Lederman
 - The Googlization of Everything: (And Why We Should Worry): Siva Vaidhyanathan: 9780520258822: Books
+- The Grasshopper: Games, Life and Utopia. Bernard Suits
 - The Great Convergence: Information Technology and the New Globalization by Richard Baldwin
 - The Great Unraveling: Losing Our Way in the New Century (Updated and Expanded)	The Great Unraveling: Losing Our Way in the New Century (Updated and Expanded) by Paul R. Krugman (Paperback) 
 - The Haskell School of Expression: Learning Functional Programming through Multimedia	The Haskell School of Expression: Learning Functional Programming through Multimedia by Paul Hudak (Paperback) 
