@@ -38,6 +38,7 @@ Libros a explorar / Books to explore
 - A Peace to End All Peace: The Fall of the Ottoman Empire and the Creation of the Modern Middle East by David Fromkin
 - A Perfect Moral Storm: The Ethical Tragedy of Climate Change (Environmental Ethics and Science Policy Series) (9780199985142): Stephen M. Gardiner: Books
 - A Philosophical Essay on Probabilities (Dover Books on Mathematics)	A Philosophical Essay on Probabilities (Dover Books on Mathematics) by Pierre-Simon Laplace (Paperback) 
+- A Philosophy of Software Design, John Ousterhout
 - A Practical Guide to Designing Expert Systems	A Practical Guide to Designing Expert Systems by Sholom M. Weiss, Casimir A. Kulikowski (Hardcover) 
 - A Practitioner's Guide to Software Test Design (Artech House Computing Library)	A Practitioner's Guide to Software Test Design (Artech House Computing Library) by Lee Copeland (Kindle Edition) 
 - A Primate's Memoir: A Neuroscientist's Unconventional Life Among the Baboons by Robert M. Sapolsky
