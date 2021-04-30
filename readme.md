@@ -1275,6 +1275,7 @@ Libros a explorar / Books to explore
 - The Quest for a Universal Theory of Life: Searching for Life As We Don't Know It (Cambridge Astrobiology, Series Number 11), Carol Cleland (ref: Zimmer’s What is life)
 - The Rapture of the Nerds: A tale of the singularity, posthumanity, and awkward social situations, Cory Doctorow
 - The Real Frank Zappa Book by Frank Zappa
+- The Real World of Technology, Ursula M. Franklin
 - The Reasoned Schemer (The MIT Press) by Daniel P. Friedman
 - The Recursive Universe: Cosmic Complexity and the Limits of Scientific Knowledge (Dover Books on Science)
 - The Reflective Practitioner: How Professionals Think In Action by Donald A. Schon
