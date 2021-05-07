@@ -1136,6 +1136,7 @@ Libros a explorar / Books to explore
 - The Fun of Programming (Cornerstones of Computing)	The Fun of Programming (Cornerstones of Computing) by Jeremy Gibbons, Oege de Moor (Paperback) 
 - The Future Is History: How Totalitarianism Reclaimed Russia by Masha Gessen
 - The Future of Ideas: The Fate of the Commons in a Connected World by Lawrence Lessig
+- The Future of You: Can Your Identity Survive 21st-Century Technology? by Tracey Follows
 - The Gift of Rain by Tan Twan Eng  (En un post de reddit recomendado en una recomendación sobre ficción historia no occidental y/o blanca)
 - The Glass Bead Game: (Magister Ludi) A Novel, Hermann Hesse
 - The Glass Palace by Amitav Ghosh  (En un post de reddit recomendado en una recomendación sobre ficción historia no occidental y/o blanca)
