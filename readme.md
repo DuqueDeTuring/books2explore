@@ -635,6 +635,7 @@ Libros a explorar / Books to explore
 - Lying: Moral Choice in Public and Private Life by Sissela Bok
 - Lyrical and Critical Essays by Albert Camus
 - Machine Beauty: Elegance And The Heart Of Technology (Repr Ed) (Masterminds)	Machine Beauty: Elegance And The Heart Of Technology (Repr Ed) (Masterminds) by David Gelernter (Paperback) 
+- Madhouse at the End of the Earth. THE BELGICA'S JOURNEY INTO THE DARK ANTARCTIC NIGHT, by Julian Sancton
 - Magic Furnace by Marcus Choun
 - Magic Trees of the Mind: How to Nurture Your Child's Intelligence, Creativity, and Healthy Emotions from Birth Through Adolescence	Magic Trees of the Mind: How to Nurture Your Child's Intelligence, Creativity, and Healthy Emotions from Birth Through Adolescence by Marian Diamond, Janet Hopson (Paperback) 
 - Magritte: Attempting the Impossible	Magritte: Attempting the Impossible by Siegfried Gohr, René Magritte (Hardcover) |
