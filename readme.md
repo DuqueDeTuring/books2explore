@@ -69,6 +69,7 @@ Libros a explorar / Books to explore
 - AI and Humanity By Illah Reza Nourbakhsh and Jennifer Keating
 - Aké: The Years of Childhood by Wole Soyinka
 - Albert Camus: A Life by Olivier Todd
+- Albert Camus' Critique of Modernity, by Ronald D. Srigley
 - Albert Camus: Solitude and Solidarity by Catherine Camus
 - Albert Einstein, The Human Side: Glimpses from His Archives by Albert Einstein, Edited by Helen Dukas and Banesh Hoffmann
 - Algerian Chronicles by Albert Camus
