@@ -175,6 +175,7 @@ Libros a explorar / Books to explore
 - Cabling: The Complete Guide to Network Wiring	Cabling: The Complete Guide to Network Wiring by Jim McBee, David Groth (Hardcover) |
 - Cablox 8x8 Cable Management System 2-pack Black	Cablox 8x8 Cable Management System 2-pack Black
 - Calculated Surprises: A Philosophy of Computer Simulation (https://ndpr.nd.edu/news/calculated-surprises-a-philosophy-of-computer-simulation/)
+- Camus and Sartre: The Story of a Friendship and the Quarrel That Ended It, Ronald Aronso.
 - Capital in the Twenty-First Century is a 2013 book by French economist Thomas Piketty.
 - Cartesian Linguistics: A Chapter in the History of Rationalist Thought	Cartesian Linguistics: A Chapter in the History of Rationalist Thought by Noam Chomsky (Hardcover) 
 - Cartoon History of the Universe Volumes 1-7 by Larry Gonick
