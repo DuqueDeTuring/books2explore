@@ -1480,6 +1480,7 @@ Libros a explorar / Books to explore
 - Writing Solid Code (Microsoft Programming Series)	Writing Solid Code (Microsoft Programming Series) by Steve Maguire (Paperback) 
 - Yemen in Crisis: Autocracy, Neo-Liberalism and the Disintegration of a State by Helen Lackner
 - You and Your Only Child: The Joys, Myths, and Challenges of Raising an Only Child	You and Your Only Child: The Joys, Myths, and Challenges of Raising an Only Child by Patricia Nachman, Andrea Thompson (Paperback) 
+- You and Your Profile: Identity After Authenticity, by Hans-Georg Moeller and Paul J. D'Ambrosio Columbia University Press
 - Zen and the Art of Motorcycle Maintenance: An Inquiry into Values	Zen and the Art of Motorcycle Maintenance: An Inquiry into Values by Robert M. Pirsig (Mass Market Paperback) |
 - Zen in the Art of Archery	Zen in the Art of Archery by Eugen Herrigel, R. F. C. Hull (Paperback) 
 - Zen in the Art of Photography	Zen in the Art of Photography by Robert Leverant (Perfect Paperback) 
