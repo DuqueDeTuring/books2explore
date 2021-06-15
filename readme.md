@@ -1182,6 +1182,7 @@ Libros a explorar / Books to explore
 - The Lathe Of Heaven: A Novel by Ursula K. Le Guin
 - The Letters of J.R.R. Tolkien by J. R. R. Tolkien
 - The Liar (Sun & Moon Classics) by Martin A. Hansen
+- The Lies that Bind: Rethinking Identity by Kwame Anthony Appiah
 - The Life of the Mind (Harvest/HBJ Book) by Hannah Arendt
 - The Little Prover (The MIT Press) by Daniel P. Friedman
 - The Little Typer (The MIT Press)	The Little Typer (The MIT Press) by Daniel P. Friedman, David Thrane Christiansen (Paperback) 
