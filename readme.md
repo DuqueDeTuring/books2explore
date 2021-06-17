@@ -27,6 +27,7 @@ Libros a explorar / Books to explore
 - A History of Saudi Arabia	A History of Saudi Arabia by Madawi al-Rasheed (Paperback) 
 - A History of the Theories of Aether & Electricity: Two Volumes Bound As One	A History of the Theories of Aether & Electricity: Two Volumes Bound As One by Edmund T. Whittaker (Paperback) 
 - A Little Hatred (The Age of Madness, 1) by Joe Abercrombie
+- A Living Work of Art: The Life and Science of Hendrik Antoon Lorentz, A. J. Kox
 - A Madman Dreams of Turing Machines by Janna Levin
 - A Man in Full: A Novel, Tom Wolfe
 - A Man on the Moon: The Voyages of the Apollo Astronauts by Andrew Chaikin
