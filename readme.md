@@ -1372,6 +1372,7 @@ Libros a explorar / Books to explore
 - The Way of Kings (The Stormlight Archive, Book 1), Brandon Sanderson
 - The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws by Dafydd Stuttard
 - The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations	The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations by James Surowiecki (Hardcover) 
+- The World According to Xi: Everything You Need to Know About the New China, Kerry Brown
 - The Working Life: The Promise and Betrayal of Modern Work	The Working Life: The Promise and Betrayal of Modern Work by Joanne B. Ciulla (Hardcover) |
 - The World As I See It	The World As I See It by Albert Einstein (Paperback) |
 - The World as Will and Representation, Arthur Schopenhauer
