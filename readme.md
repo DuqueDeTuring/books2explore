@@ -8,6 +8,7 @@ Libros a explorar / Books to explore
 - 500 Cameras: 170 Years of Photographic Innovation	500 Cameras: 170 Years of Photographic Innovation by George Eastman House, Todd Gustavson (Paperback) |
 - A Beautiful Mind: A Biography of John Forbes Nash, Jr., Winner of the Nobel Prize in Economics, 1994	A Beautiful Mind: A Biography of John Forbes Nash, Jr., Winner of the Nobel Prize in Economics, 1994 by Sylvia Nasar (Paperback) 
 - A Book of Abstract Algebra: Second Edition (Dover Books on Mathematics)
+- A Brief History of Artificial Intelligence, Michael Wooldridge
 - A Brief History of the Paradox: Philosophy and the Labyrinths of the Mind by Roy Sorensen
 - A Brief History of the Philosophy of Time by Adrian Bardon
 - A Briefer History of Time: The Science Classic Made More Accessible	A Briefer History of Time: The Science Classic Made More Accessible by Stephen Hawking, Leonard Mlodinow (Paperback) 
