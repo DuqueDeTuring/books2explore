@@ -219,6 +219,7 @@ Libros a explorar / Books to explore
 - Conceptual Blockbusting: A Guide to Better Ideas	Conceptual Blockbusting: A Guide to Better Ideas by James L. Adams (Paperback) 
 - Conceptual Mathematics (A First Introduction to Categories) by F. William Lawvere
 - Confessions of a Philosopher: A Personal Journey Through Western Philosophy from Plato to Popper (Modern Library (Paperback))	Confessions of a Philosopher: A Personal Journey Through Western Philosophy from Plato to Popper (Modern Library (Paperback)) by Bryan Magee (Paperback) 
+- Conquest of Abundance: A Tale of Abstraction versus the Richness of Being, by Paul Feyerabend 
 - Consent of the Networked: The Worldwide Struggle For Internet Freedom by Rebecca MacKinnon
 - Contagion - Historical Views of Diseases and Epidemics (https://academic.oup.com/jah/article-abstract/101/4/1357/825982)
 - Contemporary Abstract Algebra by Joseph Gallian
