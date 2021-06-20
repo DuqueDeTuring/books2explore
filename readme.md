@@ -1482,6 +1482,7 @@ Libros a explorar / Books to explore
 - World without end, Kingsbridge trilogy,  Ken Follett
 - Writing Effective Use Cases	Writing Effective Use Cases by Alistair Cockburn (Paperback) 
 - Writing Solid Code (Microsoft Programming Series)	Writing Solid Code (Microsoft Programming Series) by Steve Maguire (Paperback) 
+- Why the World Does Not Exist, Markus Gabriel
 - Yemen in Crisis: Autocracy, Neo-Liberalism and the Disintegration of a State by Helen Lackner
 - You and Your Only Child: The Joys, Myths, and Challenges of Raising an Only Child	You and Your Only Child: The Joys, Myths, and Challenges of Raising an Only Child by Patricia Nachman, Andrea Thompson (Paperback) 
 - You and Your Profile: Identity After Authenticity, by Hans-Georg Moeller and Paul J. D'Ambrosio Columbia University Press
