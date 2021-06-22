@@ -528,6 +528,7 @@ Libros a explorar / Books to explore
 - Impossible Languages By ANDREA MORO (https://www.penguinrandomhouse.com/books/657533/impossible-languages-by-andrea-moro/) (https://thereader.mitpress.mit.edu/the-sound-of-thought/)
 - Impounded: Dorothea Lange and the Censored Images of Japanese American Internment by Linda Gordon
 - In Defense of Anarchism (with a New Preface)	In Defense of Anarchism (with a New Preface) by Robert Paul Wolff (Paperback) 
+- Infinite detail, Tim Maughan
 - In Focus: National Geographic Greatest Portraits	In Focus: National Geographic Greatest Portraits by National Geographic Society, William Albert Allard (Hardcover) 
 - In Gods We Trust: The Evolutionary Landscape of Religion (Evolution and Cognition) by Scott Atran
 - In Search of a Better World: A Human Rights Odyssey (CBC Massey Lectures) by Payam Akhavan
