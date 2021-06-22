@@ -1153,6 +1153,7 @@ Libros a explorar / Books to explore
 - The Grasshopper: Games, Life and Utopia. Bernard Suits
 - The Great Convergence: Information Technology and the New Globalization by Richard Baldwin
 - The Great Unraveling: Losing Our Way in the New Century (Updated and Expanded)	The Great Unraveling: Losing Our Way in the New Century (Updated and Expanded) by Paul R. Krugman (Paperback) 
+- The Gutenberg Elegies: the fate of reading in an electronic age, by Sven Birkerts
 - The Haskell School of Expression: Learning Functional Programming through Multimedia	The Haskell School of Expression: Learning Functional Programming through Multimedia by Paul Hudak (Paperback) 
 - The Hidden Brain: How Our Unconscious Minds Elect Presidents, Control Markets, Wage Wars, and Save Our Lives by Shankar Vedantam
 - The Horse, the Wheel, and Language: How Bronze-Age Riders from the Eurasian
