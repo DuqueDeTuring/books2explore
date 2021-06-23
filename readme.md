@@ -1204,6 +1204,7 @@ Libros a explorar / Books to explore
 - The Man Who Tasted Shapes (A Bradford Book)	The Man Who Tasted Shapes (A Bradford Book) by Richard E. Cytowic, Jonathan Cole (Kindle Edition) |
 - The Managed Heart: Commercialization of Human Feeling (Citado en “the tyranny of choice”)
 - The Martian's Daughter: A Memoir	The Martian's Daughter: A Memoir by Marina Whitman (Kindle Edition) 
+- The Master and Margarita, by Mikhail Bulgakov
 - The Master and His Emissary: The Divided Brain and the Making of the Western World (entrevista con el autor en EconTalk)
 - The Master Switch: The Rise and Fall of Information Empires by Tim Wu
 - The Mathematics of Marriage: Dynamic Nonlinear Models	The Mathematics of Marriage: Dynamic Nonlinear Models by John Mordechai Gottman, James D. Murray (Hardcover) |
