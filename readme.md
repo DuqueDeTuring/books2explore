@@ -1338,6 +1338,7 @@ Libros a explorar / Books to explore
 - The Strategy and Tactics of Pricing: A Guide to Profitable Decision Making	The Strategy and Tactics of Pricing: A Guide to Profitable Decision Making by Thomas Nagle (Paperback) 
 - The Structural Transformation of the Public Sphere: An Inquiry into a Category of Bourgeois Society (Studies in Contemporary German Social Thought) by Jürgen Habermas
 - The Substance of Style: How the Rise of Aesthetic Value Is Remaking Commerce, Culture, and Consciousness (P.S.)	The Substance of Style: How the Rise of Aesthetic Value Is Remaking Commerce, Culture, and Consciousness (P.S.) by Virginia Postrel (Paperback) 
+- The Subtlety of Sameness: A Theory and Computer Model of Analogy-Making, by Robert French
 - The Suit (Christopher Breward)
 - The Suit: Form, Function and Style	The Suit: Form, Function and Style by Christopher Breward (Hardcover) 
 - The Sum of Small Things: A Theory of the Aspirational Class by Elizabeth Currid-Halkett
