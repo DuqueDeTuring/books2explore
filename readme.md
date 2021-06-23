@@ -590,6 +590,7 @@ Libros a explorar / Books to explore
 - Johnny Got His Gun by Dalton Trumbo
 - Journey of the Software Professional: The Sociology of Software Development by Luke Hohmann
 - Journey through Genius: The Great Theorems of Mathematics by William Dunham
+- Journey to the Edge of Reason: The Life of Kurt Gödel, by Stephen Budiansky
 - Junkyard Jam Band. DIY Musical Instruments and Noisemakers, David Erik Nelson
 - Kant: A Complete Introduction (Teach Yourself: Philosophy & Religion) by Robert Wicks
 - Kant's Groundwork for the Metaphysics of Morals: A Commentary by Henry E. Allison
