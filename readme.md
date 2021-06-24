@@ -871,6 +871,7 @@ Libros a explorar / Books to explore
 - Quartz 2D Graphics for Mac OS X Developers	Quartz 2D Graphics for Mac OS X Developers by R Scott Thompson (Paperback) 
 - Questioning Technology	Questioning Technology by Andrew Feenberg (Paperback) 
 - Race After Technology: Abolitionist Tools for the New Jim Code	Race After Technology: Abolitionist Tools for the New Jim Code by Ruha Benjamin (Paperback) 
+- Rabbits, Terry Miles
 - Radical Uncertainty Decision-Making Beyond the Numbers (https://wwnorton.com/books/9781324004776)
 - Raise the Red Lantern: Three Novellas (9780060596330): Su Tong: Books  (En un post de reddit recomendado en una recomendación sobre ficción historia no occidental y/o blanca)
 - Range: Why Generalists Triumph in a Specialized World	Range: Why Generalists Triumph in a Specialized World by David J. Epstein (Kindle Edition) 
