@@ -782,6 +782,7 @@ Libros a explorar / Books to explore
 - Osman's Dream: The History of the Ottoman Empire by Caroline Finkel
 - Otaku: Japan’s Database Animals by Hiroki Azuma
 - Our Inner Ape: A Leading Primatologist Explains Why We Are Who We Are	Our Inner Ape: A Leading Primatologist Explains Why We Are Who We Are by Frans de Waal (Paperback) 
+- Our Lady of Darkness, by Fritz Leiber
 - Out of the Crisis (The MIT Press) by W. Edwards Deming
 - OUT STEALING HORSES	OUT STEALING HORSES by Per Petterson (Paperback) 
 - Outline of a Theory of Practice (Cambridge Studies in Social and Cultural Anthropology Book 16)	Outline of a Theory of Practice (Cambridge Studies in Social and Cultural Anthropology Book 16) by Pierre Bourdieu, Richard Nice (Kindle Edition) |
