@@ -803,6 +803,7 @@ Libros a explorar / Books to explore
 - Peopleware: Productive Projects and Teams	Peopleware: Productive Projects and Teams by Tom DeMarco, Timothy Lister (Paperback) |
 - Perception and Imaging: Photography--A Way of Seeing by Richard D. Zakia
 - Perceptrons, Reissue of the 1988 Expanded Edition with a new foreword by Léon Bottou: An Introduction to Computational Geometry (The MIT Press) by Marvin Minsky
+- Perfect Me: Beauty as an Ethical Ideal, by Heather Widdows
 - Performance Modeling and Design of Computer Systems (Queueing Theory in Action) by Mor Harchol-Balter
 - Personal Knowledge: Towards a Post-Critical Philosophy	Personal Knowledge: Towards a Post-Critical Philosophy by Michael Polanyi, Mary Jo Nye (Paperback) 
 - Persuasive Technology by B. J. Fogg
