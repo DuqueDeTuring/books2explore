@@ -599,6 +599,7 @@ Libros a explorar / Books to explore
 - Kerberos: A Network Authentication System	Kerberos: A Network Authentication System by Brian Tung (Paperback) 
 - Kernel Methods for Pattern Analysis	Kernel Methods for Pattern Analysis by John Shawe-Taylor (Hardcover) 
 - Kill Anything That Moves: The Real American War in Vietnam (American Empire Project) by Nick Turse
+- Kindred: Neanderthal Life, Love, Death and Art , by Rebecca Wragg Sykes
 - Know My Name: A Memoir by Chanel Miller
 - Know Your Enemy: Revealing the Security Tools, Tactics, and Motives of the Blackhat Community	Know Your Enemy: Revealing the Security Tools, Tactics, and Motives of the Blackhat Community by Honeynet Project (Paperback) 
 - Knowledge: A Very Short Introduction (Very Short Introductions) by Jennifer Nagel
