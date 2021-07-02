@@ -743,6 +743,7 @@ Libros a explorar / Books to explore
 - Nihilism of Technology by Nolen Gertz
 - Ninefox Gambit (1) (Machineries of Empire) by Yoon Ha Lee
 - No Contest: The Case Against Competition, Alfie Kohn
+- No Platform, A History of Anti-Fascism, Universities and the Limits of Free Speech, By Evan Smith
 - No Time to Spare: Thinking About What Matters, Le Guin
 - Non-Photorealistic Rendering	Non-Photorealistic Rendering by Bruce Gooch, Amy Gooch (Hardcover) 
 - Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering by Stephen Strogatz. ("This is a textbook, but it's great, and really clearly written.")
