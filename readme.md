@@ -1257,6 +1257,7 @@ Libros a explorar / Books to explore
 - The Paradox of Choice by Barry Schwartz
 - The Particle at the End of the Universe: How the Hunt for the Higgs Boson Leads Us to the Edge of a New World by Sean Carroll
 - The Passionate State of Mind: And Other Aphorisms by Eric Hoffer
+- The Past, Present, and Future of Integrated History and Philosophy of Science
 - The Pearl of Anton	The Pearl of Anton by Gene Del Vecchio (Hardcover) 
 - The Pencil: A History of Design and Circumstance by Henry Petroski
 - The Peripheral, William Gibson
