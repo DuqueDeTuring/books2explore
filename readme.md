@@ -822,6 +822,7 @@ Libros a explorar / Books to explore
 - Photography Unplugged	Photography Unplugged by Harald Mante (Hardcover) |
 - Physics for Entertainment, Book 2	Physics for Entertainment, Book 2 by Yakov Perelman (Hardcover) 
 - Picture This How Pictures Work by Molly Bang
+- Piranesi by Susanna Clarke
 - Planetfall, Emma Newman
 - Plutocrats: The Rise of the New Global Super-Rich and the Fall of Everyone Else 
 - Poesía completa (Spanish Edition) by Alejandra Pizarnik
