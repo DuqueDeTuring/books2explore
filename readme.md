@@ -374,6 +374,7 @@ Libros a explorar / Books to explore
 - Fear and Trembling/Repetition : Kierkegaard's Writings, Vol. 6 by Søren Kierkegaard
 - Feminisms: A Global History, Lucy Delap (https://www.penguin.co.uk/books/305/305361/feminisms/9780241398142.html)
 - Feminist Interpretations of Hannah Arendt (Re-Reading the Canon) by Bonnie Honig
+- Feminist Philosophy An Introduction By Elinor Mason 
 - Feynman by Jim Ottaviani
 - Fields of Blood: Religion and the History of Violence by Karen Armstrong
 - Fifteen Lectures by Bertrand Russell on the Analysis of Mind	Fifteen Lectures by Bertrand Russell on the Analysis of Mind by Bertrand Russell (Paperback) 
