@@ -692,6 +692,7 @@ Libros a explorar / Books to explore
 - Men's Merrell Polar Moc Waterproof (11.5 M U.S. in Iron Grey)	Men's Merrell Polar Moc Waterproof (11.5 M U.S. in Iron Grey)
 - Mensa Logic Puzzles	Mensa Logic Puzzles by Chronicle Books Staff (Misc. Supplies) 
 - Menswear Revolution por Jay McCauley Bowstead (Entrevista con el autor en el podcast thinking allowed, episodio "Menswear Revolution" )
+- Merleau-Ponty: La Experiencia del Pensamiento, Marilena Chaui Souza 
 - Metáforas de la vida cotidiana (Teorema. Serie Menor) (Spanish Edition) by Mark Johnson
 - METRO 2033. (ENGLISH Ebook) The novel behind the METRO: LAST LIGHT video game., Dmitry Glukhovsky
 - Michel de Montaigne - The Complete Essays (Penguin Classics) by Michel de Montaigne
