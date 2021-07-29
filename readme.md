@@ -608,7 +608,8 @@ Libros a explorar / Books to explore
 - La distinción: Criterio y bases sociales del gusto (Spanish Edition)	La distinción: Criterio y bases sociales del gusto (Spanish Edition) by Pierre Bourdieu (Kindle Edition) 
 - Labor in the Global Digital Economy: The Cybertariat Comes of Age by Ursula Huws
 - Lady Luck: The Theory of Probability (Dover Books on Mathematics) by Warren Weaver
-- Language and Mind	Language and Mind by Noam Chomsky (Paperback) 
+- La nervadura de lo real. Imaginación y razón en Spinoza, Marilena Chaui Souza
+- Language and Mind by Noam Chomsky (Paperback) 
 - Language Implementation Patterns: Create Your Own Domain Specific and General Programming Languages by Terence Parr
 - Language, Truth and Logic (Penguin Modern Classics) - Kindle edition by Ayer, A.J., Rogers, Ben.
 - Las ciudades invisibles (Biblioteca Italo Calvino nº 3) (Spanish Edition)	Las ciudades invisibles (Biblioteca Italo Calvino nº 3) (Spanish Edition) by Italo Calvino, Aurora Bernárdez (Kindle Edition) 
