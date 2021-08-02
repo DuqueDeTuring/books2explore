@@ -7,6 +7,7 @@ Libros a explorar / Books to explore
 - 2666 (En español) (Spanish Edition) by Roberto Bolaño
 - 500 Cameras: 170 Years of Photographic Innovation	500 Cameras: 170 Years of Photographic Innovation by George Eastman House, Todd Gustavson (Paperback) |
 - A Beautiful Mind: A Biography of John Forbes Nash, Jr., Winner of the Nobel Prize in Economics, 1994	A Beautiful Mind: A Biography of John Forbes Nash, Jr., Winner of the Nobel Prize in Economics, 1994 by Sylvia Nasar (Paperback) 
+- A Biography of the Pixel, Alvy Ray Smith
 - A Book of Abstract Algebra: Second Edition (Dover Books on Mathematics)
 - A Brief History of Artificial Intelligence, Michael Wooldridge
 - A Brief History of the Paradox: Philosophy and the Labyrinths of the Mind by Roy Sorensen
