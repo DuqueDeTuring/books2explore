@@ -254,6 +254,7 @@ Libros a explorar / Books to explore
 - Darwin, His Daughter, and Human Evolution	Darwin, His Daughter, and Human Evolution
 - Darwin's Cathedral by David Sloan Wilson (Citado en “moral tribes”, pag. 55. Bien interesante sobre la posibilidad de la religión como mecanismo evolucionado para permitir la cooperación entre grupos grandes )
 - Darwin's Cathedral: Evolution, Religion, and the Nature of Society by David Wilson
+- Data and Society, A Critical Introduction. Anne Beaulieu 
 - Data Modeling Made Simple: A Practical Guide for Business & Information Technology Professionals	Data Modeling Made Simple: A Practical Guide for Business & Information Technology Professionals by Steve Hoberman (Paperback) |
 - Database: Principles Programming and Performance (Morgan Kaufmann Series in Data Management Systems)	Database: Principles Programming and Performance (Morgan Kaufmann Series in Data Management Systems) by Patrick O'Neil (Hardcover) |
 - David Goldblatt Photographs	David Goldblatt Photographs by David Goldblatt, Martin Parr (Hardcover) |
