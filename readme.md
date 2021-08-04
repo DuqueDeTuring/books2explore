@@ -1090,6 +1090,7 @@ Libros a explorar / Books to explore
 - The Computability of the World: How Far Can Science Take Us? (The Frontiers Collection) by Bernd-Olaf Küppers
 - The Condor Years: How Pinochet And His Allies Brought Terrorism To Three Continents by John Dinges
 - The Conspiracy of Art by Jean Baudrillard
+- The Constitution of Knowledge: A Defense of Truth, Jonathan Rauch 
 - The Construction of Modern Science: Mechanisms and Mechanics (Cambridge Studies in the History of Science) by Richard S. Westfall
 - The core of the sun, Johanna Sinisalo
 - The Corpse Washer (The Margellos World Republic of Letters) by Sinan Antoon
