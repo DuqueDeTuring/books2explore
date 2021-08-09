@@ -1314,6 +1314,7 @@ Libros a explorar / Books to explore
 - The Revolt of The Public and the Crisis of Authority in the New Millennium by Martin Gurri
 - The Rhetoric of Reaction, Albert O. Hirschman
 - The Right to Privacy: Origins and Influence of a Nineteenth-Century Idea (Cambridge Intellectual Property and Information Law Book 40)	The Right to Privacy: Origins and Influence of a Nineteenth-Century Idea (Cambridge Intellectual Property and Information Law Book 40) by Megan Richardson (Kindle Edition) 
+- The Right to Sex, Amia Srinivasan
 - The Righteous Mind by Jonathan Haidt (Citado en “moral tribes”)
 - The Rise and Fall of Ancient Egypt by Toby Wilkinson
 - The Rise and Fall of the Great Powers, Paul Kennedy
