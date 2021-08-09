@@ -1512,6 +1512,7 @@ Libros a explorar / Books to explore
 - Zen and the Art of Motorcycle Maintenance: An Inquiry into Values	Zen and the Art of Motorcycle Maintenance: An Inquiry into Values by Robert M. Pirsig (Mass Market Paperback) |
 - Zen in the Art of Archery	Zen in the Art of Archery by Eugen Herrigel, R. F. C. Hull (Paperback) 
 - Zen in the Art of Photography	Zen in the Art of Photography by Robert Leverant (Perfect Paperback) 
+- Zeno's Conscience, Italo Svevo.
 - Zero: The Biography of a Dangerous Idea	Zero: The Biography of a Dangerous Idea by Charles Seife (Paperback) 
 - Zero K: A Novel, Don DeLillo
 - Zoom (Picture Puffin Books)	Zoom (Picture Puffin Books) by Istvan Banyai (Paperback) 
