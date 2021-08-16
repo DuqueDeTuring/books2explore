@@ -576,7 +576,8 @@ Libros a explorar / Books to explore
 - Is Water H2O?: Evidence, Realism and Pluralism (Boston Studies in the Philosophy and History of Science, 293) by Hasok Chang
 - Isaac Newton	Isaac Newton by James Gleick (Hardcover) |
 - Isaac Newton by James Gleick
-- Island	Island by Aldous Huxley (Kindle Edition) |
+- Island	Island by Aldous Huxley (Kindle Edition) 
+- Islands of Abandonment, NATURE REBOUNDING IN THE POST-HUMAN LANDSCAPE, By CAL FLYN
 - It From Bit or Bit From It?: On Physics and Information (The Frontiers Collection) by Anthony Aguirre
 - IT Systems Management: Designing, Implementing, and Managing World-Class Infrastructures	IT Systems Management: Designing, Implementing, and Managing World-Class Infrastructures by Rich Schiesser (Hardcover) 
 - J.R.R. Tolkien: A Biography by Humphrey Carpenter
