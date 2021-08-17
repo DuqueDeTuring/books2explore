@@ -442,6 +442,7 @@ Libros a explorar / Books to explore
 - Good behavior by Molly Keane
 - Good Germs, Bad Germs: Health and Survival in a Bacterial World	Good Germs, Bad Germs: Health and Survival in a Bacterial World by Jessica Snyder Sachs (Hardcover) 
 - Good to Great: Why Some Companies Make the Leap...And Others Don't	Good to Great: Why Some Companies Make the Leap...And Others Don't by Jim Collins (Audio Cassette) 
+- Gorbachev: On My Country and the World, Gorbachev
 - Graph Drawing: Algorithms for the Visualization of Graphs	Graph Drawing: Algorithms for the Visualization of Graphs by Ioannis G. Tollis, Giuseppe Di Battista (Paperback) |
 - Gravity's Rainbow by Thomas Pynchon(Citado en wikipedia en la página de Pavlov como una novela inspirada/conteniendo tema de condicionamiento clásico)
 - Greeks and Greek Civilization	Greeks and Greek Civilization by Sheila Stern (Paperback) 
