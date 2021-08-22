@@ -1436,6 +1436,7 @@ Libros a explorar / Books to explore
 - Understanding Exposure: How to Shoot Great Photographs with a Film or Digital Camera (Updated Edition)	Understanding Exposure: How to Shoot Great Photographs with a Film or Digital Camera (Updated Edition) by Bryan Peterson (Paperback) 
 - Undoing Border Imperialism (Anarchist Interventions Book 6)	Undoing Border Imperialism (Anarchist Interventions Book 6) by Harsha Walia, Andrea Smith (Kindle Edition) 
 - Unfinished Tales of Numenor and Middle-earth by Christopher Tolkien
+- Unholy Wars: Afghanistan, America and International Terrorism, by John Cooley
 - Unit Origami: Multidimensional Transformations	Unit Origami: Multidimensional Transformations by Tomoko Fuse (Paperback) 
 - Universal Principles of Design	Universal Principles of Design by William Lidwell, Kritina Holden (Hardcover) 
 - UNIX Network Programming: Networking APIs: Sockets and XTI; Volume 1	UNIX Network Programming: Networking APIs: Sockets and XTI; Volume 1 by W. Richard Stevens (Hardcover) |
