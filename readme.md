@@ -907,6 +907,7 @@ Libros a explorar / Books to explore
 - Rest: Why You Get More Done When You Work Less by Alex Soojung-Kim Pang
 - Rethinking Existentialism by Jonathan Webber (https://blackwells.co.uk/bookshop/product/Rethinking-Existentialism-by-Jonathan-Webber-author/9780198866763)
 - Rethinking Sovereign Debt: Politics, Reputation, and Legitimacy in Modern Finance by Odette Lienau
+- Return of a King: The Battle for Afghanistan, 1839-42. By William Dalrymple.
 - Revolution in The Valley: The Insanely Great Story of How the Mac Was Made	Revolution in The Valley: The Insanely Great Story of How the Mac Was Made by Andy Hertzfeld (Hardcover) 
 - Revolution in Time: Clocks and the Making of the Modern World, First Edition (Belknap Press) by David S. Landes
 - Revolution of the Ordinary: Literary Studies after Wittgenstein, Austin, and Cavell by Toril Moi
