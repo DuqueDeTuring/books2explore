@@ -90,6 +90,7 @@ Libros a explorar / Books to explore
 - Alone Together: Why We Expect More from Technology and Less from Each Other by Sherry Turkle
 - Always Day One: How the Tech Titans Plan to Stay on Top Forever	Always Day One: How the Tech Titans Plan to Stay on Top Forever by Alex Kantrowitz (Kindle Edition) 
 - An Infamous Past: E.M. Cioran and the Rise of Fascism in Romania, Marta Petreu
+- Ancient Egypt: Anatomy of a Civilization. By Barry J. Kemp
 - And: Phenomenology of the End (Semiotext(e) / Foreign Agents) (9781584351702): Franco "Bifo" Berardi: Books s(recomendado en podcast “Philosophy of our times”, episodio E104, 20180724)
 - Revolutionary Science: Transformation and Turmoil in the Age of the Guillotine (9781681773094): Steve Jones: Books (Referencia en “the order of time”)
 - The Man Without Qualities Vol. 1: A Sort of Introduction and Pseudo Reality Prevails (9780679767879): Robert Musil, Sophie Wilkins, Burton Pike: Books (Referencia en artículo del semanario universidad: https://semanariouniversidad.com/suplementos/la-ficcion-contemporanea-esta-sobrevalorada/)
