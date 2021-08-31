@@ -150,6 +150,7 @@ Libros a explorar / Books to explore
 - Basic Economics:  A Citizen's Guide to the Economy	Basic Economics: A Citizen's Guide to the Economy by Thomas Sowell (Hardcover) |
 - Basic Simple Type Theory (Cambridge Tracts in Theoretical Computer Science, Series Number 42) by J. Roger Hindley
 - Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference (Addison-Wesley Data & Analytics Series), Cameron Davidson-Pilon
+- Before the Pyramids: The Origins of Egyptian Civilization. By Emily Teeter
 - Behave: The Biology of Humans at Our Best and Worst by Robert M. Sapolsky
 - Being and Time	Being and Time by Martin Heidegger (Kindle Edition) 
 - Beowulf (https://www.mcdbooks.com/books/beowulf)
