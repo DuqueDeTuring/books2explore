@@ -167,6 +167,7 @@ Libros a explorar / Books to explore
 - Black Skin, White Masks	Black Skin, White Masks by Frantz Fanon, Richard Philcox (Kindle Edition) 
 - BLOND GHOST by David Corn
 - Bloodlands: Europe Between Hitler and Stalin by Timothy Snyder
+- Blue: In Search of Nature's Rarest Color , by Kai Kupferschmidt 
 - Blues castellano by Antonio Gamoneda
 - Breaking the Spell: Religion as a Natural Phenomenon	Breaking the Spell: Religion as a Natural Phenomenon by Daniel C. Dennett (Paperback) 
 - Breaking the Spell: Religion as a Natural Phenomenon by Daniel C. Dennett
