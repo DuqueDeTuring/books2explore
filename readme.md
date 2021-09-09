@@ -641,6 +641,7 @@ Libros a explorar / Books to explore
 - Lise Meitner: A Life in Physics (Volume 11) (9780520208605): Sime, Ruth Lewin
 - Literate Programming (Lecture Notes) by Donald E. Knuth
 - Logic	Logic by Wilfrid Hodges (Paperback) 
+- Logic: The Laws of Truth, by Nicholas J.J. Smith
 - Logicomix: An epic search for truth by Apostolos Doxiadis
 - Loneliness: Human Nature and the Need for Social Connection by John T. Cacioppo
 - Los Alamos	Los Alamos by William Eggleston (Hardcover) |
