@@ -95,6 +95,7 @@ Libros a explorar / Books to explore
 - Revolutionary Science: Transformation and Turmoil in the Age of the Guillotine (9781681773094): Steve Jones: Books (Referencia en “the order of time”)
 - The Man Without Qualities Vol. 1: A Sort of Introduction and Pseudo Reality Prevails (9780679767879): Robert Musil, Sophie Wilkins, Burton Pike: Books (Referencia en artículo del semanario universidad: https://semanariouniversidad.com/suplementos/la-ficcion-contemporanea-esta-sobrevalorada/)
 - The One Device: The Secret History of the iPhone (9780316546164): Brian Merchant: Books
+- American Babylon: Christianity and Democracy Before and After Trump (Routledge Focus on Religion) , by Philip Gorski
 - American Fascists: The Christian Right and the War on America by Chris Hedges
 - American Photojournalism Comes of Age	American Photojournalism Comes of Age by Michael L. Carlebach (Paperback) |
 - American Power and the New Mandarins: Historical and Political Essays by Noam Chomsky
