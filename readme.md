@@ -717,6 +717,7 @@ Libros a explorar / Books to explore
 - Misery, Stephen King
 - Mobile Robots: Inspiration to Implementation, Second Edition	Mobile Robots: Inspiration to Implementation, Second Edition by Joseph L. Jones, Bruce A. Seiger (Paperback) 
 - Modern Physics	Modern Physics by Paul A. Tipler, Ralph Llewellyn (Hardcover) |
+- MONOPOLIZED, by David Dayen
 - Moon Lander: How We Developed the Apollo Lunar Module (Smithsonian History of Aviation and Spaceflight (Paperback)) by Thomas J. Kelly
 - Moondust: In Search of the Men Who Fell to Earth by Andrew Smith
 - Moral Mazes: The World of Corporate Managers by Robert Jackall
