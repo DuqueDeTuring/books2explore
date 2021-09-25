@@ -617,6 +617,7 @@ Libros a explorar / Books to explore
 - Labor in the Global Digital Economy: The Cybertariat Comes of Age by Ursula Huws
 - Lady Luck: The Theory of Probability (Dover Books on Mathematics) by Warren Weaver
 - La nervadura de lo real. Imaginación y razón en Spinoza, Marilena Chaui Souza
+- La Planète des singes, Pierre Boulle
 - Language and Mind by Noam Chomsky (Paperback) 
 - Language Implementation Patterns: Create Your Own Domain Specific and General Programming Languages by Terence Parr
 - Language, Truth and Logic (Penguin Modern Classics) - Kindle edition by Ayer, A.J., Rogers, Ben.
