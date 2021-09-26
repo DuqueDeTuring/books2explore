@@ -156,6 +156,7 @@ Libros a explorar / Books to explore
 - Being and Time	Being and Time by Martin Heidegger (Kindle Edition) 
 - Beowulf (https://www.mcdbooks.com/books/beowulf)
 - Beren and Lúthien by J.R.R. Tolkien
+- Bertrand Russell by Ray Monk
 - Best Practice in Inventory Management	Best Practice in Inventory Management by Tony Wild (Hardcover) 
 - Better Off: Flipping the Switch on Technology (P.S.)	Better Off: Flipping the Switch on Technology (P.S.) by Eric Brende (Paperback) 
 - Better Off: Flipping the Switch on Technology (P.S.) by Eric Brende
