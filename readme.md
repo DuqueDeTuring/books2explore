@@ -265,7 +265,6 @@ Libros a explorar / Books to explore
 - David Goldblatt Photographs	David Goldblatt Photographs by David Goldblatt, Martin Parr (Hardcover) |
 - De los espejos y otros ensayos (Spanish Edition)	De los espejos y otros ensayos (Spanish Edition) by Umberto Eco (Kindle Edition) 
 - Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age	Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age by Michael A. Hiltzik (Paperback) 
-- Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age by Michael A. Hiltzik
 - Death So Noble: Memory, Meaning, and the First World War	Death So Noble: Memory, Meaning, and the First World War by Jonathan F. Vance (Paperback) 
 - Death So Noble: Memory, Meaning, and the First World War by Jonathan F. Vance
 - Just Deserts: Debating Free Will, Daniel C. Dennett  and  Gregg D. Caruso
