@@ -642,6 +642,7 @@ Libros a explorar / Books to explore
 - Linguistics: An Introduction to Language and Communication, 6th edition (The MIT Press) by Adrian Akmajian
 - Lise Meitner: A Life in Physics (Volume 11) (9780520208605): Sime, Ruth Lewin
 - Literate Programming (Lecture Notes) by Donald E. Knuth
+- Logic for Philosophy, Theodore Sider
 - Logic	Logic by Wilfrid Hodges (Paperback) 
 - Logic: The Laws of Truth, by Nicholas J.J. Smith
 - Logicomix: An epic search for truth by Apostolos Doxiadis
