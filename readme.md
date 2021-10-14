@@ -135,6 +135,7 @@ Libros a explorar / Books to explore
 - Art of Software Security Assessment, The: Identifying and Preventing Software Vulnerabilities	Art of Software Security Assessment, The: Identifying and Preventing Software Vulnerabilities by John McDonald, Mark Down (Kindle Edition) 
 - Artifacts of Thinking: Reading Hannah Arendt's Denktagebuch by Roger Berkowitz
 - Artificial Intelligence: A Guide for Thinking Humans	Artificial Intelligence: A Guide for Thinking Humans by Melanie Mitchell (Hardcover) 
+- Assembly Codes: The Logistics of Media. Matthew Hockenberry (Editor)
 - Assessment and Control of Software Risks	Assessment and Control of Software Risks by Capers Jones (Hardcover) 
 - Aspiration: The Agency of Becoming, Agnes Callard
 - Atamazon.com$0.00	1	0
