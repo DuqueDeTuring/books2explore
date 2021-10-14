@@ -1073,6 +1073,7 @@ Libros a explorar / Books to explore
 - The Best Software Writing I: Selected and Introduced by Joel Spolsky	The Best Software Writing I: Selected and Introduced by Joel Spolsky by Avram Joel Spolsky (Paperback) 
 - The Best Things in Life: A Guide to What Really Matters (Philosophy in Action) by Thomas Hurka
 - The Big Love: Life & Death With Bill Evans by Laurie Verchomin
+- The Big Switch: Rewiring the World, from Edison to Google. Nicholas Carr
 - The Book of Lost Tales (History of Middle-earth) by J. R. R. Tolkien
 - The Book of Memory: A Study Of Memory In Medieval Culture (Cambridge Studies in Medieval Literature) by Mary Carruthers
 - The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger, Marc Levinson
