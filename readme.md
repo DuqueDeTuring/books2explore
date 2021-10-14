@@ -911,6 +911,7 @@ Libros a explorar / Books to explore
 - Reflections on Literature and Culture (Meridian: Crossing Aesthetics) by Hannah Arendt
 - Reflexiones sobre las causas de la libertad y de la opresión social (Spanish Edition)	Reflexiones sobre las causas de la libertad y de la opresión social (Spanish Edition) by Simone Weil, Rafael Blanco Vázquez (Kindle Edition) 
 - Reliable Software Through Composite Design by Glenford J. Myers
+- Remember Me: Memory and Forgetting in the Digital Age. Davide Sisto.
 - Republic, Lost: How Money Corrupts Congress--and a Plan to Stop It by Lawrence Lessig
 - Rest: Why You Get More Done When You Work Less by Alex Soojung-Kim Pang
 - Rethinking Existentialism by Jonathan Webber (https://blackwells.co.uk/bookshop/product/Rethinking-Existentialism-by-Jonathan-Webber-author/9780198866763)
