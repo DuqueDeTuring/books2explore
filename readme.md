@@ -1050,6 +1050,7 @@ Libros a explorar / Books to explore
 - The Algorithm Design Manual	The Algorithm Design Manual by Steve S. Skiena (Hardcover) |
 - The Anatomy of Fascism	The Anatomy of Fascism by Robert O. Paxton (Kindle Edition) 
 - The Ancient Book of Myth and War	The Ancient Book of Myth and War by Scott Morse, Lou Romano (Hardcover) |
+- The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine, Petzold
 - The Antidote: Happiness for People Who Can't Stand Positive Thinking: Oliver Burkeman: 9780865478015
 - The Argonauts (9781555977351): Maggie Nelson: Books (Referencia en semanario universidad https://semanariouniversidad.com/suplementos/la-ficcion-contemporanea-esta-sobrevalorada/)
 - The Art of Computer Programming, Volumes 1-4A Boxed Set by Donald Knuth
