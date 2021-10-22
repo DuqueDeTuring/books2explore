@@ -1474,6 +1474,7 @@ Libros a explorar / Books to explore
 - Walter Benjamin and the Media: The Spectacle of Modernity, by Jaeho Kang,
 - Waltzing with Bears: Managing Risk on Software Projects (Dorset House eBooks), Tom DeMarco
 - War and Peace and War: The Rise and Fall of Empires by Peter Turchin
+- Warspeak: Nietzsche's Victory over Nihilism.Lise van Boxel 
 - Washington's Long War on Syria (Stephen Gowans), Comentado en el blog “Zero Anthropology” (https://zeroanthropology.net/2018/05/10/book-review-washingtons-long-war-on-syria-by-stephen-gowans/)
 - Water for Elephants: A Novel	Water for Elephants: A Novel by Sara Gruen (Paperback) 
 - Water for Elephants: A Novel by Sara Gruen
