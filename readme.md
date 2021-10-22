@@ -64,6 +64,7 @@ Libros a explorar / Books to explore
 - Advanced Programming in the UNIX Environment
 - Advanced Topics in Types and Programming Languages (The MIT Press)	Advanced Topics in Types and Programming Languages (The MIT Press) by Ed. Pierce, Benjamin C. (Hardcover) 
 - Advanced Unix Programming	Advanced Unix Programming by Marc J. Rochkind (Paperback) 
+- Adventures of a Mathematician, S.M. Ulam
 - Against Elections by David Van Reybrouck
 - Against Empathy by Paul Bloom on Apple Books (Entrevista con el autor en Mindscape: https://itunes.apple.com/cr/podcast/sean-carrolls-mindscape-science-society-philosophy/id1406534739?l=en&mt=2&i=1000430105136 )
 - Against Interpretation: And Other Essays	Against Interpretation: And Other Essays by Susan Sontag (Paperback) 
