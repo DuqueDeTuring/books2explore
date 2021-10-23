@@ -1156,6 +1156,7 @@ Libros a explorar / Books to explore
 - The Existentialist's Survival Guide: How to Live Authentically in an Inauthentic Age by Gordon Marino
 - The Face of War	The Face of War by Martha Gellhorn (Paperback) 
 - The Facebook Effect: The Inside Story of the Company That Is Connecting the World by David Kirkpatrick
+- The Faces of Injustice. Shklar
 - The Fall by Albert Camus
 - The Family: The Secret Fundamentalism at the Heart of American Power
 - The Fascinating World of Graph Theory by Arthur Benjamin
