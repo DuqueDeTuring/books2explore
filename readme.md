@@ -1430,6 +1430,7 @@ Libros a explorar / Books to explore
 - Things That Make Us Smart: Defending Human Attributes In The Age Of The Machine (William Patrick Book)	Things That Make Us Smart: Defending Human Attributes In The Age Of The Machine (William Patrick Book) by Donald A. Norman (Paperback) 
 - Think: A Compelling Introduction to Philosophy by Simon Blackburn
 - This New Ocean: The Story of the First Space Age (Modern Library (Paperback)) by William E. Burrows
+- This Way for the Gas, Ladies and Gentlemen. Tadeusz Borowski
 - Thought Experiments in Science, Philosophy, and the Arts, Edited By Melanie Frappier, Letitia Meynell, James Robert Brown
 - Thoughts on Design	Thoughts on Design by Paul Rand, Michael Bierut (Kindle Edition) 
 - Thoughts on Design by Paul Rand
