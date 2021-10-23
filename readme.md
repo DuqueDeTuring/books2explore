@@ -489,6 +489,7 @@ Libros a explorar / Books to explore
 - Homo Sacer: Sovereign Power and Bare Life (Meridian: Crossing Aesthetics) by Giorgio Agamben
 - Honeybee Democracy	Honeybee Democracy by Thomas D. Seeley (Hardcover) 
 - Honoring the Code: Conversations with Great Game Designers (9781466567535): Matt Barton
+- Hope Against Hope. Nadezhda Mandelstam
 - Hope in the Dark: Untold Histories, Wild Possibilities	Hope in the Dark: Untold Histories, Wild Possibilities by Rebecca Solnit (Paperback) 
 - Horst: Sixty Years of Photography by Martin Kazmaier
 - How Adam Smith Can Change Your Life: An Unexpected Guide to Human Nature and Happiness, Russ Robert
