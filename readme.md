@@ -1194,6 +1194,7 @@ Libros a explorar / Books to explore
 - The Horse, the Wheel, and Language: How Bronze-Age Riders from the Eurasian
 - The House of Morgan: An American Banking Dynasty and the Rise of Modern Finance by Ron Chernow
 - The Human Condition: Second Edition by Hannah Arendt
+- The Human Touch: Our Part in the Creation of a Universe. Michael Frayn
 - the idea factory
 - The Idiot (Penguin Classics)	The Idiot (Penguin Classics) by Fyodor Dostoyevsky, David McDuff (Kindle Edition) 
 - The Illusion of Conscious Will (Bradford Books)	The Illusion of Conscious Will (Bradford Books) by Daniel M. Wegner (Hardcover) |
