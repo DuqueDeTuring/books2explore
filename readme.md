@@ -945,6 +945,7 @@ Libros a explorar / Books to explore
 - Science and the Production of Ignorance (https://mitpress.mit.edu/books/science-and-production-ignorance)
 - Science as a Way of Knowing: The Foundations of Modern Biology	Science as a Way of Knowing: The Foundations of Modern Biology by John A. Moore (Paperback) 
 - Science Ink: Tattoos of the Science Obsessed by Carl Zimmer
+- Science, Truth, and Democracy. Philip Kitcher
 - Scrolling Forward: Making Sense of Documents in the Digital Age, David M. Levy
 - Secrets of the Temple: How the Federal Reserve Runs the Country by William Greider
 - Secrets: A Memoir of Vietnam and the Pentagon Papers, Daniel Ellsberg
