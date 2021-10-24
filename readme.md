@@ -1196,6 +1196,7 @@ Libros a explorar / Books to explore
 - The House of Morgan: An American Banking Dynasty and the Rise of Modern Finance by Ron Chernow
 - The Human Condition: Second Edition by Hannah Arendt
 - The Human Touch: Our Part in the Creation of a Universe. Michael Frayn
+- The Icepick Surgeon: Murder, Fraud, Sabotage, Piracy, and Other Dastardly Deeds Perpetrated in the Name of Science. Sam Kean 
 - the idea factory
 - The Idiot (Penguin Classics)	The Idiot (Penguin Classics) by Fyodor Dostoyevsky, David McDuff (Kindle Edition) 
 - The Illusion of Conscious Will (Bradford Books)	The Illusion of Conscious Will (Bradford Books) by Daniel M. Wegner (Hardcover) |
