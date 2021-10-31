@@ -433,6 +433,7 @@ Libros a explorar / Books to explore
 - Genesis Redux: Essays in the History and Philosophy of Artificial Life by Jessica Riskin
 - Genius At Play: The Curious Mind of John Horton Conway
 - Genius: The Life and Science of Richard Feynman by James Gleick
+- Geniuses at War: Bletchley Park, Colossus, and the Dawn of the Digital Age. David Price.
 - Genome: The Autobiography of a Species in 23 Chapters	Genome: The Autobiography of a Species in 23 Chapters by Matt Ridley (Paperback) 
 - Geometry and the Imagination (AMS Chelsea Publishing)	Geometry and the Imagination (AMS Chelsea Publishing) by David Hilbert, S. Cohn-Vossen (Hardcover) |
 - Georg Simmel on Individuality and Social Forms (Heritage of Sociology Series) by Georg Simmel
