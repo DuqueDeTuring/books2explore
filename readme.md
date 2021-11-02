@@ -775,6 +775,7 @@ Libros a explorar / Books to explore
 - Number Theory: A Very Short Introduction (Very Short Introductions): Wilson, Robin: 9780198798095
 - Obfuscation A USER'S GUIDE FOR PRIVACY AND PROTEST By FINN BRUNTON and HELEN NISSENBAUM (https://www.penguinrandomhouse.com/books/657301/obfuscation-by-finn-brunton-and-helen-nissenbaum/)
 - Object-Oriented Software Construction (Book/CD-ROM) (2nd Edition) by Bertrand Meyer
+- Oblomov, Ivan Goncharov
 - Occam's Razor: An Outside-In View of Contemporary Photography	Occam's Razor: An Outside-In View of Contemporary Photography by Bill Jay (Paperback) |
 - Occidental Mythology (Masks of God)	Occidental Mythology (Masks of God) by Joseph Campbell (Paperback) |
 - Of Mice and Men	Of Mice and Men by John Steinbeck (Mass Market Paperback) 
