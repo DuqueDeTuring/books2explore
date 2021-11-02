@@ -1288,6 +1288,7 @@ Libros a explorar / Books to explore
 - The Oxford Handbook of Populism by Cristobal Rovira Kaltwasser
 - The Oxford History of the Classical World	The Oxford History of the Classical World by John Boardman, Jasper Griffin (Hardcover) 
 - The Pagan Religions of the Ancient British Isles: Their Nature and Legacy by Ronald Hutton
+- The Pale King. David Foster Wallace.
 - The Paradox of Choice by Barry Schwartz
 - The Particle at the End of the Universe: How the Hunt for the Higgs Boson Leads Us to the Edge of a New World by Sean Carroll
 - The Passionate State of Mind: And Other Aphorisms by Eric Hoffer
