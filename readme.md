@@ -341,6 +341,7 @@ Libros a explorar / Books to explore
 - Envisioning Information	Envisioning Information by Edward R. Tufte (Hardcover) 
 - Envisioning Information by Edward R. Tufte
 - Epidemics and society (https://yalebooks.yale.edu/book/9780300192216/epidemics-and-society)
+- Escape Through the Pyrenees. Lisa Fittko.
 - Escuela de aprendices (Ensayo), Marina Garcés.
 - Essay and Aphorisms, Arthur Schopenhauer
 - Essentials of Inventory Management	Essentials of Inventory Management by Max Muller (Hardcover) |
