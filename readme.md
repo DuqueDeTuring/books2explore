@@ -1300,6 +1300,7 @@ Libros a explorar / Books to explore
 - The Peripheral, William Gibson
 - The Philip K. Dick Collection: A Library of America Boxed Set by Philip K. Dick
 - The Philip K. Dick MEGAPACK ®: 15 Classic Science Fiction Stories	The Philip K. Dick MEGAPACK ®: 15 Classic Science Fiction Stories by Philip K. Dick (Kindle Edition) 
+- The Philosophical Breakfast Club: Four Remarkable Friends Who Transformed Science and Changed the World . By Laura J. Snyder
 - The Philosophy of Schopenhauer	The Philosophy of Schopenhauer by Bryan Magee (Paperback) 
 - The Philosophy of Simone de Beauvoir by Debra Bergoffen,
 - The Photographer's Eye: Composition and Design for Better Digital Photos	The Photographer's Eye: Composition and Design for Better Digital Photos by Michael Freeman (Paperback) 
