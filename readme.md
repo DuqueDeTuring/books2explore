@@ -1020,6 +1020,7 @@ Libros a explorar / Books to explore
 - Stranger in a Strange Land, Robert A. Heinlein
 - Strangers in Their Own Land: Anger and Mourning on the American Right by Arlie Russell Hochschild
 - Strangers to Ourselves: Discovering the Adaptive Unconscious by Timothy D. Wilson
+- Strongmen: From Mussolini to the Present. by Ruth Ben-Ghiat
 - Structural Model Error and the System Individuation Problem ("The first section of this provides a crash course on the basics of mathematical chaos theory aimed at philosophers")
 - Studyguide for Introduction To Operations Research by Hillier & Lieberman, ISBN 9780072462395 (Cram101 Textbook Outlines)	Studyguide for Introduction To Operations Research by Hillier & Lieberman, ISBN 9780072462395 (Cram101 Textbook Outlines)
 - Studying with Miss Bishop: Memoirs from a Young Writer’s Life by Dana Gioia
