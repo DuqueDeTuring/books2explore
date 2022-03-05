@@ -972,6 +972,7 @@ Libros a explorar / Books to explore
 - Silence	Silence by Shusako Endo (Paperback) 
 - Silence by Shusako Endo
 - Silencio by Shūsaku Endō  (En un post de reddit recomendado en una recomendación sobre ficción historia no occidental y/o blanca)
+- Silicon Values: The Future of Free Speech Under Surveillance Capitalism. by Jillian C. York
 - Simulacra and Simulation (The Body, In Theory: Histories of Cultural Materialism) by Jean Baudrillard
 - Six Degrees: The Science of a Connected Age by Duncan J. Watts
 - Six Disciplines for Excellence by Gary Harpst (2004-05-01)	Six Disciplines for Excellence by Gary Harpst (2004-05-01) by Gary Harpst (Paperback) 
