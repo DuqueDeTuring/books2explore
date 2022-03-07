@@ -910,6 +910,7 @@ Libros a explorar / Books to explore
 - Reasons and Persons by Derek Parfit
 - Reassembling the Social: An Introduction to Actor-Network-Theory (Clarendon Lectures in Management Studies)	Reassembling the Social: An Introduction to Actor-Network-Theory (Clarendon Lectures in Management Studies) by Bruno Latour (Paperback) 
 - Rebel Code: Linux And The Open Source Revolution	Rebel Code: Linux And The Open Source Revolution by Glyn Moody (Hardcover) |
+- Red Famine: Stalin's War on Ukraine . by Anne Applebaum
 - Red Mars (Mars Trilogy) by Kim Stanley Robinson
 - Red Notice: A True Story of High Finance, Murder, and One Man's Fight for Justice by Bill Browder
 - Refactoring Databases: Evolutionary Database Design	Refactoring Databases: Evolutionary Database Design by Scott W. Ambler, Pramod J. Sadalage (Hardcover) 
