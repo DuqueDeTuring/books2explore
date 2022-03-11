@@ -745,6 +745,7 @@ Libros a explorar / Books to explore
 - Narrative and Technology Ethics. Authors: Reijers, Wessel, Coeckelbergh, Mark
 - Naturalist	Naturalist by Edward O. Wilson (Paperback) |
 - Naturalist by Edward O. Wilson
+- Near Abroad: Putin, the West and the Contest over Ukraine and the Caucasus. by Gerard Toal.
 - Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices (The Morgan Kaufmann Series in Networking)	Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices (The Morgan Kaufmann Series in Networking) by George Varghese (Hardcover) 
 - Network Architecture and Development Series: Designing Routing and Switching Architectures	Network Architecture and Development Series: Designing Routing and Switching Architectures by Howard C. Berkowitz (Hardcover) |
 - Network Attacks and Exploitation: A Framework eBook: Monte, Matthew:
