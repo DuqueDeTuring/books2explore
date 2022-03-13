@@ -646,6 +646,7 @@ Libros a explorar / Books to explore
 - Like a Mother: A Feminist Journey Through the Science and Culture of Pregnancy - Kindle edition by Angela Garbes. Health, Fitness & Dieting Kindle eBooks . (Entrevista con autora en podcast “talk nerdy”)
 - Linguistics: An Introduction to Language and Communication, 6th edition (The MIT Press) by Adrian Akmajian
 - Lise Meitner: A Life in Physics (Volume 11) (9780520208605): Sime, Ruth Lewin
+- Lisp in Small Pieces. by Christian Queinnec
 - Literate Programming (Lecture Notes) by Donald E. Knuth
 - Logic for Philosophy, Theodore Sider
 - Logic	Logic by Wilfrid Hodges (Paperback) 
