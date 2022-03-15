@@ -1102,6 +1102,7 @@ Libros a explorar / Books to explore
 - The Cambridge Companion To Hannah Arendt (Cambridge Companions to Philosophy) by Ed. Villa, Dana
 - The Cambridge Companion to Heidegger's Being and Time (Cambridge Companions to Philosophy)	The Cambridge Companion to Heidegger's Being and Time (Cambridge Companions to Philosophy) by Mark A. Wrathall (Kindle Edition) |
 - The Cambridge Companion to the Stoics (Cambridge Companions to Philosophy) by Brad Inwood
+- The Cambridge History of Philosophy of the Scientific Revolution.
 - The Capitalist Manifesto	The Capitalist Manifesto by Andrew Bernstein (Paperback) 
 - The Checklist Manifesto
 - The Child in Time (Ian McEwan Series Book 1) - Kindle edition by Ian McEwan. Literature & Fiction Kindle eBooks . 
