@@ -1069,6 +1069,7 @@ Libros a explorar / Books to explore
 - The Art of Computer Programming, Volumes 1-4A Boxed Set by Donald Knuth
 - The Art of Deception: Controlling the Human Element of Security	The Art of Deception: Controlling the Human Element of Security by Kevin D. Mitnick, William L. Simon (Hardcover) 
 - The Art of Doing Science and Engineering. Richard W. Hamming
+- The Art of Electronics. by Paul Horowitz and Winfield Hill
 - The Art of Language Invention: From Horse-Lords to Dark Elves, the Words Behind World-Building (PENGUIN US) by David J. Peterson
 - The Art of Living: The Stoics on the Nature and Function of Philosophy (BCPaperbacks) by John Sellars
 - The Art of Pixar: 25th Anniv.: The Complete Color Scripts and Select Art from 25 Years of Animation	The Art of Pixar: 25th Anniv.: The Complete Color Scripts and Select Art from 25 Years of Animation by Amid Amidi (Hardcover) 
