@@ -1013,6 +1013,7 @@ Libros a explorar / Books to explore
 - Spying on Whales: The Past, Present, and Future of Earth's Most Awesome Creatures by Nick Pyenson
 - Spying on Whales: The Past, Present, and Future of Earth's Most Awesome Creatures: Nick Pyenson: 9780735224568: Books (Entrevista con autor en podcast “talk nerdy”)
 - SSH Mastery: OpenSSH, PuTTY, Tunnels and Keys (IT Mastery Book 1), Michael W. Lucas
+- Stalingrad. by Theodor Plievier
 - Standards Recipes for Reality, An investigation into standards, the invisible infrastructures of our technical, moral, social, and physical worlds. (https://mitpress.mit.edu/books/standards) 
 - Starring Ingrid Thulin, Gunnar Björnstrand (DVD) 
 - Starring John Coltrane, Dave Brubeck (DVD) |
