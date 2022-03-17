@@ -466,6 +466,7 @@ Libros a explorar / Books to explore
 - Hackers: Heroes of the Computer Revolution by Steven Levy
 - Handbook of Model Rocketry	Handbook of Model Rocketry by G. Harry Stine (Paperback) 
 - Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, Aurélien Géron
+- Hands-On RTOS with Microcontrollers: Building real-time embedded systems using FreeRTOS, STM32 MCUs, and SEGGER debug tools. by Brian Amos
 - Hannah Arendt and the Fragility of Human Dignity (En video de Samantha hill y Jon Macready)
 - Hard Landing: The Epic Contest for Power and Profits That Plunged the Airlines into Chaos by Thomas Petzinger Jr.
 - Hardwired Behavior: What Neuroscience Reveals about Morality	Hardwired Behavior: What Neuroscience Reveals about Morality by Laurence Tancredi (Hardcover) 
