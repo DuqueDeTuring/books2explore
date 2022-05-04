@@ -1386,6 +1386,7 @@ Libros a explorar / Books to explore
 - The Sports Gene: Inside the Science of Extraordinary Athletic Performance by David Epstein
 - The Stand, Stephen King
 - The Stars My Destination by Alfred Bester
+- The Story of Jane: The Legendary Underground Feminist Abortion Service. Laura Kaplan
 - The Story of My Life (Signet Classics)	The Story of My Life (Signet Classics) by Helen Keller, Lou Ann Walker (Mass Market Paperback) |
 - The Story of Philosophy (Touchstone Books) (Touchstone Books (Paperback)) by Will Durant
 - The Story of Writing: Alphabets, Hieroglyphs & Pictograms by Andrew Robinson
