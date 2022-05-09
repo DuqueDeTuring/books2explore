@@ -1146,6 +1146,8 @@ Libros a explorar / Books to explore
 - The Digital Person: Technology and Privacy in the Information Age by Daniel J Solove
 - The Discovery of France: A Historical Geography from the Revolution to the First World War	The Discovery of France: A Historical Geography from the Revolution to the First World War by Graham Robb (Hardcover) 
 - The Disordered Cosmos: A Journey into Dark Matter, Spacetime, and Dreams Deferred, Chanda Prescod-Weinstein
+- The Disappearance of Rituals: A Topology of the Present
+1st Edition.  Byung-Chul Han.
 - The Divide by Jason Hickel
 - The Doomsday Machine: Confessions of a Nuclear War Planner by Daniel Ellsberg
 - The Dream Machine: J. C. R. Licklider and the Revolution That Made Computing Personal, M. Mitchell Waldrop
