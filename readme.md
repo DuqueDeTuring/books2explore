@@ -852,6 +852,7 @@ Libros a explorar / Books to explore
 - Planetfall, Emma Newman
 - Plutocrats: The Rise of the New Global Super-Rich and the Fall of Everyone Else 
 - Poesía completa (Spanish Edition) by Alejandra Pizarnik
+- Poétique de la Relation. Édouard Glissant.
 - Poetry from the Future: Why a Global Liberation Movement Is Our Civilisation's Last Chance	Poetry from the Future: Why a Global Liberation Movement Is Our Civilisation's Last Chance by Srecko Horvat (Hardcover) 
 - Polar Obsession by Paul Nicklen
 - Political Action: A Practical Guide to Movement Politics (New York Review Books Classics)	Political Action: A Practical Guide to Movement Politics (New York Review Books Classics) by Michael Walzer, Jon Wiener (Paperback) 
