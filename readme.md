@@ -1351,6 +1351,7 @@ Libros a explorar / Books to explore
 - The Recursive Universe: Cosmic Complexity and the Limits of Scientific Knowledge (Dover Books on Science)
 - The Reflective Practitioner: How Professionals Think In Action by Donald A. Schon
 - The Relaxation & Stress Reduction Workbook	The Relaxation & Stress Reduction Workbook by Martha Davis, Matthew McKay (Paperback) 
+- The Relevance of the Beautiful and Other Essays. Hans-Georg Gadamer
 - The Remains of the Day by Kazuo Ishiguro
 - The Repeal of Reticence: America's Cultural and Legal Struggles Over Free Speech, Obscenity, Sexual Liberation, and Modern Art 
 - The Restless Clock: A History of the Centuries-Long Argument over What Makes Living Things Tick by Jessica Riskin
