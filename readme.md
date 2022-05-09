@@ -856,6 +856,7 @@ Libros a explorar / Books to explore
 - Poetry from the Future: Why a Global Liberation Movement Is Our Civilisation's Last Chance	Poetry from the Future: Why a Global Liberation Movement Is Our Civilisation's Last Chance by Srecko Horvat (Hardcover) 
 - Polar Obsession by Paul Nicklen
 - Political Action: A Practical Guide to Movement Politics (New York Review Books Classics)	Political Action: A Practical Guide to Movement Politics (New York Review Books Classics) by Michael Walzer, Jon Wiener (Paperback) 
+- olitical Theology: A Critical Introduction. Saul Newman.
 - Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty by Abhijit Banerjee
 - Por qué leer los clásicos (Biblioteca Calvino nº 19), Italo Calvino
 - Portraits: The World's Top Photographers	Portraits: The World's Top Photographers by Fergus Greer (Hardcover) |
