@@ -326,6 +326,7 @@ Libros a explorar / Books to explore
 - El hombre y la gente (Spanish Edition)	El hombre y la gente (Spanish Edition) by José Ortega y Gasset (Kindle Edition) |		$3.99	1	0
 - El largo camino hacia la libertad. La autobiografía de Nelson Mandela (Spanish Edition)	El largo camino hacia la libertad. La autobiografía de Nelson Mandela (Spanish Edition) by Nelson Mandela (Kindle Edition) |
 - Elements of Programming by Alexander A. Stepanov
+- Elite Capture. Olúfẹ́mi O. Táíwò 
 - Embodiment and the inner life: Cognition and Consciousness in the Space of Possible Minds by Murray Shanahan
 - Emergence: The Connected Lives of Ants, Brains, Cities, and Software by Steven Johnson
 - Emotional Design: Why We Love (or Hate) Everyday Things	Emotional Design: Why We Love (or Hate) Everyday Things by Don Norman (Hardcover) 
