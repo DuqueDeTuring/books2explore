@@ -802,6 +802,7 @@ Libros a explorar / Books to explore
 - On the Abolition of All Political Parties (NYRB Classics)	On the Abolition of All Political Parties (NYRB Classics) by Simone Weil, Simon Leys (Paperback) 
 - On the Advantage and Disadvantage of History for Life (Hackett Classics) by Friedrich Nietzsche
 - On the Fourfold Root of the Principle of Sufficient Reason and Other Writings, Arthur Schopenhauer.
+- On the pleasure principle in culture. Robert Pfaller.
 - On Tyranny: Twenty Lessons from the Twentieth Century by Timothy Snyder
 - On Writing Well: The Classic Guide to Writing Nonfiction	On Writing Well: The Classic Guide to Writing Nonfiction by William Zinsser (Paperback) 
 - On Writing: A Memoir Of The Craft, Stephen King
