@@ -1273,7 +1273,8 @@ Libros a explorar / Books to explore
 - The Mathematics of the Gods and the Algorithms of Men: A Cultural History by Paolo Zellini
 - The Mechanical Mind in History (https://mitpress.mit.edu/books/mechanical-mind-history)
 - The Mechanical Mind: A Philosophical Introduction to Minds, Machines and Mental Representation by Tim Crane
-- The Mechanism of Mind (Pelican)	The Mechanism of Mind (Pelican) by Edward de Bono (Paperback) |
+- The Mechanism of Mind (Pelican)	The Mechanism of Mind (Pelican) by Edward de Bono (Paperback) 
+- The Memory Police. Yōko Ogawa.
 - The Metaphysics of Truth	The Metaphysics of Truth by Douglas Edwards (Hardcover) 
 - The Mezzanine: A Novel	The Mezzanine: A Novel by Nicholson Baker (Kindle Edition) 
 - The Mismeasure of Man by Stephen Jay Gould
