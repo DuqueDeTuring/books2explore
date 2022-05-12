@@ -1182,6 +1182,7 @@ Libros a explorar / Books to explore
 - The Facebook Effect: The Inside Story of the Company That Is Connecting the World by David Kirkpatrick
 - The Faces of Injustice. Shklar
 - The Fall by Albert Camus
+- The fall of public man. Richard Sennett
 - The Family: The Secret Fundamentalism at the Heart of American Power
 - The Fascinating World of Graph Theory by Arthur Benjamin
 - The Feed: A Novel, Nick Clark Windo
