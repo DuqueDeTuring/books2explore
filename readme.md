@@ -793,6 +793,7 @@ Libros a explorar / Books to explore
 - On Complexity (Advances in Systems Theory, Complexity, and the Human Sciences) by Edgar Morin
 - On Earth as It Is in Heaven: Religion in Modern Latin America (Jaguar Books on Latin America) by Virginia Garrard-Burnett
 - On Evidence in Philosophy	On Evidence in Philosophy by William G. Lycan (Hardcover) 
+- On happiness. Alain
 - On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines	On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines by Jeff Hawkins, Sandra Blakeslee (Hardcover) 
 - On Kissing, Tickling, and Being Bored: Psychoanalytic Essays on the Unexamined Life, Adam Phillips (ref author by host @ the quarantined tapes episode 171)
 - On Language: Chomsky's Classic Works Language and Responsibility and Reflections on Language in One Volume	On Language: Chomsky's Classic Works Language and Responsibility and Reflections on Language in One Volume by Noam Chomsky, Mitsou Ronat (Paperback) 
