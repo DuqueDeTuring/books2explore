@@ -665,6 +665,7 @@ Libros a explorar / Books to explore
 - Love and Math: The Heart of Hidden Reality by Edward Frenkel
 - Love's Knowledge: Essays on Philosophy and Literature	Love's Knowledge: Essays on Philosophy and Literature by Martha C. Nussbaum (Paperback) 
 - Ludwig Wittgenstein: The Duty of Genius	Ludwig Wittgenstein: The Duty of Genius by Ray Monk (Paperback) 
+- Luhmann Explained: From souls to systems. Hans-Georg Moeller.
 - Lying: Moral Choice in Public and Private Life by Sissela Bok
 - Lyrical and Critical Essays by Albert Camus
 - Machine Beauty: Elegance And The Heart Of Technology (Repr Ed) (Masterminds)	Machine Beauty: Elegance And The Heart Of Technology (Repr Ed) (Masterminds) by David Gelernter (Paperback) 
