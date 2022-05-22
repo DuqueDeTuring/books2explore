@@ -1171,7 +1171,8 @@ Libros a explorar / Books to explore
 - The Elements of Typographic Style by Robert Bringhurst
 - The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind	The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind by Marvin Minsky (Hardcover) 
 - The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics (Oxford Landmark Science) by Roger Penrose
-- The Empire Strikes Back: The Original Motion Picture Soundtrack (Special Edition)	The Empire Strikes Back: The Original Motion Picture Soundtrack (Special Edition) by Williams, John, London Symphony Orchestra (Audio CD) |
+- The Empire of Fashion: Dressing Modern Democracy. Gilles Lipovetsky.
+- The Empire Strikes Back: The Original Motion Picture Soundtrack (Special Edition)	The Empire Strikes Back: The Original Motion Picture Soundtrack (Special Edition) by Williams, John, London Symphony Orchestra (Audio CD) 
 - The Empire Trap por Noel Maurer (Mencionado en https://americanaffairsjournal.org/2017/08/development-delusion-foreign-aid-inequality/)
 - The End of Everything (https://www.simonandschuster.com/books/The-End-of-Everything/Katie-Mack/9781982103545)
 - The End of Forgetting: Growing Up with Social Media	The End of Forgetting: Growing Up with Social Media by Kate Eichhorn (Hardcover) 
