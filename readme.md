@@ -2,6 +2,7 @@ Libros a explorar / Books to explore
 
 - 100 Diagrams That Changed the World: From the Earliest Cave Paintings to the Innovation of the iPod by Scott Christianson
 - 100 Poems to Break Your Heart, Edward Hirsch
+- 1491: New Revelations of the Americas Before Columbus . Charles C. Mann.
 - 2001: A Space Odyssey (Penguin Galaxy) by Arthur C. Clarke
 - 21 Lessons for the 21st Century by Yuval Noah Harari
 - 2666 (En español) (Spanish Edition) by Roberto Bolaño
