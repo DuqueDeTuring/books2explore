@@ -1015,6 +1015,7 @@ Libros a explorar / Books to explore
 - Sophie's Choice by William Styron
 - Soul Made Flesh: The Discovery of the Brain--and How it Changed the World	Soul Made Flesh: The Discovery of the Brain--and How it Changed the World by Carl Zimmer (Paperback) 
 - Soul Made Flesh: The Discovery of the Brain--and How it Changed the World by Carl Zimmer
+- Sound and Symbol: Music and the External World (Bollingen Series XLIV) . Victor Zuckerkandl 
 - Space Between Words: The Origins of Silent Reading (Figurae: Reading Medieval Culture)	Space Between Words: The Origins of Silent Reading (Figurae: Reading Medieval Culture) by Paul Saenger (Paperback) 
 - Space Shuttle: The First 20 Years -- The Astronauts' Experiences in Their Own Words	Space Shuttle: The First 20 Years -- The Astronauts' Experiences in Their Own Words by DK Publishing (Hardcover) 
 - Space, Time and the Limits of Human Understanding (The Frontiers Collection) by Shyam Wuppuluri
