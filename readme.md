@@ -570,7 +570,8 @@ Libros a explorar / Books to explore
 - Insanely Great: The Life and Times of Macintosh, the Computer that Changed Everything	Insanely Great: The Life and Times of Macintosh, the Computer that Changed Everything by Steven Levy (Paperback) |
 - Insanely Simple: The Obsession That Drives Apple's Success, Ken Segall
 - Inside Intel: Andy Grove and the Rise of the World's Most Powerful Chip Company by Tim Jackson
-- Inside Network Perimeter Security: The Definitive Guide to Firewalls, Vpns, Routers, and Intrusion Detection Systems	Inside Network Perimeter Security: The Definitive Guide to Firewalls, Vpns, Routers, and Intrusion Detection Systems by Lenny Zeltser, Scott Winters (Paperback) |
+- Inside Network Perimeter Security: The Definitive Guide to Firewalls, Vpns, Routers, and Intrusion Detection Systems	Inside Network Perimeter Security: The Definitive Guide to Firewalls, Vpns, Routers, and Intrusion Detection Systems by Lenny Zeltser, Scott Winters (Paperback) 
+- Intelligence: From Secrets to Policy . Mark M. Lowenthal .
 - Interconnections: Bridges, Routers, Switches, and Internetworking Protocols	Interconnections: Bridges, Routers, Switches, and Internetworking Protocols by Radia Perlman (Hardcover) 
 - Intrinsic Motivation and Self-Determination in Human Behavior (Perspectives in Social Psychology) https://www.amazon.com/Intrinsic-Motivation-Self-Determination-Perspectives-Psychology/dp/0306420228 (Fuente: En bibliografía del paper “World Discovery Models” (1902.07685.pdf) )
 - Introducing Time: A Graphic Guide by Craig Callender
