@@ -182,8 +182,8 @@ Libros a explorar / Books to explore
 - Building the Commune: Radical Democracy in Venezuela (Jacobin)	Building the Commune: Radical Democracy in Venezuela (Jacobin) by George Ciccariello-Maher (Kindle Edition) 
 - Burning Chrome by William Gibson
 - Burning Chrome, William Gibson
-- Business Data Networks and Telecommunications (4th Edition)	Business Data Networks and Telecommunications (4th Edition) by Raymond R. Panko, R. R. Panko (Hardcover) |
-- By R. M. Sainsbury - Paradoxes: 3rd (third) Edition by R. M. Sainsbury
+- Business Data Networks and Telecommunications (4th Edition)	Business Data Networks and Telecommunications (4th Edition) by Raymond R. Panko, R. R. Panko (Hardcover)
+- Byzantine and Renaissance Philosophy, A History of Philosophy Without Any Gaps, Volume 6. Peter Adamson. 
 - Cabling: The Complete Guide to Network Wiring	Cabling: The Complete Guide to Network Wiring by Jim McBee, David Groth (Hardcover) |
 - Cablox 8x8 Cable Management System 2-pack Black	Cablox 8x8 Cable Management System 2-pack Black
 - Calculated Surprises: A Philosophy of Computer Simulation (https://ndpr.nd.edu/news/calculated-surprises-a-philosophy-of-computer-simulation/)
@@ -830,6 +830,7 @@ Libros a explorar / Books to explore
 - Pale Blue Dot: A Vision of the Human Future in Space	Pale Blue Dot: A Vision of the Human Future in Space by Carl Sagan (Paperback) 
 - Pantone Postcard Box: 100 Postcards (Pantone Color Chip Card Set, Art Postcards)	Pantone Postcard Box: 100 Postcards (Pantone Color Chip Card Set, Art Postcards)
 - Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp	Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp by Peter Norvig (Paperback) 
+- Paradoxes: 3rd (third) Edition by R. M. Sainsbury
 - Paradoxes from A to Z by Michael Clark
 - Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming, Simon Marlow
 - Parenting an Only Child: the Joys and Challenges of Raising Your One and Only	Parenting an Only Child: the Joys and Challenges of Raising Your One and Only by Susan Newman (Paperback) 
