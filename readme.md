@@ -1315,9 +1315,10 @@ Libros a explorar / Books to explore
 - The Only Child: Being One, Loving One, Understanding One, Raising One	The Only Child: Being One, Loving One, Understanding One, Raising One by Darrell Sifford (Paperback) |
 - The Open Society and Its Enemies: New One-Volume Edition	The Open Society and Its Enemies: New One-Volume Edition by Karl R. Popper, Alan Ryan (Paperback) 
 - The Open: Man and Animal by Giorgio Agamben
-- THE ORIGINS OF PHOTOJOURNALISM IN AMERICA	THE ORIGINS OF PHOTOJOURNALISM IN AMERICA by MICHAEL L. CARLEBACH (Paperback) |
+- THE ORIGINS OF PHOTOJOURNALISM IN AMERICA	THE ORIGINS OF PHOTOJOURNALISM IN AMERICA by MICHAEL L. CARLEBACH (Paperback) 
+- The Oxford Handbook of Empirical Aesthetics. Marcos Nadal and Oshin Vartanian.
 - The Oxford Handbook of Populism by Cristobal Rovira Kaltwasser
-- The Oxford History of the Classical World	The Oxford History of the Classical World by John Boardman, Jasper Griffin (Hardcover) 
+- The Oxford History of the Classical World by John Boardman, Jasper Griffin 
 - The Pagan Religions of the Ancient British Isles: Their Nature and Legacy by Ronald Hutton
 - The Pale King. David Foster Wallace.
 - The Paradox of Choice by Barry Schwartz
