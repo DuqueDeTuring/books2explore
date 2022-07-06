@@ -1523,6 +1523,7 @@ Libros a explorar / Books to explore
 - Washington's Long War on Syria (Stephen Gowans), Comentado en el blog “Zero Anthropology” (https://zeroanthropology.net/2018/05/10/book-review-washingtons-long-war-on-syria-by-stephen-gowans/)
 - Water for Elephants: A Novel	Water for Elephants: A Novel by Sara Gruen (Paperback) 
 - Water for Elephants: A Novel by Sara Gruen
+- Ways of Being: Animals, Plants, Machines: The Search for a Planetary Intelligence. James Bridle.
 - Ways of Seeing: Based on the BBC Television Series (Penguin Books for Art)	Ways of Seeing: Based on the BBC Television Series (Penguin Books for Art) by John Berger (Paperback) 
 - Ways of Seeing: Based on the BBC Television Series (Penguin Books for Art) by John Berger
 - Ways of the World: A Brief Global History with Sources, Volume 1 by Robert W. Strayer
