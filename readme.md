@@ -1500,7 +1500,8 @@ Libros a explorar / Books to explore
 - Unholy Wars: Afghanistan, America and International Terrorism, by John Cooley
 - Unit Origami: Multidimensional Transformations	Unit Origami: Multidimensional Transformations by Tomoko Fuse (Paperback) 
 - Universal Principles of Design	Universal Principles of Design by William Lidwell, Kritina Holden (Hardcover) 
-- UNIX Network Programming: Networking APIs: Sockets and XTI; Volume 1	UNIX Network Programming: Networking APIs: Sockets and XTI; Volume 1 by W. Richard Stevens (Hardcover) |
+- UNIX Network Programming: Networking APIs: Sockets and XTI; Volume 1	UNIX Network Programming: Networking APIs: Sockets and XTI; Volume 1 by W. Richard Stevens (Hardcover) 
+- Un mundo común. Marina Garcés Mascareñas.
 - Unsung Heroes of World War II: The Story of the Navajo Code Talkers by Deanne Durrett
 - Unweaving the Rainbow: Science, Delusion and the Appetite for Wonder	Unweaving the Rainbow: Science, Delusion and the Appetite for Wonder by Richard Dawkins (Paperback) 
 - Ursula K. Le Guin: Always Coming Home (LOA #315): Author's Expanded Edition (Library of America Ursula K. Le Guin Edition) by Ursula K. Le Guin
