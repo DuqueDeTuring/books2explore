@@ -1170,6 +1170,7 @@ Libros a explorar / Books to explore
 - The Eagle's Gift	The Eagle's Gift by Carlos Castaneda (Paperback) 
 - The Eagle's Gift by Carlos Castaneda
 - The Early History of Rome: Books I-V of the History of Rome from its Foundation (Penguin Classics) (Bks. 1-5)	The Early History of Rome: Books I-V of the History of Rome from its Foundation (Penguin Classics) (Bks. 1-5) by Titus Livy, Aubrey de Selincourt (Mass Market Paperback) |
+- The Eichmann Trial. Deborah E. Lipstadt
 - The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory, Brian Greene
 - The Elements of Murder: A History of Poison	The Elements of Murder: A History of Poison by John Emsley (Hardcover) |
 - The Elements of Programming Style, 2nd Edition by Brian W. Kernighan
