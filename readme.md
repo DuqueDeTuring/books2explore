@@ -171,6 +171,7 @@ Libros a explorar / Books to explore
 - Bill Evans: How My Heart Sings by Mr. Peter Pettinger
 - Birth of a Theorem: A Mathematical Adventure, Cédric Villani
 - Black Skin, White Masks	Black Skin, White Masks by Frantz Fanon, Richard Philcox (Kindle Edition) 
+- Blindsight. Peter Watts
 - BLOND GHOST by David Corn
 - Bloodlands: Europe Between Hitler and Stalin by Timothy Snyder
 - Blue: In Search of Nature's Rarest Color , by Kai Kupferschmidt 
