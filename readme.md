@@ -724,6 +724,7 @@ Libros a explorar / Books to explore
 - Mental Immunity: Infectious Ideas, Mind-Parasites, and the Search for a Better Way to Think by Andy Norman
 - Merleau-Ponty: La Experiencia del Pensamiento, Marilena Chaui Souza 
 - Metáforas de la vida cotidiana (Teorema. Serie Menor) (Spanish Edition) by Mark Johnson
+- Metaphysical Animals: How Four Women Brought Philosophy Back to Life.
 - METRO 2033. (ENGLISH Ebook) The novel behind the METRO: LAST LIGHT video game., Dmitry Glukhovsky
 - Michel de Montaigne - The Complete Essays (Penguin Classics) by Michel de Montaigne
 - Michel Foucault: Beyond Structuralism and Hermeneutics	Michel Foucault: Beyond Structuralism and Hermeneutics by Hubert L. Dreyfus, Paul Rabinow (Kindle Edition) 
