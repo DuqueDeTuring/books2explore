@@ -488,6 +488,7 @@ Libros a explorar / Books to explore
 - Heuristics and Biases (The Psychology of Intuitive Judgement)	Heuristics and Biases (The Psychology of Intuitive Judgement) by Ed. Gilovich, Thomas (Paperback) 
 - Hiking with Nietzsche: On Becoming Who You Are by John Kaag
 - His Master's Voice by Stanislaw Lem
+- Historia del Rey Transparente. Rosa Montero.
 - History of Western Philosophy (Routledge Classics)	History of Western Philosophy (Routledge Classics) by Bertrand Russell (Paperback) |
 - Hitler: 1889-1936 Hubris by Ian Kershaw
 - Hitler: 1936-1945 Nemesis by Ian Kershaw
