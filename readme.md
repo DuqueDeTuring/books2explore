@@ -198,6 +198,7 @@ Libros a explorar / Books to explore
 - Catching Fire: How Cooking Made Us Human by Richard Wrangham
 - Causation in Science and the Methods of Scientific Discovery by Rani Lill Anjum
 - Chain of Command: The Road from 9/11 to Abu Ghraib (9780060195915): Seymour M. Hersh: Books
+- Camus: Portrait of a Moralist. Stephen Eric Bronner .
 - Chaos by James Gleick
 - Chaos Monkey‪s‬ Inside the Silicon Valley Money Machine by Antonio Garcia Martinez
 - Chaos: A Very Short Introduction (Very Short Introductions)	Chaos: A Very Short Introduction (Very Short Introductions) by Leonard Smith, Lenny Smith (Kindle Edition) 
