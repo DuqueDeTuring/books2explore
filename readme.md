@@ -449,6 +449,7 @@ Libros a explorar / Books to explore
 - Get Real: How to Tell It Like It Is in a World of Illusions. Eliane Glaser by Eliane Glaser
 - Global Catastrophes and Trends The Next Fifty Years By Vaclav Smil
 - Global Dystopias (Boston Review / Forum) by Junot Diaz
+- God: An Anatomy. Francesca Stavrakopoulou .
 - God Created the Integers: The Mathematical Breakthroughs that Changed History	God Created the Integers: The Mathematical Breakthroughs that Changed History by Stephen Hawking (Hardcover) 
 - Gödel's Proof
 - Gods and Robots: Myths, Machines, and Ancient Dreams of Technology by Adrienne Mayor
