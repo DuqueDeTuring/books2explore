@@ -650,6 +650,7 @@ Libros a explorar / Books to explore
 - Leibniz: A Very Short Introduction (Very Short Introductions)	Leibniz: A Very Short Introduction (Very Short Introductions) by Maria Rosa Antognazza (Kindle Edition) 
 - Leica m the Advanced School of Photography	Leica m the Advanced School of Photography by Gunter Osterloh (Hardcover) |
 - Legacy of Violence: A History of the British Empire. Caroline Elkins 
+- Les années. Annie Ernaux.
 - Lessons from a Dark Time and Other Essays by Adam Hochschild
 - Letters to My Palestinian Neighbor: Yossi Klein Halevi: 9780062844910
 - Leviathan (Penguin Classics) by Thomas Hobbes
