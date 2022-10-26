@@ -1527,6 +1527,7 @@ Libros a explorar / Books to explore
 - Visual Storytelling with D3: An Introduction to Data Visualization in JavaScript (Addison-wesley Data and Analytics)	Visual Storytelling with D3: An Introduction to Data Visualization in JavaScript (Addison-wesley Data and Analytics) by Ritchie S. King (Kindle Edition) 
 - VISUALIZING ABSTRACT OBJECTS AND RELATIONS (World Scientific Computer Science)	VISUALIZING ABSTRACT OBJECTS AND RELATIONS (World Scientific Computer Science) by Tomihisa Kamada (Hardcover) 
 - Voces de Chernóbil
+- Voices in the Code: A Story about People, Their Values, and the Algorithm They Made. David G. Robinson .
 - Voodoo Science: The Road from Foolishness to Fraud by Robert L. Park
 - Walter Benjamin and the Media: The Spectacle of Modernity, by Jaeho Kang,
 - Waltzing with Bears: Managing Risk on Software Projects (Dorset House eBooks), Tom DeMarco
