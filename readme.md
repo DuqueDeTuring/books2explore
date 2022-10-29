@@ -945,6 +945,7 @@ Libros a explorar / Books to explore
 - Reflections on Kurt Gödel	Reflections on Kurt Gödel by Hao Wang (Paperback) 
 - Reflections on Literature and Culture (Meridian: Crossing Aesthetics) by Hannah Arendt
 - Reflexiones sobre las causas de la libertad y de la opresión social (Spanish Edition)	Reflexiones sobre las causas de la libertad y de la opresión social (Spanish Edition) by Simone Weil, Rafael Blanco Vázquez (Kindle Edition) 
+- Regenesis: Feeding the World Without Devouring the Planet. George Monbiot.
 - Reliable Software Through Composite Design by Glenford J. Myers
 - Remember Me: Memory and Forgetting in the Digital Age. Davide Sisto.
 - Republic, Lost: How Money Corrupts Congress--and a Plan to Stop It by Lawrence Lessig
