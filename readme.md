@@ -314,6 +314,7 @@ Libros a explorar / Books to explore
 - Doctor Ecco's Cyberpuzzles by Dennis E. Shasha
 - Dolores Claiborne: A Novel	Dolores Claiborne: A Novel by Stephen King (Mass Market Paperback) 
 - Don't Sleep, There Are Snakes: Life and Language in the Amazonian Jungle (Vintage Departures) by Daniel L. Everett
+- Don't Think for Yourself, Authority and Belief in Medieval Philosophy. Peter Adamson.
 - Dostoevsky: Reminiscences by Anna Dostoevsky
 - Down and Out in the New Economy: How People Find (or Don’t Find) Work Today, Ilana Gershon
 - Dragon's Egg by Robert L. Forward
