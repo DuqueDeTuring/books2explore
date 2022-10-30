@@ -308,6 +308,7 @@ Libros a explorar / Books to explore
 - Discourses, Fragments, Handbook (Oxford World's Classics)
 - Discrete or Continuous? (The Quest for Fundamental Length in Modern Physics)  (Recomendado por Booch a Carmack en Twitter)
 - Discriminating Sex: White Leisure and the Making of the American "Oriental" UI Press | Amy Sueyoshi | (Entrevista con la autora en podcast “against the grain”)
+- Divine Invasions: A Life of Philip K. Dick . Lawrence Sutin . 
 - Do Fathers Matter?: What Science Is Telling Us About the Parent We've Overlooked by Paul Raeburn
 - Do Not Say We Have Nothing by Madeleine Thien (En un post de reddit recomendado en una recomendación sobre ficción historia no occidental y/o blanca)
 - Doctor Ecco's Cyberpuzzles	Doctor Ecco's Cyberpuzzles by Dennis E. Shasha (Paperback) 
