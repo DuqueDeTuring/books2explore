@@ -491,6 +491,7 @@ Libros a explorar / Books to explore
 - Henri Cartier-Bresson and the Artless Art	Henri Cartier-Bresson and the Artless Art by Jean-Pierre Montier, Henri Cartier-Bresson (Hardcover) 
 - Henri Cartier-Bresson: Scrapbook	Henri Cartier-Bresson: Scrapbook by Michel Frizot, Henri Cartier-Bresson (Hardcover) 
 - Heuristics and Biases (The Psychology of Intuitive Judgement)	Heuristics and Biases (The Psychology of Intuitive Judgement) by Ed. Gilovich, Thomas (Paperback) 
+- Hieroglyphs: unlocking ancient Egypt. Llona Regulski.
 - Hiking with Nietzsche: On Becoming Who You Are by John Kaag
 - His Master's Voice by Stanislaw Lem
 - Historia del Rey Transparente. Rosa Montero.
