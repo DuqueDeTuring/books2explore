@@ -732,6 +732,7 @@ Libros a explorar / Books to explore
 - Mensa Logic Puzzles	Mensa Logic Puzzles by Chronicle Books Staff (Misc. Supplies) 
 - Menswear Revolution por Jay McCauley Bowstead (Entrevista con el autor en el podcast thinking allowed, episodio "Menswear Revolution" )
 - Mental Immunity: Infectious Ideas, Mind-Parasites, and the Search for a Better Way to Think by Andy Norman
+- Mere Civility: Disagreement and the Limits of Toleration. Teresa M. Bejan. 
 - Merleau-Ponty: La Experiencia del Pensamiento, Marilena Chaui Souza 
 - Metáforas de la vida cotidiana (Teorema. Serie Menor) (Spanish Edition) by Mark Johnson
 - Metaphysical Animals: How Four Women Brought Philosophy Back to Life.
