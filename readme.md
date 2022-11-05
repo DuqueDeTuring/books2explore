@@ -1247,7 +1247,8 @@ Libros a explorar / Books to explore
 - The Icepick Surgeon: Murder, Fraud, Sabotage, Piracy, and Other Dastardly Deeds Perpetrated in the Name of Science. Sam Kean 
 - the idea factory
 - The Idiot (Penguin Classics)	The Idiot (Penguin Classics) by Fyodor Dostoyevsky, David McDuff (Kindle Edition) 
-- The Illusion of Conscious Will (Bradford Books)	The Illusion of Conscious Will (Bradford Books) by Daniel M. Wegner (Hardcover) |
+- The Illusion of Conscious Will (Bradford Books)	The Illusion of Conscious Will (Bradford Books) by Daniel M. Wegner (Hardcover) 
+- The Immortal King Rao. Vauhini Vara .
 - The Imperative (Studies in Continental Thought)
 - The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future, Kevin Kelly
 - The Infinite Conversation 1992 • Author: Maurice Blanchot (En introducción de “what is philosophy”)
