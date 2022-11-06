@@ -387,6 +387,7 @@ Libros a explorar / Books to explore
 - Fall; or, Dodge in Hell: A Novel	Fall; or, Dodge in Hell: A Novel by Neal Stephenson (Hardcover) 
 - Falling to Earth: An Apollo 15 Astronaut's Journey to the Moon by Al Worden
 - Family Values and the Rise of the Christian Right, Seth Dowland (ref “Jesus and John Wayne”, chapter 4,8)
+- Fancy Bear Goes Phishing: The Dark History of the Information Age, in Five Extraordinary Hacks . Scott J. Shapiro .
 - Fantastic Numbers and Where to Find Them. Antonio Padilla.
 - Fascism, Power, and Individual Rights: Escape from Freedom, To Have or To Be?, and The Anatomy of Human Destructiveness	Fascism, Power, and Individual Rights: Escape from Freedom, To Have or To Be?, and The Anatomy of Human Destructiveness by Erich Fromm (Kindle Edition) |
 - Fashion Magazine by Alec Soth (v. 3)	Fashion Magazine by Alec Soth (v. 3) by Alec Soth, Karl Lagerfeld (Paperback) |
