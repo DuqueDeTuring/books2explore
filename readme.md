@@ -1480,6 +1480,7 @@ Libros a explorar / Books to explore
 - The World As I See It	The World As I See It by Albert Einstein (Paperback) |
 - The World as Will and Representation, Arthur Schopenhauer
 - The World Encyclopedia of Calligraphy: The Ultimate Compendium on the Art of Fine Writing-History, Craft, Technique by Christopher Calderhead
+- The World of Yesterday. Stefan Zweig .
 - The World Outside Your Head: On Becoming an Individual in an Age of Distraction.
 - The World Viewed: Reflections on the Ontology of Film, Enlarged Edition (Harvard Film Studies)	The World Viewed: Reflections on the Ontology of Film, Enlarged Edition (Harvard Film Studies) by Stanley Cavell (Paperback) 
 - The Writing Life by Annie Dillard
