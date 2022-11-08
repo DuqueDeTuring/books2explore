@@ -304,6 +304,7 @@ Libros a explorar / Books to explore
 - Dialogues Concerning Natural Religion (Hackett Classics) by David Hume
 - Digital Apollo: Human and Machine in Spaceflight (The MIT Press) by David A. Mindell
 - Digital Capitalism: Networking the Global Market System by Daniel Schiller
+- Digital Lethargy: Dispatches from an Age of Disconnection. Tung-Hui Hu .
 - Digital Typography (Lecture Notes) by Donald E. Knuth
 - Discourses, Fragments, Handbook (Oxford World's Classics)
 - Discrete or Continuous? (The Quest for Fundamental Length in Modern Physics)  (Recomendado por Booch a Carmack en Twitter)
