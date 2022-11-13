@@ -146,6 +146,7 @@ Libros a explorar / Books to explore
 - Aurora by Kim Stanley Robinson
 - Authentication: From Passwords to Public Keys	Authentication: From Passwords to Public Keys by Richard E. Smith (Paperback) |
 - Automated Software Testing: Introduction, Management, and Performance: Introduction, Management, and Performance	Automated Software Testing: Introduction, Management, and Performance: Introduction, Management, and Performance by Elfriede Dustin, Jeff Rashka (Paperback) 
+- Babel-17. Samuel R. Delany.
 - Back Channel to Cuba: The Hidden History of Negotiations between Washington and Havana by William M. LeoGrande
 - Bad News From Israel by Greg Philo
 - Basic Algebra I: Second Edition (Dover Books on Mathematics) by Nathan Jacobson
