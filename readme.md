@@ -1510,6 +1510,7 @@ Libros a explorar / Books to explore
 - To Save Everything, Click Here: The Folly of Technological Solutionism, Evgeny Morozov
 - Tom Sparrow's The End of Phenomenology. (Via Reddit: https://reddit.com/r/askphilosophy/comments/fatp4p/what_are_the_most_recent_last_10_years_new/)
 - Trading Up: Why Consumers Want New Luxury Goods... And How Companies Create Them (Revised and Updated)	Trading Up: Why Consumers Want New Luxury Goods... And How Companies Create Them (Revised and Updated) by Michael J. Silverstein, Neil Fiske (Hardcover) 
+- Treasured: How Tutankhamun Shaped a Century. Christina Riggs.
 - Tribe: On Homecoming and Belonging: Sebastian Junger: 9781455566389
 - True Names: And the Opening of the Cyberspace Frontier by Vernor Vinge
 - Turing's Cathedral: The Origins of the Digital Universe by George Dyson
