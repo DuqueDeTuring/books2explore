@@ -169,6 +169,7 @@ Libros a explorar / Books to explore
 - Better Off: Flipping the Switch on Technology (P.S.) by Eric Brende
 - Between Christ and Caliph: Law, Marriage, and Christian Community in Early Islam (Divinations: Rereading Late Ancient Religion)	Between Christ and Caliph: Law, Marriage, and Christian Community in Early Islam (Divinations: Rereading Late Ancient Religion) by Lev E. Weitz (Hardcover) 
 - Between Two Worlds: The Construction of the Ottoman State by Cemal Kafadar
+- Beyond Data, Reclaiming Human Rights at the Dawn of the Metaverse. Elizabeth M. Renieris.
 - Beyond Fear: Thinking Sensibly About Security in an Uncertain World. by Bruce Schneier
 - Bilbo's Last Song: (At the Grey Havens) by J. R. R. Tolkien
 - Bill Evans: How My Heart Sings by Mr. Peter Pettinger
