@@ -22,6 +22,7 @@ Libros a explorar / Books to explore
 - A Fire Upon The Deep (Zones of Thought, 1). Vernor Vinge .
 - A Forest of Symbols: Art, Science, and Truth in the Long Nineteenth Century (Zone Books)	A Forest of Symbols: Art, Science, and Truth in the Long Nineteenth Century (Zone Books) by Andrei Pop (Hardcover) 
 - A Guide to the Good Life: The Ancient Art of Stoic Joy by William B. Irvine
+- A Half-Built Garden [Ruthanna Emrys]
 - A Half Century of Occupation by Gershon Shafir
 - A Higher Call: An Incredible True Story of Combat and Chivalry in the War-Torn Skies of World War II	A Higher Call: An Incredible True Story of Combat and Chivalry in the War-Torn Skies of World War II by Adam Makos, Larry Alexander (Hardcover) 
 - A history of Ancient Rome, Mary beard 
