@@ -1022,6 +1022,7 @@ Libros a explorar / Books to explore
 - Smithsonian Intimate Guide to Human Origins	Smithsonian Intimate Guide to Human Origins by Carl Zimmer (Hardcover) 
 - Sneaking a Look at God's Cards: Unraveling the Mysteries of Quantum Mechanics - Revised Edition by Giancarlo Ghirardi
 - Social Anarchism
+- Social Science, Technical Systems, and Cooperative Work: Beyond the Great Divide. 
 - Society Must Be Defended": Lectures at the Collège de France, 1975-1976 (Michel Foucault Lectures at the Collège de France, 5) by Michel Foucault
 - Society Of The Spectacle by Guy DEBORD
 - Sociobiology — Edward O. Wilson | Harvard University Press (http://www.hup.harvard.edu/catalog.php?isbn=9780674002357) (referencia encontrada en el libro socialanarchism@ibooks)
