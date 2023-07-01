@@ -210,6 +210,7 @@ Libros a explorar / Books to explore
 - Chaos: Making a New Science	Chaos: Making a New Science by James Gleick (Paperback) 
 - Chaos: The Making of a New Science	Chaos: The Making of a New Science by James Gleick (Hardcover) 
 - Charmin To Go Seat Covers	Charmin To Go Seat Covers
+- Chip War: The Fight for the World's Most Critical Technology. Chris Miller
 - Citadelle. Antoine de Saint-Exupéry
 - Citizenship by Dimitry Kochenov: 9780262537797
 - Citizenship, Dimitry Kochenov. (https://mitpress.mit.edu/books/citizenship)
