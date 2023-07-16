@@ -349,6 +349,7 @@ Libros a explorar / Books to explore
 - Empire of Illusion: The End of Literacy and the Triumph of Spectacle by Chris Hedges
 - Empty Ideas: A Critique of Analytic Philosophy	Empty Ideas: A Critique of Analytic Philosophy by Peter Unger (Hardcover) 
 - Endgame: Bobby Fischer's Remarkable Rise and Fall - from America's Brightest Prodigy to the Edge of Madness by Frank Brady
+- Endurance: Shackleton's Incredible Voyage. Alfred Lansing.
 - Energy and Civilization: A History (The MIT Press) by Vaclav Smil
 - Engineering and the Mind's Eye (The MIT Press) by Eugene S. Ferguson
 - Engines of Creation: The Coming Era of Nanotechnology (Anchor Library of Science)	Engines of Creation: The Coming Era of Nanotechnology (Anchor Library of Science) by Eric Drexler (Paperback) 
