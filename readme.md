@@ -1535,7 +1535,8 @@ Libros a explorar / Books to explore
 - UNIX Network Programming: Networking APIs: Sockets and XTI; Volume 1	UNIX Network Programming: Networking APIs: Sockets and XTI; Volume 1 by W. Richard Stevens (Hardcover) 
 - Un mundo común. Marina Garcés Mascareñas.
 - Unsung Heroes of World War II: The Story of the Navajo Code Talkers by Deanne Durrett
-- Unweaving the Rainbow: Science, Delusion and the Appetite for Wonder	Unweaving the Rainbow: Science, Delusion and the Appetite for Wonder by Richard Dawkins (Paperback) 
+- Unweaving the Rainbow: Science, Delusion and the Appetite for Wonder	Unweaving the Rainbow: Science, Delusion and the Appetite for Wonder by Richard Dawkins (Paperback)
+- Un sac de billes. Joseph Joffo.
 - Ursula K. Le Guin: Always Coming Home (LOA #315): Author's Expanded Edition (Library of America Ursula K. Le Guin Edition) by Ursula K. Le Guin
 - Ursula K. Le Guin: The Hainish Novels and Stories: A Library of America Boxed Set by Ursula K. Le Guin
 - Utopia Is Creepy: And Other Provocations by Nicholas Carr
