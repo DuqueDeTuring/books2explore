@@ -1415,7 +1415,8 @@ Libros a explorar / Books to explore
 - The Secret History of Wonder Woman by Jill Lepore
 - The Secret Life of the Mind por Mariano 
 - The Self Illusion: How the Social Brain Creates Identity by Bruce Hood
-- The Sense of Style, Pinker 
+- The Sense of Style, Pinker
+- The Shepherd's Life: Modern Dispatches from an Ancient Landscape. James Rebanks.
 - The Shockwave Rider by John Brunner
 - The silk roads, peter frankopan 
 - The Singing Life Of Birds: The Art And Science Of Listening To Birdsong	The Singing Life Of Birds: The Art And Science Of Listening To Birdsong by Donald Kroodsma (Hardcover) 
