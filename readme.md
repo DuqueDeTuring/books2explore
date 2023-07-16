@@ -1296,6 +1296,7 @@ Libros a explorar / Books to explore
 - The Making of a Cybertariat: Virtual Work in a Real World by Ursula Huws
 - The Making of a Quagmire: America and Vietnam During the Kennedy Era by David Halberstam
 - The Making of the English Working Class, E. P. Thompson
+- The Man from the Future: The Visionary Ideas of John von Neumann. Ananyo Bhattacharya.
 - The Man Who Knew Infinity: A Life of the Genius Ramanujan: Robert Kanigel: 9780671750619
 - The Man Who Smiled (Kurt Wallander Series) by Henning Mankell
 - The Man Who Tasted Shapes (A Bradford Book)	The Man Who Tasted Shapes (A Bradford Book) by Richard E. Cytowic, Jonathan Cole (Kindle Edition) |
