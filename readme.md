@@ -664,6 +664,7 @@ Libros a explorar / Books to explore
 - Les années. Annie Ernaux.
 - Lessons from a Dark Time and Other Essays by Adam Hochschild
 - Letters to My Palestinian Neighbor: Yossi Klein Halevi: 9780062844910
+- L'événement. Annie Ernaux.
 - Leviathan (Penguin Classics) by Thomas Hobbes
 - Leviathan Wakes (The Expanse Book 1)	Leviathan Wakes (The Expanse Book 1) by James S. A. Corey (Kindle Edition) |
 - Liar's Poker: Rising Through the Wreckage on Wall Street	Liar's Poker: Rising Through the Wreckage on Wall Street by Michael Lewis (Paperback) 
