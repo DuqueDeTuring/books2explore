@@ -6,30 +6,30 @@ Libros a explorar / Books to explore
 - 2001: A Space Odyssey (Penguin Galaxy) by Arthur C. Clarke
 - 21 Lessons for the 21st Century by Yuval Noah Harari
 - 2666 (En español) (Spanish Edition) by Roberto Bolaño
-- 500 Cameras: 170 Years of Photographic Innovation	500 Cameras: 170 Years of Photographic Innovation by George Eastman House, Todd Gustavson (Paperback) |
-- A Beautiful Mind: A Biography of John Forbes Nash, Jr., Winner of the Nobel Prize in Economics, 1994	A Beautiful Mind: A Biography of John Forbes Nash, Jr., Winner of the Nobel Prize in Economics, 1994 by Sylvia Nasar (Paperback) 
+- 500 Cameras: 170 Years of Photographic Innovation	500 Cameras: 170 Years of Photographic Innovation by George Eastman House, Todd Gustavson 
+- A Beautiful Mind: A Biography of John Forbes Nash, Jr., Winner of the Nobel Prize in Economics, 1994 by Sylvia Nasar  
 - A Biography of the Pixel, Alvy Ray Smith
 - A Book of Abstract Algebra: Second Edition (Dover Books on Mathematics)
 - A Brief History of Artificial Intelligence, Michael Wooldridge
 - A Brief History of the Paradox: Philosophy and the Labyrinths of the Mind by Roy Sorensen
 - A Brief History of the Philosophy of Time by Adrian Bardon
-- A Briefer History of Time: The Science Classic Made More Accessible	A Briefer History of Time: The Science Classic Made More Accessible by Stephen Hawking, Leonard Mlodinow (Paperback) 
+- A Briefer History of Time: The Science Classic Made More Accessible	A Briefer History of Time: The Science Classic Made More Accessible by Stephen Hawking, Leonard Mlodinow  
 - A Column of Fire, Kingsbridge trilogy,  Ken Follett
-- A Deepness in the Sky	A Deepness in the Sky by Vernor Vinge (Paperback) |
+- A Deepness in the Sky	A Deepness in the Sky by Vernor Vinge 
 - A Deepness in the Sky (Zones of Thought)  
-- A Discipline for Software Engineering	A Discipline for Software Engineering by Watts S. Humphrey (Hardcover) 
+- A Discipline for Software Engineering	A Discipline for Software Engineering by Watts S. Humphrey  
 - A Fine Balance by Rohinton Mistry (En un post de reddit recomendado en una recomendación sobre ficción historia no occidental y/o blanca)
-- A Fire Upon The Deep (Zones of Thought, 1). Vernor Vinge .
-- A Forest of Symbols: Art, Science, and Truth in the Long Nineteenth Century (Zone Books)	A Forest of Symbols: Art, Science, and Truth in the Long Nineteenth Century (Zone Books) by Andrei Pop (Hardcover) 
+- A Fire Upon The Deep (Zones of Thought, 1). Vernor Vinge
+- A Forest of Symbols: Art, Science, and Truth in the Long Nineteenth Century (Zone Books) by Andrei Pop  
 - A Guide to the Good Life: The Ancient Art of Stoic Joy by William B. Irvine
 - A Half-Built Garden [Ruthanna Emrys]
 - A Half Century of Occupation by Gershon Shafir
-- A Higher Call: An Incredible True Story of Combat and Chivalry in the War-Torn Skies of World War II	A Higher Call: An Incredible True Story of Combat and Chivalry in the War-Torn Skies of World War II by Adam Makos, Larry Alexander (Hardcover) 
-- A history of Ancient Rome, Mary beard 
+- A Higher Call: An Incredible True Story of Combat and Chivalry in the War-Torn Skies of World War II by Adam Makos, Larry Alexander  
+- A history of Ancient Rome, Mary Beard 
 - A History of Modern Computing (History of Computing) by Paul E. Ceruzzi
-- A History of Modern Iran	A History of Modern Iran by Ervand Abrahamian (Hardcover) 
-- A History of Saudi Arabia	A History of Saudi Arabia by Madawi al-Rasheed (Paperback) 
-- A History of the Theories of Aether & Electricity: Two Volumes Bound As One	A History of the Theories of Aether & Electricity: Two Volumes Bound As One by Edmund T. Whittaker (Paperback) 
+- A History of Modern Iran	A History of Modern Iran by Ervand Abrahamian  
+- A History of Saudi Arabia	A History of Saudi Arabia by Madawi al-Rasheed  
+- A History of the Theories of Aether & Electricity: Two Volumes Bound As One by Edmund T. Whittaker  
 - A Little Hatred (The Age of Madness, 1) by Joe Abercrombie
 - A Living Work of Art: The Life and Science of Hendrik Antoon Lorentz, A. J. Kox
 - A Madman Dreams of Turing Machines by Janna Levin
@@ -37,40 +37,40 @@ Libros a explorar / Books to explore
 - A Man on the Moon: The Voyages of the Apollo Astronauts by Andrew Chaikin
 - A Mathematician's Apology: 0 (Canto Classics), G. H. Hardy
 - A Mind at Play: How Claude Shannon Invented the Information Age, Jimmy Soni
-- A More Perfect Heaven	A More Perfect Heaven by Dava Sobel (Paperback) 
+- A More Perfect Heaven	A More Perfect Heaven by Dava Sobel  
 - A New Philosophy of Society: Assemblage Theory and Social Complexity by Manuel DeLanda
 - A Paradise Built in Hell: The Extraordinary Communities That Arise in Disaster by Rebecca Solnit
 - A Pattern Language: Towns, Buildings, Construction (Center for Environmental Structure Series) by Christopher Alexander
 - A Peace to End All Peace: The Fall of the Ottoman Empire and the Creation of the Modern Middle East by David Fromkin
 - A Perfect Moral Storm: The Ethical Tragedy of Climate Change (Environmental Ethics and Science Policy Series) (9780199985142): Stephen M. Gardiner: Books
-- A Philosophical Essay on Probabilities (Dover Books on Mathematics)	A Philosophical Essay on Probabilities (Dover Books on Mathematics) by Pierre-Simon Laplace (Paperback) 
+- A Philosophical Essay on Probabilities (Dover Books on Mathematics) by Pierre-Simon Laplace  
 - A Philosophy of Software Design, John Ousterhout
-- A Practical Guide to Designing Expert Systems	A Practical Guide to Designing Expert Systems by Sholom M. Weiss, Casimir A. Kulikowski (Hardcover) 
-- A Practitioner's Guide to Software Test Design (Artech House Computing Library)	A Practitioner's Guide to Software Test Design (Artech House Computing Library) by Lee Copeland (Kindle Edition) 
+- A Practical Guide to Designing Expert Systems	by Sholom M. Weiss, Casimir A. Kulikowski  
+- A Practitioner's Guide to Software Test Design (Artech House Computing Library) by Lee Copeland  
 - A Primate's Memoir: A Neuroscientist's Unconventional Life Among the Baboons by Robert M. Sapolsky
 - A Primer for Forgetting: Getting Past the Past, Lewis Hyde (Ref podcast “a phone call from Paul”, episode 2020-07-02)
-- A Profile of Mathematical Logic (Dover Books on Mathematics) (source:GEB, libro que inspiró al autor.)
+- A Profile of Mathematical Logic (Dover Books on Mathematics) (source:GEB, book that inspired the writer / libro que inspiró al autor.)
 - A Sound of Thunder and Other Stories by Ray Bradbury
-- A Supposedly Fun Thing I'll Never Do Again: Essays and Arguments	A Supposedly Fun Thing I'll Never Do Again: Essays and Arguments by David Foster Wallace (Paperback) 
-- A Technical Guide to IPSec Virtual Private Networks	A Technical Guide to IPSec Virtual Private Networks by James S. Tiller (Paperback) 
-- A Theory of Jerks and Other Philosophical Misadventures (The MIT Press)	A Theory of Jerks and Other Philosophical Misadventures (The MIT Press) by Eric Schwitzgebel (Hardcover) 
+- A Supposedly Fun Thing I'll Never Do Again: Essays and Arguments by David Foster Wallace  
+- A Technical Guide to IPSec Virtual Private Networks by James S. Tiller  
+- A Theory of Jerks and Other Philosophical Misadventures (The MIT Press) by Eric Schwitzgebel  
 - A Very Short Tour of the Mind: 21 Short Walks Around the Human Brain by Michael Corballis
 - A Wizard of Earthsea (The Earth-sea Cycle Series Book 1), Ursula K. Le Guin
 - A World Without Time: The Forgotten Legacy of Godel and Einstein by Palle Yourgrau
-- A worthy tradition: Freedom of speech in America	A worthy tradition: Freedom of speech in America by Harry Kalven (Hardcover) |
-- About Time: Cosmology and Culture at the Twilight of the Big Bang: Adam Frank: 9781439169605: Books (Referencia en “the order of time”)
+- A worthy tradition: Freedom of speech in America by Harry Kalven 
+- About Time: Cosmology and Culture at the Twilight of the Big Bang: Adam Frank: 9781439169605: Books (Ref. in “The order of time”)
 - Accelerando (Singularity Book 3), Charles Stross
-- ACM Turing Award Lectures : The First Twenty Years : 1966 to 1985 (ACM Press Anthology Series)	ACM Turing Award Lectures : The First Twenty Years : 1966 to 1985 (ACM Press Anthology Series) by Robert L. Ashenhurst (Hardcover) |
+- ACM Turing Award Lectures : The First Twenty Years : 1966 to 1985 (ACM Press Anthology Series) by Robert L. Ashenhurst
 - Active Measures: The Secret History of Disinformation and Political Warfare by Thomas Rid
-- Adobe Photoshop Master Class: The Essential Guide to Revisioning Photography	Adobe Photoshop Master Class: The Essential Guide to Revisioning Photography by John Paul Caponigro (Paperback) |
-- Advanced Linux Networking	Advanced Linux Networking by Roderick W. Smith (Paperback) 
+- Adobe Photoshop Master Class: The Essential Guide to Revisioning Photography by John Paul Caponigro 
+- Advanced Linux Networking	Advanced Linux Networking by Roderick W. Smith  
 - Advanced Programming in the UNIX Environment
-- Advanced Topics in Types and Programming Languages (The MIT Press)	Advanced Topics in Types and Programming Languages (The MIT Press) by Ed. Pierce, Benjamin C. (Hardcover) 
-- Advanced Unix Programming	Advanced Unix Programming by Marc J. Rochkind (Paperback) 
+- Advanced Topics in Types and Programming Languages (The MIT Press) by Ed. Pierce, Benjamin C.  
+- Advanced Unix Programming	Advanced Unix Programming by Marc J. Rochkind  
 - Adventures of a Mathematician, S.M. Ulam
 - Against Elections by David Van Reybrouck
 - Against Empathy by Paul Bloom on Apple Books (Entrevista con el autor en Mindscape: https://itunes.apple.com/cr/podcast/sean-carrolls-mindscape-science-society-philosophy/id1406534739?l=en&mt=2&i=1000430105136 )
-- Against Interpretation: And Other Essays	Against Interpretation: And Other Essays by Susan Sontag (Paperback) 
+- Against Interpretation: And Other Essays by Susan Sontag  
 - Age of Anger: A History of the Present
 - Agents of Influence: Britain’s Secret Intelligence War Against the IRA, Aaron Edwards
 - AI and Humanity By Illah Reza Nourbakhsh and Jennifer Keating
@@ -83,16 +83,16 @@ Libros a explorar / Books to explore
 - Algorithm Design by KLEINBERG
 - Algorithms (4th Edition): Robert Sedgewick, Kevin Wayne: 8601419534142
 - Algorithms + Data Structures = Programs (Prentice-Hall Series in Automatic Computation) by Niklaus Wirth
-- Algorithms and Theory of Computation Handbook (Chapman & Hall/CRC Applied Algorithms and Data Structures series)	Algorithms and Theory of Computation Handbook (Chapman & Hall/CRC Applied Algorithms and Data Structures series) by Mikhail J. Atallah (Hardcover) 
+- Algorithms and Theory of Computation Handbook (Chapman & Hall/CRC Applied Algorithms and Data Structures series) by Mikhail J. Atallah  
 - Algorithms in C, Parts 1-5 (Bundle): Fundamentals, Data Structures, Sorting, Searching, and Graph Algorithms by Robert Sedgewick
-- Algorithms on Strings, Trees, and Sequences: Computer Science and Computational Biology	Algorithms on Strings, Trees, and Sequences: Computer Science and Computational Biology by Dan Gusfield (Hardcover) 
+- Algorithms on Strings, Trees, and Sequences: Computer Science and Computational Biology by Dan Gusfield  
 - Algorithms to Live By: The Computer Science of Human Decisions, Brian Christian
 - Algorithms Unlocked (MIT Press), Thomas H. Cormen
 - Algorithms, Fourth Edition: Book and 24-Part Lecture Series by Robert Sedgewick
 - All the Light We Cannot See: A Novel by Anthony Doerr
 - All the Mathematics You Missed: But Need to Know for Graduate School
 - Alone Together: Why We Expect More from Technology and Less from Each Other by Sherry Turkle
-- Always Day One: How the Tech Titans Plan to Stay on Top Forever	Always Day One: How the Tech Titans Plan to Stay on Top Forever by Alex Kantrowitz (Kindle Edition) 
+- Always Day One: How the Tech Titans Plan to Stay on Top Forever by Alex Kantrowitz  
 - An Infamous Past: E.M. Cioran and the Rise of Fascism in Romania, Marta Petreu
 - Ancient Egypt: Anatomy of a Civilization. By Barry J. Kemp
 - And: Phenomenology of the End (Semiotext(e) / Foreign Agents) (9781584351702): Franco "Bifo" Berardi: Books s(recomendado en podcast “Philosophy of our times”, episodio E104, 20180724)
@@ -101,208 +101,187 @@ Libros a explorar / Books to explore
 - The One Device: The Secret History of the iPhone (9780316546164): Brian Merchant: Books
 - American Babylon: Christianity and Democracy Before and After Trump (Routledge Focus on Religion) , by Philip Gorski
 - American Fascists: The Christian Right and the War on America by Chris Hedges
-- American Photojournalism Comes of Age	American Photojournalism Comes of Age by Michael L. Carlebach (Paperback) |
+- American Photojournalism Comes of Age	American Photojournalism Comes of Age by Michael L. Carlebach 
 - American Power and the New Mandarins: Historical and Political Essays by Noam Chomsky
 - Amusing Ourselves to Death: Public Discourse in the Age of Show Business by Neil Postman
 - Amusing Ourselves to Death: Public Discourse in the Age of Show Business, Neil Postman
 - An Enquiry concerning Human Understanding (Oxford World's Classics) by David Hume
-- An Inner Silence: The Portraits of Henri Cartier-Bresson	An Inner Silence: The Portraits of Henri Cartier-Bresson by Agnès Sire, Jean-Luc Nancy (Paperback) |
-- An Introduction to Broadband Networks: LANs, MANs, ATM, B-ISDN, and Optical Networks for Integrated Multimedia Telecommunications (Applications of Communications Theory)	An Introduction to Broadband Networks: LANs, MANs, ATM, B-ISDN, and Optical Networks for Integrated Multimedia Telecommunications (Applications of Communications Theory) by Anthony S. Acampora (Hardcover) 
-- An Introduction to Database Systems	An Introduction to Database Systems by C.J. Date (Paperback) 
-- An Introduction to Database Systems (v. 1)	An Introduction to Database Systems (v. 1) by C. J. Date (Hardcover) 
+- An Inner Silence: The Portraits of Henri Cartier-Bresson by Agnès Sire, Jean-Luc Nancy 
+- An Introduction to Broadband Networks: LANs, MANs, ATM, B-ISDN, and Optical Networks for Integrated Multimedia Telecommunications (Applications of Communications Theory) by Anthony S. Acampora  
+- An Introduction to Database Systems	An Introduction to Database Systems by C.J. Date  
+- An Introduction to Database Systems (v. 1)	An Introduction to Database Systems (v. 1) by C. J. Date  
 - An Introduction to Functional Programming Through Lambda Calculus (Dover Books on Mathematics) by Greg Michaelson
 - Anathem, Neal Stephenson
 - Anatomica, Joanna Ebenstein (ref: interview with author in talk nerdy, episode 2021-02-01)
-- Anatomy for the Artist	Anatomy for the Artist by Sarah Simblet, John Davis (Hardcover) 
+- Anatomy for the Artist	Anatomy for the Artist by Sarah Simblet, John Davis  
 - Angels and Ages: Lincoln, Darwin, and the Birth of the Modern Age by Adam Gopnik
-- Ansel Adams at 100	Ansel Adams at 100 by Ansel Adams, John Szarkowski (Paperback) |
-- ANSI Common LISP	ANSI Common LISP by Paul Graham (Paperback) 
-- Ansible for DevOps: Server and configuration management for humans	Ansible for DevOps: Server and configuration management for humans by Jeff Geerling (Kindle Edition) |
-- Anthropology of Religion, Magic, and Witchcraft	Anthropology of Religion, Magic, and Witchcraft by Rebecca L. Stein, Philip L. Stein (Paperback) |
+- Ansel Adams at 100	Ansel Adams at 100 by Ansel Adams, John Szarkowski 
+- ANSI Common LISP	ANSI Common LISP by Paul Graham  
+- Ansible for DevOps: Server and configuration management for humans	Ansible for DevOps: Server and configuration management for humans by Jeff Geerling 
+- Anthropology of Religion, Magic, and Witchcraft	Anthropology of Religion, Magic, and Witchcraft by Rebecca L. Stein, Philip L. Stein 
 - Antifragile: Things That Gain from Disorder (Incerto), Nassim Nicholas Taleb
-- Antisocial Media: https://itunes.apple.com/cr/book/antisocial-media/id1373798514?l=en&mt=11
+- Antisocial Media
 - Antología poética: Edición actualizada (El libro de bolsillo - Literatura) (Spanish Edition) by Antonio Gamoneda
 - Aphorisms (The Schocken Kafka Library) by Franz Kafka
 - Apollo 13 by Jim Lovell
-- Apple Confidential 2.0: The Definitive History of the World's Most Colorful Company	Apple Confidential 2.0: The Definitive History of the World's Most Colorful Company by Owen Linzmayer, Owen W. Linzmayer (Paperback) |
-- Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and the Unified Process (2nd Edition)	Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and the Unified Process (2nd Edition) by Craig Larman (Hardcover) 
+- Apple Confidential 2.0: The Definitive History of the World's Most Colorful Company by Owen Linzmayer, Owen W. Linzmayer 
+- Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and the Unified Process (2nd Edition) by Craig Larman  
 - Architectural Intelligence: How Designers and Architects Created the Digital Landscape (The MIT Press) by Molly Wright Steenson
-- Are Your Lights On?: How to Figure Out What the Problem Really Is	Are Your Lights On?: How to Figure Out What the Problem Really Is by Donald C. Gause, Gerald M. Weinberg (Paperback) 
-- Are Your Lights On?: How to Figure Out What the Problem Really Is by Donald C. Gause
-- Arendt, Camus, and Modern Rebellion	Arendt, Camus, and Modern Rebellion by Jeffrey C. Isaac (Paperback) 
+- Are Your Lights On?: How to Figure Out What the Problem Really Is	Are Your Lights On?: How to Figure Out What the Problem Really Is by Donald C. Gause, Gerald M. Weinberg  
 - Arendt, Camus, and Modern Rebellion by Jeffrey C. Isaac
-- Art & Fear: Observations On the Perils (and Rewards) of Artmaking	Art & Fear: Observations On the Perils (and Rewards) of Artmaking by David Bayles, Ted Orland (Paperback) 
-- Art & Fear: Observations On the Perils (and Rewards) of Artmaking by David Bayles
-- Art and Illusion: A Study in the Psychology of Pictorial Representation (Bollingen)	Art and Illusion: A Study in the Psychology of Pictorial Representation (Bollingen) by E. H. Gombrich (Paperback) |
+- Art & Fear: Observations On the Perils (and Rewards) of Artmaking by David Bayles, Ted Orland  
+- Art and Illusion: A Study in the Psychology of Pictorial Representation (Bollingen) by E. H. Gombrich 
 - Art of Atari by Tim Lapetino
 - Art of Computer Programming
-- Art of Software Security Assessment, The: Identifying and Preventing Software Vulnerabilities	Art of Software Security Assessment, The: Identifying and Preventing Software Vulnerabilities by John McDonald, Mark Down (Kindle Edition) 
+- Art of Software Security Assessment, The: Identifying and Preventing Software Vulnerabilities	Art of Software Security Assessment, The: Identifying and Preventing Software Vulnerabilities by John McDonald, Mark Down  
 - Artifacts of Thinking: Reading Hannah Arendt's Denktagebuch by Roger Berkowitz
-- Artificial Intelligence: A Guide for Thinking Humans	Artificial Intelligence: A Guide for Thinking Humans by Melanie Mitchell (Hardcover) 
+- Artificial Intelligence: A Guide for Thinking Humans	Artificial Intelligence: A Guide for Thinking Humans by Melanie Mitchell  
 - Assembly Codes: The Logistics of Media. Matthew Hockenberry (Editor)
-- Assessment and Control of Software Risks	Assessment and Control of Software Risks by Capers Jones (Hardcover) 
+- Assessment and Control of Software Risks	Assessment and Control of Software Risks by Capers Jones  
 - Aspiration: The Agency of Becoming, Agnes Callard
-- Atamazon.com$0.00	1	0
-- August Sander: People of the 20th Century (7 Volume Set)	August Sander: People of the 20th Century (7 Volume Set) by Susanne Lange, Gabriele Conrath-Scholl (Hardcover) |
+- August Sander: People of the 20th Century (7 Volume Set) by Susanne Lange, Gabriele Conrath-Scholl 
 - Aurora by Kim Stanley Robinson
-- Authentication: From Passwords to Public Keys	Authentication: From Passwords to Public Keys by Richard E. Smith (Paperback) |
-- Automated Software Testing: Introduction, Management, and Performance: Introduction, Management, and Performance	Automated Software Testing: Introduction, Management, and Performance: Introduction, Management, and Performance by Elfriede Dustin, Jeff Rashka (Paperback) 
+- Authentication: From Passwords to Public Keys	Authentication: From Passwords to Public Keys by Richard E. Smith 
+- Automated Software Testing: Introduction, Management, and Performance: Introduction, Management, and Performance	Automated Software Testing: Introduction, Management, and Performance: Introduction, Management, and Performance by Elfriede Dustin, Jeff Rashka  
 - Babel-17. Samuel R. Delany.
 - Back Channel to Cuba: The Hidden History of Negotiations between Washington and Havana by William M. LeoGrande
 - Bad News From Israel by Greg Philo
 - Basic Algebra I: Second Edition (Dover Books on Mathematics) by Nathan Jacobson
 - Basic Algebra II: Second Edition (Dover Books on Mathematics) by Nathan Jacobson
-- Basic Category Theory for Computer Scientists (Foundations of Computing)	Basic Category Theory for Computer Scientists (Foundations of Computing) by Benjamin C. Pierce (Paperback) |
+- Basic Category Theory for Computer Scientists (Foundations of Computing)	Basic Category Theory for Computer Scientists (Foundations of Computing) by Benjamin C. Pierce 
 - Basic Category Theory for Computer Scientists (Foundations of Computing) by Benjamin C. Pierce
-- Basic Economics:  A Citizen's Guide to the Economy	Basic Economics: A Citizen's Guide to the Economy by Thomas Sowell (Hardcover) |
+- Basic Economics:  A Citizen's Guide to the Economy	Basic Economics: A Citizen's Guide to the Economy by Thomas Sowell 
 - Basic Simple Type Theory (Cambridge Tracts in Theoretical Computer Science, Series Number 42) by J. Roger Hindley
 - Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference (Addison-Wesley Data & Analytics Series), Cameron Davidson-Pilon
 - Before the Pyramids: The Origins of Egyptian Civilization. By Emily Teeter
 - Behave: The Biology of Humans at Our Best and Worst by Robert M. Sapolsky
-- Behind Human Error 2nd Edition. Sidney Dekker.
-- Behold, America: The Entangled History of "America First" and "the American Dream". Sarah Churchwell.
-- Being and Time	Being and Time by Martin Heidegger (Kindle Edition) 
+- Behind Human Error 2nd Edition. Sidney Dekker
+- Behold, America: The Entangled History of "America First" and "the American Dream". Sarah Churchwell
+- Being and Time	Being and Time by Martin Heidegger  
 - Beowulf (https://www.mcdbooks.com/books/beowulf)
 - Beren and Lúthien by J.R.R. Tolkien
 - Bertrand Russell by Ray Monk
-- Best Practice in Inventory Management	Best Practice in Inventory Management by Tony Wild (Hardcover) 
-- Better Off: Flipping the Switch on Technology (P.S.)	Better Off: Flipping the Switch on Technology (P.S.) by Eric Brende (Paperback) 
+- Best Practice in Inventory Management	Best Practice in Inventory Management by Tony Wild  
+- Better Off: Flipping the Switch on Technology (P.S.)	Better Off: Flipping the Switch on Technology (P.S.) by Eric Brende  
 - Better Off: Flipping the Switch on Technology (P.S.) by Eric Brende
-- Between Christ and Caliph: Law, Marriage, and Christian Community in Early Islam (Divinations: Rereading Late Ancient Religion)	Between Christ and Caliph: Law, Marriage, and Christian Community in Early Islam (Divinations: Rereading Late Ancient Religion) by Lev E. Weitz (Hardcover) 
+- Between Christ and Caliph: Law, Marriage, and Christian Community in Early Islam (Divinations: Rereading Late Ancient Religion) by Lev E. Weitz  
 - Between Two Worlds: The Construction of the Ottoman State by Cemal Kafadar
 - Beyond Data, Reclaiming Human Rights at the Dawn of the Metaverse. Elizabeth M. Renieris.
 - Beyond Fear: Thinking Sensibly About Security in an Uncertain World. by Bruce Schneier
 - Bilbo's Last Song: (At the Grey Havens) by J. R. R. Tolkien
 - Bill Evans: How My Heart Sings by Mr. Peter Pettinger
 - Birth of a Theorem: A Mathematical Adventure, Cédric Villani
-- Black Skin, White Masks	Black Skin, White Masks by Frantz Fanon, Richard Philcox (Kindle Edition) 
+- Black Skin, White Masks	Black Skin, White Masks by Frantz Fanon, Richard Philcox  
 - Blindsight. Peter Watts
 - BLOND GHOST by David Corn
 - Bloodlands: Europe Between Hitler and Stalin by Timothy Snyder
 - Blue: In Search of Nature's Rarest Color , by Kai Kupferschmidt 
 - Blues castellano by Antonio Gamoneda
-- Breaking the Spell: Religion as a Natural Phenomenon	Breaking the Spell: Religion as a Natural Phenomenon by Daniel C. Dennett (Paperback) 
 - Breaking the Spell: Religion as a Natural Phenomenon by Daniel C. Dennett
 - Building God's Kingdom: Inside the World of Christian Reconstruction, Julie J. Ingersoll (ref “Jesus and John Wayne, chapter 4,1)
-- Building Internet Firewalls	Building Internet Firewalls by Elizabeth D. Zwicky, Brent Chapman (Paperback) |
-- Building the Commune: Radical Democracy in Venezuela (Jacobin)	Building the Commune: Radical Democracy in Venezuela (Jacobin) by George Ciccariello-Maher (Kindle Edition) 
+- Building Internet Firewalls	Building Internet Firewalls by Elizabeth D. Zwicky, Brent Chapman 
+- Building the Commune: Radical Democracy in Venezuela (Jacobin)	Building the Commune: Radical Democracy in Venezuela (Jacobin) by George Ciccariello-Maher  
 - Burning Chrome by William Gibson
-- Burning Chrome, William Gibson
-- Business Data Networks and Telecommunications (4th Edition)	Business Data Networks and Telecommunications (4th Edition) by Raymond R. Panko, R. R. Panko (Hardcover)
+- Business Data Networks and Telecommunications (4th Edition) by Raymond R. Panko, R. R. Panko 
 - Byzantine and Renaissance Philosophy, A History of Philosophy Without Any Gaps, Volume 6. Peter Adamson. 
-- Cabling: The Complete Guide to Network Wiring	Cabling: The Complete Guide to Network Wiring by Jim McBee, David Groth (Hardcover) |
-- Cablox 8x8 Cable Management System 2-pack Black	Cablox 8x8 Cable Management System 2-pack Black
+- Cabling: The Complete Guide to Network Wiring	Cabling: The Complete Guide to Network Wiring by Jim McBee, David Groth 
 - Calculated Surprises: A Philosophy of Computer Simulation (https://ndpr.nd.edu/news/calculated-surprises-a-philosophy-of-computer-simulation/)
 - Camus and Sartre: The Story of a Friendship and the Quarrel That Ended It, Ronald Aronso.
 - Capital in the Twenty-First Century is a 2013 book by French economist Thomas Piketty.
-- Cartesian Linguistics: A Chapter in the History of Rationalist Thought	Cartesian Linguistics: A Chapter in the History of Rationalist Thought by Noam Chomsky (Hardcover) 
+- Cartesian Linguistics: A Chapter in the History of Rationalist Thought by Noam Chomsky  
 - Cartoon History of the Universe Volumes 1-7 by Larry Gonick
-- Catch and Release: Trout Fishing and the Meaning of Life	Catch and Release: Trout Fishing and the Meaning of Life by Mark Kingwell (Kindle Edition) 
 - Catch and Release: Trout Fishing and the Meaning of Life by Mark Kingwell
 - Catching Fire: How Cooking Made Us Human by Richard Wrangham
 - Causation in Science and the Methods of Scientific Discovery by Rani Lill Anjum
 - Chain of Command: The Road from 9/11 to Abu Ghraib (9780060195915): Seymour M. Hersh: Books
 - Camus: Portrait of a Moralist. Stephen Eric Bronner .
 - Chaos by James Gleick
-- Chaos Monkey‪s‬ Inside the Silicon Valley Money Machine by Antonio Garcia Martinez
-- Chaos: A Very Short Introduction (Very Short Introductions)	Chaos: A Very Short Introduction (Very Short Introductions) by Leonard Smith, Lenny Smith (Kindle Edition) 
+- Chaos Monkeys: Inside the Silicon Valley Money Machine by Antonio Garcia Martinez
 - Chaos: A Very Short Introduction by Lenny Smith
-- Chaos: Making a New Science	Chaos: Making a New Science by James Gleick (Paperback) 
-- Chaos: The Making of a New Science	Chaos: The Making of a New Science by James Gleick (Hardcover) 
+- Chaos: The Making of a New Science James Gleick  
 - Charmin To Go Seat Covers	Charmin To Go Seat Covers
 - Chip War: The Fight for the World's Most Critical Technology. Chris Miller
 - Citadelle. Antoine de Saint-Exupéry
-- Citizenship by Dimitry Kochenov: 9780262537797
 - Citizenship, Dimitry Kochenov. (https://mitpress.mit.edu/books/citizenship)
 - City of Thieves: A Novel, David Benioff
 - Classical Philosophy: A history of philosophy without any gaps, Volume 1 by Peter Adamson
-- Clause and Effect: Prolog Programming for the Working Programmer	Clause and Effect: Prolog Programming for the Working Programmer by William F. Clocksin (Paperback) 
 - Clause and Effect: Prolog Programming for the Working Programmer by William F. Clocksin
 - Clock Of The Long Now: Time And Responsibility: The Ideas Behind The World's Slowest Computer
-- CLOSE TO THE MACHINE	CLOSE TO THE MACHINE by ELLEN ULLMAN (Paperback) 
-- CLOSE TO THE MACHINE by ELLEN ULLMAN
+- Close to the machine by Ellen Ullman
 - Cloud Atlas por David Mitchell
-- Code Generation in Action	Code Generation in Action by Jack Herrington (Paperback) 
-- Code Reading: The Open Source Perspective	Code Reading: The Open Source Perspective by Diomidis Spinellis, Ross Venables (Paperback) 
+- Code Generation in Action	Code Generation in Action by Jack Herrington  
+- Code Reading: The Open Source Perspective	Code Reading: The Open Source Perspective by Diomidis Spinellis, Ross Venables  
 - Coding Democracy, How Hackers Are Disrupting Power, Surveillance, and Authoritarianism
 - Colossus: The secrets of Bletchley Park's code-breaking computers by B. Jack Copeland
-- Combinatorial Optimization: Algorithms and Complexity (Dover Books on Computer Science)	Combinatorial Optimization: Algorithms and Complexity (Dover Books on Computer Science) by Christos H. Papadimitriou, Kenneth Steiglitz (Paperback) 
-- Combinatorial Optimization: Networks and Matroids (Dover Books on Mathematics)	Combinatorial Optimization: Networks and Matroids (Dover Books on Mathematics) by Eugene Lawler (Paperback) 
+- Combinatorial Optimization: Algorithms and Complexity (Dover Books on Computer Science) by Christos H. Papadimitriou, Kenneth Steiglitz  
+- Combinatorial Optimization: Networks and Matroids (Dover Books on Mathematics) by Eugene Lawler  
 - Command and Control: Nuclear Weapons, the Damascus Accident, and the Illusion of Safety by Eric Schlosser
 - Communicating sequential processes (Prentice-Hall International series in computer science) by C.A.R. Hoare
-- Complexity: A Guided Tour	Complexity: A Guided Tour by Melanie Mitchell (Hardcover) 
-- Computability | The MIT Press https://mitpress.mit.edu/books/computability
+- Complexity: A Guided Tour	Complexity: A Guided Tour by Melanie Mitchell  
+- Computability. The MIT Press https://mitpress.mit.edu/books/computability
 - Computer Architecture: A Quantitative Approach 
-- Computer Architecture: Concepts and Evolution	Computer Architecture: Concepts and Evolution by Gerritt A. Blaauw, Frederick P. Brooks Jr. (Hardcover) |
-- Concepts of Modern Mathematics (Dover Books on Mathematics)	Concepts of Modern Mathematics (Dover Books on Mathematics) by Ian Stewart (Paperback) 
-- Conceptual Blockbusting: A Guide to Better Ideas	Conceptual Blockbusting: A Guide to Better Ideas by James L. Adams (Paperback) 
+- Computer Architecture: Concepts and Evolution	Computer Architecture by Gerritt A. Blaauw, Frederick P. Brooks Jr. 
+- Concepts of Modern Mathematics (Dover Books on Mathematics) (Dover Books on Mathematics) by Ian Stewart  
+- Conceptual Blockbusting: A Guide to Better Ideas	Conceptual Blockbusting: A Guide to Better Ideas by James L. Adams  
 - Conceptual Mathematics (A First Introduction to Categories) by F. William Lawvere
-- Confessions of a Philosopher: A Personal Journey Through Western Philosophy from Plato to Popper (Modern Library (Paperback))	Confessions of a Philosopher: A Personal Journey Through Western Philosophy from Plato to Popper (Modern Library (Paperback)) by Bryan Magee (Paperback) 
+- Confessions of a Philosopher: A Personal Journey Through Western Philosophy from Plato to Popper (Modern Library ) by Bryan Magee  
 - Conquest of Abundance: A Tale of Abstraction versus the Richness of Being, by Paul Feyerabend 
 - Consent of the Networked: The Worldwide Struggle For Internet Freedom by Rebecca MacKinnon
 - Contagion - Historical Views of Diseases and Epidemics (https://academic.oup.com/jah/article-abstract/101/4/1357/825982)
 - Contemporary Abstract Algebra by Joseph Gallian
-- Contemporary Newspaper Design	Contemporary Newspaper Design by John D. Berry, Roger Black (Hardcover) 
-- Contra el fascismo (Spanish Edition)	Contra el fascismo (Spanish Edition) by Umberto Eco (Kindle Edition) 
-- Core Mac Osx And Unix Programming	Core Mac Osx And Unix Programming by Mark Dalrymple, Aaron Hillegass (Paperback) |
+- Contemporary Newspaper Design	Contemporary Newspaper Design by John D. Berry, Roger Black  
+- Contra el fascismo (Spanish Edition) by Umberto Eco
+- Core Mac Osx And Unix Programming	Core Mac Osx And Unix Programming by Mark Dalrymple, Aaron Hillegass 
 - Corelli's Mandolin: A Novel by Louis de Bernieres
 - Cosmonaut Keep (Engines of Light) (Bk.1) by Ken MacLeod
 - Counterrevolution: The Global Rise of the Far Right (Agrarian Change and Peasant Studies) by Walden Bello
 - Creating Symmetry: The Artful Mathematics of Wallpaper Patterns by Frank A. Farris
 - Crises of the Republic: Lying in Politics; Civil Disobedience; On Violence; Thoughts on Politics and Revolution by Hannah Arendt
-- Crises of the Republic: Lying in Politics; Civil Disobedience; On Violence; Thoughts on Politics and Revolution, Hannah Arendt
-- Cry Havoc: How the Arms Race Drove the World to War, 1931-1941 (https://www.amazon.com/Cry-Havoc-Drove-World-1931-1941/dp/0465011144/ref=sr_1_10?dchild=1&keywords=cry+havoc&qid=1597499822&sr=8-10)
-- Crypto: How the Code Rebels Beat the Government--Saving Privacy in the Digital Age	Crypto: How the Code Rebels Beat the Government--Saving Privacy in the Digital Age by Steven Levy (Hardcover) 
-- Cryptography Engineering: Design Principles and Practical Applications	Cryptography Engineering: Design Principles and Practical Applications by Niels Ferguson, Bruce Schneier (Paperback) 
-- Cryptography Engineering: Design Principles and Practical Applications by Niels Ferguson
-- Crystal Clear: A Human-Powered Methodology for Small Teams: A Human-Powered Methodology for Small Teams	Crystal Clear: A Human-Powered Methodology for Small Teams: A Human-Powered Methodology for Small Teams by Alistair Cockburn, Alistair Paul Becker (Paperback) 
-- CUCKOO'S EGG	CUCKOO'S EGG by Clifford Stoll (Kindle Edition) 
-- CUCKOO'S EGG by Clifford Stol
+- Cry Havoc: How the Arms Race Drove the World to War, 1931-1941
+- Crypto: How the Code Rebels Beat the Government--Saving Privacy in the Digital Age by Steven Levy  
+- Cryptography Engineering: Design Principles and Practical Applications by Niels Ferguson, Bruce Schneier  
+- Crystal Clear: A Human-Powered Methodology for Small Teams: A Human-Powered Methodology for Small Teams by Alistair Cockburn, Alistair Paul Becker  
+- The Cuckoo's Egg by Clifford Stoll
 - Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World by Joseph Menn
-- Cultural Amnesia	Cultural Amnesia by Clive James (Paperback) 
+- Cultural Amnesia	Cultural Amnesia by Clive James  
 - Culture and Value by Ludwig Wittgenstein
 - Curated Decay: Heritage beyond Saving by Caitlin DeSilvey  (associate professor of cultural geography & author of a new book which journeys from Cold War test sites to post industrial ruins)
-- Custom Reality and You	Custom Reality and You by Peter Coffin (Kindle Edition) |		$4.20	1	0
+- Custom Reality and You by Peter Coffin
 - Cycles of Time by Roger Penrose
-- Damned Lies and Statistics: Untangling Numbers from the Media, Politicians, and Activists	Damned Lies and Statistics: Untangling Numbers from the Media, Politicians, and Activists by Joel Best (Hardcover) 
 - Damned Lies and Statistics: Untangling Numbers from the Media, Politicians, and Activists by Joel Best
 - Dan Winters: Periodical Photographs: Commissioned Work by Lynn Hirschberg
 - Dancing at the Edge of the World by Ursula K. Le Guin
 - Dark Sun: The Making of the Hydrogen Bomb by Richard Rhodes
 - Darwin, His Daughter, and Human Evolution	Darwin, His Daughter, and Human Evolution
-- Darwin's Cathedral by David Sloan Wilson (Citado en “moral tribes”, pag. 55. Bien interesante sobre la posibilidad de la religión como mecanismo evolucionado para permitir la cooperación entre grupos grandes )
-- Darwin's Cathedral: Evolution, Religion, and the Nature of Society by David Wilson
+- Darwin's Cathedral by David Sloan Wilson (Citado en “moral tribes”, pag. 55. Bien interesante sobre la posibilidad de la religión como mecanismo evolutivo para permitir la cooperación entre grupos grandes )
 - Data and Society, A Critical Introduction. Anne Beaulieu 
-- Data Modeling Made Simple: A Practical Guide for Business & Information Technology Professionals	Data Modeling Made Simple: A Practical Guide for Business & Information Technology Professionals by Steve Hoberman (Paperback) |
-- Database: Principles Programming and Performance (Morgan Kaufmann Series in Data Management Systems)	Database: Principles Programming and Performance (Morgan Kaufmann Series in Data Management Systems) by Patrick O'Neil (Hardcover) |
-- David Goldblatt Photographs	David Goldblatt Photographs by David Goldblatt, Martin Parr (Hardcover) |
-- De los espejos y otros ensayos (Spanish Edition)	De los espejos y otros ensayos (Spanish Edition) by Umberto Eco (Kindle Edition) 
-- Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age	Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age by Michael A. Hiltzik (Paperback) 
-- Death So Noble: Memory, Meaning, and the First World War	Death So Noble: Memory, Meaning, and the First World War by Jonathan F. Vance (Paperback) 
+- Data Modeling Made Simple: A Practical Guide for Business & Information Technology Professionals by Steve Hoberman 
+- Database: Principles Programming and Performance (Morgan Kaufmann Series in Data Management Systems) by Patrick O'Neil 
+- Photographs by David Goldblatt, Martin Parr 
+- De los espejos y otros ensayos (Spanish Edition) by Umberto Eco
+- Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age	by Michael A. Hiltzik  
 - Death So Noble: Memory, Meaning, and the First World War by Jonathan F. Vance
 - Just Deserts: Debating Free Will, Daniel C. Dennett  and  Gregg D. Caruso
-- Debating Religious Liberty and Discrimination	Debating Religious Liberty and Discrimination by John Corvino, Ryan T. Anderson (Kindle Edition) 
-- Debugging the Development Process: Practical Strategies for Staying Focused, Hitting Ship Dates, and Building Solid Teams	Debugging the Development Process: Practical Strategies for Staying Focused, Hitting Ship Dates, and Building Solid Teams by Steve Maguire (Paperback) 
-- Decipher	Decipher by Stel Pavlou (Hardcover) 
-- Decoding Schopenhauer’s Metaphysics , Bernardo Kastrup
+- Debating Religious Liberty and Discrimination	Debating Religious Liberty and Discrimination by John Corvino, Ryan T. Anderson  
+- Debugging the Development Process: Practical Strategies for Staying Focused, Hitting Ship Dates, and Building Solid Teams	Debugging the Development Process: Practical Strategies for Staying Focused, Hitting Ship Dates, and Building Solid Teams by Steve Maguire  
+- Decipher	Decipher by Stel Pavlou  
 - Decoding Schopenhauer’s Metaphysics: The Key to Understanding How It Solves the Hard Problem of Consciousness and the Paradoxes of Quantum Mechanics by Bernardo Kastrup
-- Decolonizing Dialectics (Radical Américas)	Decolonizing Dialectics (Radical Américas) by George Ciccariello-Maher (Kindle Edition) 
+- Decolonizing Dialectics (Radical Américas) by George Ciccariello-Maher
 - Deep Learning (Adaptive Computation and Machine Learning series) by Ian Goodfellow
 - Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD: Howard, Jeremy, Gugger, Sylvain: 9781492045526
 - Deep Magic - December 2016, Jeff Wheeler
 - Deep Survival: Who Lives, Who Dies, and Why by Laurence Gonzales
-- Del inconveniente de haber nacido (Spanish Edition)	Del inconveniente de haber nacido (Spanish Edition) by E. M. Cioran (Kindle Edition) 
 - Del inconveniente de haber nacido (Spanish Edition) by E. M. Ciora
-- Democracy in Exile: Hans Speier and the Rise of the Defense Intellectual (The United States in the World): Daniel Bessner: 9780801453038: Books
+- Democracy in Exile: Hans Speier and the Rise of the Defense Intellectual (The United States in the World): Daniel Bessner: 9780801453038
 - Demons (Penguin Classics) by Fyodor Dostoevsky
-- Demystifying the IPsec Puzzle (Artech House Computer Security Series)	Demystifying the IPsec Puzzle (Artech House Computer Security Series) by Sheila Frankel (Hardcover) 
-- Depth of Field: Essays on Photography, Mass Media and Lens Culture	Depth of Field: Essays on Photography, Mass Media and Lens Culture by A. D. Coleman (Paperback) |
-- Derrida: A Very Short Introduction (Very Short Introductions)	Derrida: A Very Short Introduction (Very Short Introductions) by Simon Glendinning (Kindle Edition) 
-- Descartes' Error por António Damásio
-- Design and Analysis of Computer Algorithms, The	Design and Analysis of Computer Algorithms, The by Alfred Aho, John Hopcroft (Paperback) 
+- Demystifying the IPsec Puzzle (Artech House Computer Security Series)	by Sheila Frankel  
+- Depth of Field: Essays on Photography, Mass Media and Lens Culture by A. D. Coleman 
+- Derrida: A Very Short Introduction (Very Short Introductions)	by Simon Glendinning
+- Descartes' Error by António Damásio
+- Design and Analysis of Computer Algorithms by Alfred Aho, John Hopcroft  
 - Design and Implementation of the FreeBSD Operating System, The by Marshall McKusick
 - Designerly Ways of Knowing, Nigel Cross
-- Designing Effective Database Systems	Designing Effective Database Systems by Rebecca M. Riordan (Paperback) 
+- Designing Effective Database Systems	Designing Effective Database Systems by Rebecca M. Riordan  
 - Destiny Disrupted: A History of the World Through Islamic Eyes: Tamim Ansary: 9781586488130: Books
 - Dialogues and Essays (Oxford World's Classics) by Seneca
 - Dialogues Concerning Natural Religion (Hackett Classics) by David Hume
@@ -316,15 +295,14 @@ Libros a explorar / Books to explore
 - Divine Invasions: A Life of Philip K. Dick . Lawrence Sutin . 
 - Do Fathers Matter?: What Science Is Telling Us About the Parent We've Overlooked by Paul Raeburn
 - Do Not Say We Have Nothing by Madeleine Thien (En un post de reddit recomendado en una recomendación sobre ficción historia no occidental y/o blanca)
-- Doctor Ecco's Cyberpuzzles	Doctor Ecco's Cyberpuzzles by Dennis E. Shasha (Paperback) 
 - Doctor Ecco's Cyberpuzzles by Dennis E. Shasha
-- Dolores Claiborne: A Novel	Dolores Claiborne: A Novel by Stephen King (Mass Market Paperback) 
+- Dolores Claiborne: A Novel by Stephen King (Mass Market Paperback) 
 - Don't Sleep, There Are Snakes: Life and Language in the Amazonian Jungle (Vintage Departures) by Daniel L. Everett
 - Don't Think for Yourself, Authority and Belief in Medieval Philosophy. Peter Adamson.
 - Dostoevsky: Reminiscences by Anna Dostoevsky
 - Down and Out in the New Economy: How People Find (or Don’t Find) Work Today, Ilana Gershon
 - Dragon's Egg by Robert L. Forward
-- Drawing Graphs: Methods and Models (Lecture Notes in Computer Science (2025))	Drawing Graphs: Methods and Models (Lecture Notes in Computer Science (2025)) by Michael Kaufmann, Dorothea Wagner (Paperback) 
+- Drawing Graphs: Methods and Models (Lecture Notes in Computer Science (2025)) by Michael Kaufmann, Dorothea Wagner  
 - Dynamic Probabilistic Systems, Volume I: Markov Models (Volume 1) (Dover Books on Mathematics) by Ronald A. Howard
 - Dynamic Probabilistic Systems, Volume II: Semi-Markov and Decision Processes (Dover Books on Mathematics) by Ronald A. Howard
 - E=mc2: A Biography of the World's Most Famous Equation by David Bodanis
@@ -332,214 +310,208 @@ Libros a explorar / Books to explore
 - EARTH by DAVID BRIN ("Self-awareness is probably overrated. A complex, self-regulating system doesn't need it in order to be successful, or even smart." — Earth)
 - East India Company , The: A History (Studies In Modern History) by Philip Lawson
 - Economism: Bad Economics and the Rise of Inequality: James Kwak, Simon Johnson: 9781101871195: Books
-- Effective Software Testing: 50 Specific Ways to Improve Your Testing	Effective Software Testing: 50 Specific Ways to Improve Your Testing by Elfriede Dustin (Paperback) 
-- Effi Briest (Penguin Classics) by Theodor Fontane, Hugh Rorrison (Paperback) 
+- Effective Software Testing: 50 Specific Ways to Improve Your Testing	Effective Software Testing: 50 Specific Ways to Improve Your Testing by Elfriede Dustin  
+- Effi Briest (Penguin Classics) by Theodor Fontane, Hugh Rorrison  
 - Efficient Cognition: The Evolution of Representational Decision Making (https://ndpr.nd.edu/news/efficient-cognition-the-evolution-of-representational-decision-making/)
 - Einstein's Dreams por Alan Lightman (Ref en libro “from eternity to here”)
-- El hombre y la gente (Spanish Edition)	El hombre y la gente (Spanish Edition) by José Ortega y Gasset (Kindle Edition) |		$3.99	1	0
-- El largo camino hacia la libertad. La autobiografía de Nelson Mandela (Spanish Edition)	El largo camino hacia la libertad. La autobiografía de Nelson Mandela (Spanish Edition) by Nelson Mandela (Kindle Edition) |
+- El hombre y la gente (Spanish Edition) by José Ortega y Gasset 
+- El largo camino hacia la libertad. La autobiografía de Nelson Mandela (Spanish Edition) by Nelson Mandela 
 - Elements of Programming by Alexander A. Stepanov
 - Elite Capture. Olúfẹ́mi O. Táíwò 
 - Embodiment and the inner life: Cognition and Consciousness in the Space of Possible Minds by Murray Shanahan
 - Emergence: The Connected Lives of Ants, Brains, Cities, and Software by Steven Johnson
-- Emotional Design: Why We Love (or Hate) Everyday Things	Emotional Design: Why We Love (or Hate) Everyday Things by Don Norman (Hardcover) 
+- Emotional Design: Why We Love (or Hate) Everyday Things by Don Norman  
 - Emperor of All Maladies: A Biography of Cancer by Siddhartha Mukherjee
 - Empire by Michael Hardt
 - Empire Games: A Tale of the Merchant Princes Universe (Empire Games, 1) by Charles Stross
 - Empire of Illusion: The End of Literacy and the Triumph of Spectacle by Chris Hedges
-- Empty Ideas: A Critique of Analytic Philosophy	Empty Ideas: A Critique of Analytic Philosophy by Peter Unger (Hardcover) 
+- Empty Ideas: A Critique of Analytic Philosophy by Peter Unger  
 - Endgame: Bobby Fischer's Remarkable Rise and Fall - from America's Brightest Prodigy to the Edge of Madness by Frank Brady
 - Endurance: Shackleton's Incredible Voyage. Alfred Lansing.
 - Energy and Civilization: A History (The MIT Press) by Vaclav Smil
 - Engineering and the Mind's Eye (The MIT Press) by Eugene S. Ferguson
-- Engines of Creation: The Coming Era of Nanotechnology (Anchor Library of Science)	Engines of Creation: The Coming Era of Nanotechnology (Anchor Library of Science) by Eric Drexler (Paperback) 
+- Engines of Creation: The Coming Era of Nanotechnology (Anchor Library of Science) by Eric Drexler  
 - Entanglement: The Secret Lives of Hair, Emma Tarlo
-- Envisioning Information	Envisioning Information by Edward R. Tufte (Hardcover) 
 - Envisioning Information by Edward R. Tufte
-- Epidemics and society (https://yalebooks.yale.edu/book/9780300192216/epidemics-and-society)
+- Epidemics and society 
 - Escape Through the Pyrenees. Lisa Fittko.
 - Escuela de aprendices (Ensayo), Marina Garcés.
 - Essay and Aphorisms, Arthur Schopenhauer
-- Essentials of Inventory Management	Essentials of Inventory Management by Max Muller (Hardcover) |
+- Essentials of Inventory Management by Max Muller
 - Essentials of Programming Languages (The MIT Press) by Daniel P. Friedman
-- Ethics and the Limits of Philosophy	Ethics and the Limits of Philosophy by Bernard Williams (Paperback) 
+- Ethics and the Limits of Philosophy	Ethics and the Limits of Philosophy by Bernard Williams  
 - Ethnicity, Inc. (Chicago Studies in Practices of Meaning) by John L. Comaroff
 - The Evangelicals: The Struggle to Shape America. Frances Fitzgerald. (Ref “Jesus and John Wayne”, chapter 5,19)
 - Every Thing Must Go: Metaphysics Naturalized by James Ladyman
 - Everyday Chaos: The Mathematics of Unpredictability, from the Weather to the Stock Market: Clegg, Brian: 9780262539692
 - Everything Was Forever, Until It Was No More por Alexei Yurchak (Mencionado en artículo https://americanaffairsjournal.org/2017/08/development-delusion-foreign-aid-inequality/)
-- Evolution	Evolution by Jean-Baptiste de Panafieu, Patrick Gries (Hardcover) 
-- Evolution by Jean-Baptiste de Panafieu
+- Evolution	Evolution by Jean-Baptiste de Panafieu, Patrick Gries  
 - Evolution: How We and All Living Things Came to Be by Daniel Loxton
-- Evolution: The Triumph of an Idea	Evolution: The Triumph of an Idea by Carl Zimmer (Paperback)
+- Evolution: The Triumph of an Idea	Evolution: The Triumph of an Idea by Carl Zimmer 
 - Examples: The Making of 40 Photographs by Ansel Adams
 - Exercises for Programmers: 57 Challenges to Develop Your Coding Skills by Brian P. Hogan
 - Existentialism and Romantic Love by S. Cleary
 - Existentialism: A Reconstruction by David E. Cooper
 - Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States by Albert O. Hirschman
-- Experience and the growth of understanding (International Library of the Philosophy of Education Volume 11)	Experience and the growth of understanding (International Library of the Philosophy of Education Volume 11) by D.W. Hamlyn (Kindle Edition) |
+- Experience and the growth of understanding (International Library of the Philosophy of Education Volume 11)	Experience and the growth of understanding (International Library of the Philosophy of Education Volume 11) by D.W. Hamlyn  |
 - Experiences in Groups by W. R. Bion
 - Expert Political Judgment: How Good Is It? How Can We Know? by Philip E. Tetlock
-- Expert Systems: Artificial Intelligence in Business (General Trade)	Expert Systems: Artificial Intelligence in Business (General Trade) by Paul Harmon, David King (Paperback) 
-- Expert Systems: Principles and Programming, Third Edition	Expert Systems: Principles and Programming, Third Edition by Joseph C. Giarratano, Gary D. Riley (Hardcover) 
-- Exposures	Exposures by Jane Bown, David Bailey (Hardcover) |
+- Expert Systems: Artificial Intelligence in Business (General Trade)	Expert Systems: Artificial Intelligence in Business (General Trade) by Paul Harmon, David King  
+- Expert Systems: Principles and Programming, Third Edition	Expert Systems: Principles and Programming, Third Edition by Joseph C. Giarratano, Gary D. Riley  
+- Exposures	Exposures by Jane Bown, David Bailey  |
 - Exposures by Jane Bown
-- Extended Epistemology	Extended Epistemology by J. Adam Carter, Andy Clark (Hardcover) 
-- Face: A Visual Odyssey (The MIT Press)	Face: A Visual Odyssey (The MIT Press) by Jessica Helfand (Hardcover) 
-- Faces: The Creative Process Behind Great Portraits	Faces: The Creative Process Behind Great Portraits by Jane Bown (Hardcover) |
-- Facts and Fallacies of Software Engineering	Facts and Fallacies of Software Engineering by Paul Becker, Robert Glass (Paperback) 
-- Fahrenheit 451 (Spanish Edition), Ray Bradbury
+- Extended Epistemology	Extended Epistemology by J. Adam Carter, Andy Clark  
+- Face: A Visual Odyssey (The MIT Press)	Face: A Visual Odyssey (The MIT Press) by Jessica Helfand  
+- Faces: The Creative Process Behind Great Portraits	Faces: The Creative Process Behind Great Portraits by Jane Bown  |
+- Facts and Fallacies of Software Engineering	Facts and Fallacies of Software Engineering by Paul Becker, Robert Glass  
+- Fahrenheit 451, Ray Bradbury
 - Failure Is Not an Option: Mission Control From Mercury to Apollo 13 and Beyond by Gene Kranz
-- Fall; or, Dodge in Hell: A Novel	Fall; or, Dodge in Hell: A Novel by Neal Stephenson (Hardcover) 
+- Fall; or, Dodge in Hell: A Novel A Novel by Neal Stephenson  
 - Falling to Earth: An Apollo 15 Astronaut's Journey to the Moon by Al Worden
 - Family Values and the Rise of the Christian Right, Seth Dowland (ref “Jesus and John Wayne”, chapter 4,8)
 - Fancy Bear Goes Phishing: The Dark History of the Information Age, in Five Extraordinary Hacks . Scott J. Shapiro .
 - Fantastic Numbers and Where to Find Them. Antonio Padilla.
-- Fascism, Power, and Individual Rights: Escape from Freedom, To Have or To Be?, and The Anatomy of Human Destructiveness	Fascism, Power, and Individual Rights: Escape from Freedom, To Have or To Be?, and The Anatomy of Human Destructiveness by Erich Fromm (Kindle Edition) |
-- Fashion Magazine by Alec Soth (v. 3)	Fashion Magazine by Alec Soth (v. 3) by Alec Soth, Karl Lagerfeld (Paperback) |
-- Faster: The Acceleration of Just About Everything	Faster: The Acceleration of Just About Everything by James Gleick (Paperback) 
+- Fascism, Power, and Individual Rights: Escape from Freedom, To Have or To Be?, and The Anatomy of Human Destructiveness by Erich Fromm
+- Fashion Magazine by Alec Soth (v. 3) by Alec Soth, Karl Lagerfeld 
+- Faster: The Acceleration of Just About Everything by James Gleick  
 - Fear and Trembling/Repetition : Kierkegaard's Writings, Vol. 6 by Søren Kierkegaard
 - Feminisms: A Global History, Lucy Delap (https://www.penguin.co.uk/books/305/305361/feminisms/9780241398142.html)
 - Feminist Interpretations of Hannah Arendt (Re-Reading the Canon) by Bonnie Honig
 - Feminist Philosophy An Introduction By Elinor Mason 
 - Feynman by Jim Ottaviani
 - Fields of Blood: Religion and the History of Violence by Karen Armstrong
-- Fifteen Lectures by Bertrand Russell on the Analysis of Mind	Fifteen Lectures by Bertrand Russell on the Analysis of Mind by Bertrand Russell (Paperback) 
-- Firewalls and Internet Security: Repelling the Wily Hacker	Firewalls and Internet Security: Repelling the Wily Hacker by William Cheswick, Steven Bellovin (Paperback) 
-- First Things First	First Things First by Stephen R. Covey, A. Roger Merrill (Paperback) 
-- First, Break All the Rules: What the World's Greatest Managers Do Differently	First, Break All the Rules: What the World's Greatest Managers Do Differently by Marcus Buckingham, Curt Coffman (Hardcover) 
-- Flashforward	Flashforward by Robert J. Sawyer (Paperback) 
+- Fifteen Lectures by Bertrand Russell on the Analysis of Mind by Bertrand Russell  
+- Firewalls and Internet Security: Repelling the Wily Hacker by William Cheswick, Steven Bellovin  
+- First Things First by Stephen R. Covey, A. Roger Merrill  
+- First, Break All the Rules: What the World's Greatest Managers Do Differently by Marcus Buckingham, Curt Coffman  
 - Flashforward by Robert J. Sawyer
-- Flow Based Programming: A New Approach to Application Development (Vnr Computer Library)	Flow Based Programming: A New Approach to Application Development (Vnr Computer Library) by J. Paul Morrison (Paperback) |
+- Flow Based Programming: A New Approach to Application Development (Vnr Computer Library) by J. Paul Morrison 
 - Flow: The Psychology of Optimal Experience (Harper Perennial Modern Classics), Mihaly Csikszentmihalyi
 - Flowers for Algernon by Daniel Keyes
 - Fluent Python: Clear, Concise, and Effective Programming, Luciano Ramalho
 - Food: A Culinary History (European Perspectives: A Series in Social Thought and Cultural Criticism) by Jean-Louis Flandrin
-- Fooled by Randomness: The Hidden Role of Chance in the Markets and in Life	Fooled by Randomness: The Hidden Role of Chance in the Markets and in Life by Nassim Nicholas Taleb (Hardcover) 
-- Forces of Production: A Social History of Industrial Automation	Forces of Production: A Social History of Industrial Automation by David F. Noble (Paperback) 
+- Fooled by Randomness: The Hidden Role of Chance in the Markets and in Life by Nassim Nicholas Taleb  
+- Forces of Production: A Social History of Industrial Automation by David F. Noble  
 - Forever Undecided: A Puzzle Guide to Godel (Oxford Paperbacks) by Raymond M. Smullyan
-- Foucault: A Very Short Introduction (Very Short Introductions)	Foucault: A Very Short Introduction (Very Short Introductions) by Gary Gutting (Kindle Edition) |
-- Foundations of Complex-system Theories (In Economics, Evolutionary Biology, and Statistical Physics)	Foundations of Complex-system Theories (In Economics, Evolutionary Biology, and Statistical Physics) by Sunny Y. Auyang (Paperback) 
-- Foundations of Information Security (https://nostarch.com/foundationsinfosec)
-- Foundations of Inventory Management	Foundations of Inventory Management by Paul Zipkin (Hardcover) 
-- Foundations of Service Level Management	Foundations of Service Level Management by Rick Sturm, Wayne Morris (Paperback) 
+- Foucault: A Very Short Introduction (Very Short Introductions) by Gary Gutting  |
+- Foundations of Complex-system Theories (In Economics, Evolutionary Biology, and Statistical Physics by Sunny Y. Auyang  
+- Foundations of Information Security by Jason Andress
+- Foundations of Inventory Management by Paul Zipkin  
+- Foundations of Service Level Management by Rick Sturm, Wayne Morris  
 - Foundations of Statistical Natural Language Processing by Christopher D. Manning
 - Four Texts on Socrates: Plato's "Euthyphro", "Apology of Socrates", and "Crito" and Aristophanes' "Clouds" by Plato
 - Frames of War: When Is Life Grievable? (Radical Thinkers) by Judith Butler
 - Francesca Woodman (DISTRIBUTED ART) by Corey Keller
 - Free Culture: The Nature and Future of Creativity by Lawrence Lessig
-- Freedom from the Known	Freedom from the Known by Jiddu Krishnamurti, Mary Lutyens (Paperback) 
-- Friendly Fascism: The New Face of Power in America (Forbidden Bookshelf Book 18) - Kindle edition by Bertram Gross, Mark Crispin Miller, Chris Hedges. Politics & Social Sciences Kindle eBooks .
+- Freedom from the Known by Jiddu Krishnamurti, Mary Lutyens  
 - Friendly Fascism: The New Face of Power in America (Forbidden Bookshelf Book 18) , Bertram Gross
 - From Bacteria to Bach and Back: The Evolution of Minds by Daniel C. Dennett
-- From Dictatorship to Democracy: A Conceptual Framework for Liberation	From Dictatorship to Democracy: A Conceptual Framework for Liberation by Gene Sharp (Paperback) 
 - From Dictatorship to Democracy: A Conceptual Framework for Liberation by Gene Sharp
 - From Eternity to Here by Sean Carroll
 - From Mathematics to Generic Programming by Alexander Stepanov
 - From Molecule to Metaphor: A Neural Theory of Language (MIT Press), Jerome Feldman
-- From Politics to the Pews: How Partisanship and the Political Environment Shape Religious Identity (Chicago Studies in American Politics)	From Politics to the Pews: How Partisanship and the Political Environment Shape Religious Identity (Chicago Studies in American Politics) by Michele F. Margolis (Kindle Edition) 
+- From Politics to the Pews: How Partisanship and the Political Environment Shape Religious Identity (Chicago Studies in American Politics) by Michele F. Margolis  
 - Frozen Hell: The Russo-Finnish Winter War of 1939-1940 by William Trotter
-- Fundamentals of Neural Networks: Architectures, Algorithms And Applications	Fundamentals of Neural Networks: Architectures, Algorithms And Applications by Laurene V. Fausett (Paperback) |
+- Fundamentals of Neural Networks: Architectures, Algorithms And Applications by Laurene V. Fausett 
 - Fundamentals: Ten Keys to Reality by Frank Wilczek
 - Future Shock by Alvin Toffler
-- Galileo's Error: Foundations for a New Science of Consciousness	Galileo's Error: Foundations for a New Science of Consciousness by Philip Goff (Hardcover) 
-- Galileo’s Error by Phillip Goff review
+- Galileo's Error: Foundations for a New Science of Consciousness by Philip Goff  
 - Game of Thrones, George R.R. Martin
 - Geek Heresy: Rescuing Social Change from the Cult of Technology by Kentaro Toyama
 - Gender and Our Brains: How New Neuroscience Explodes the Myths of the Male and Female Minds by Gina Rippon
-- Genealogy as Critique: Foucault and the Problems of Modernity (American Philosophy)	Genealogy as Critique: Foucault and the Problems of Modernity (American Philosophy) by Colin Koopman (Paperback) 
-- Generative Programming: Methods, Tools, and Applications	Generative Programming: Methods, Tools, and Applications by Krysztof Czarnecki, Ulrich Eisenecker (Paperback) 
+- Genealogy as Critique: Foucault and the Problems of Modernity (American Philosophy) by Colin Koopman  
+- Generative Programming: Methods, Tools, and Applications by Krysztof Czarnecki, Ulrich Eisenecker  
 - Genesis Redux: Essays in the History and Philosophy of Artificial Life by Jessica Riskin
 - Genius At Play: The Curious Mind of John Horton Conway
 - Genius: The Life and Science of Richard Feynman by James Gleick
 - Geniuses at War: Bletchley Park, Colossus, and the Dawn of the Digital Age. David Price.
-- Genome: The Autobiography of a Species in 23 Chapters	Genome: The Autobiography of a Species in 23 Chapters by Matt Ridley (Paperback) 
-- Geometry and the Imagination (AMS Chelsea Publishing)	Geometry and the Imagination (AMS Chelsea Publishing) by David Hilbert, S. Cohn-Vossen (Hardcover) |
+- Genome: The Autobiography of a Species in 23 Chapters by Matt Ridley  
+- Geometry and the Imagination (AMS Chelsea Publishing) by David Hilbert, S. Cohn-Vossen 
 - Georg Simmel on Individuality and Social Forms (Heritage of Sociology Series) by Georg Simmel
 - George Orwell Diaries by George Orwell
 - Get Real: How to Tell It Like It Is in a World of Illusions. Eliane Glaser by Eliane Glaser
 - Global Catastrophes and Trends The Next Fifty Years By Vaclav Smil
 - Global Dystopias (Boston Review / Forum) by Junot Diaz
-- God: An Anatomy. Francesca Stavrakopoulou .
-- God Created the Integers: The Mathematical Breakthroughs that Changed History	God Created the Integers: The Mathematical Breakthroughs that Changed History by Stephen Hawking (Hardcover) 
+- God: An Anatomy. Francesca Stavrakopoulou
+- God Created the Integers: The Mathematical Breakthroughs that Changed History by Stephen Hawking  
 - Gödel's Proof
 - Gods and Robots: Myths, Machines, and Ancient Dreams of Technology by Adrienne Mayor
-- Goethe: Life as a Work of Art	Goethe: Life as a Work of Art by Rüdiger Safranski, David Dollenmayer (Kindle Edition) 
+- Goethe: Life as a Work of Art	Goethe: Life as a Work of Art by Rüdiger Safranski, David Dollenmayer  
 - Good and Mad: The Revolutionary Power of Women's Anger by Rebecca Traister
 - Good behavior by Molly Keane
-- Good Germs, Bad Germs: Health and Survival in a Bacterial World	Good Germs, Bad Germs: Health and Survival in a Bacterial World by Jessica Snyder Sachs (Hardcover) 
-- Good to Great: Why Some Companies Make the Leap...And Others Don't	Good to Great: Why Some Companies Make the Leap...And Others Don't by Jim Collins (Audio Cassette) 
+- Good Germs, Bad Germs: Health and Survival in a Bacterial World by Jessica Snyder Sachs  
+- Good to Great: Why Some Companies Make the Leap...And Others Don't by Jim Collins (Audio Cassette) 
 - Gorbachev: On My Country and the World, Gorbachev
-- Graph Drawing: Algorithms for the Visualization of Graphs	Graph Drawing: Algorithms for the Visualization of Graphs by Ioannis G. Tollis, Giuseppe Di Battista (Paperback) |
+- Graph Drawing: Algorithms for the Visualization of Graphs by Ioannis G. Tollis, Giuseppe Di Battista 
 - Gravity's Rainbow by Thomas Pynchon(Citado en wikipedia en la página de Pavlov como una novela inspirada/conteniendo tema de condicionamiento clásico)
-- Greeks and Greek Civilization	Greeks and Greek Civilization by Sheila Stern (Paperback) 
+- Greeks and Greek Civilization	Greeks and Greek Civilization by Sheila Stern
 - Grit: The Power of Passion and Perseverance by Angela Duckworth
-- Growth: From Microorganisms to Megacities (The MIT Press)	Growth: From Microorganisms to Megacities (The MIT Press) by Vaclav Smil (Hardcover) 
-- Guaranteed Pure: The Moody Bible Institute, Business, and the Making of Modern Evangelicalism, Timothy Gloege (ref “Jesus and John Wayne, chapter 1,6)
+- Growth: From Microorganisms to Megacities (The MIT Press) by Vaclav Smil  
+- Guaranteed Pure: The Moody Bible Institute, Business, and the Making of Modern Evangelicalism, Timothy Gloege (ref “Jesus and John Wayne", chapter 1,6)
 - Garden Time, W.S. Merwin 
 - Guerras de internet: Un viaje al centro de la red para entender cómo afecta tu vida (Spanish Edition), Natalia Zuazo
 - Gulag: A History by Anne Applebaum
-- Hack Proofing Your Network: Internet Tradecraft	Hack Proofing Your Network: Internet Tradecraft by Ryan Russell (Paperback) |
+- Hack Proofing Your Network: Internet Tradecraft	Hack Proofing Your Network: Internet Tradecraft by Ryan Russell  |
 - Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous, Gabriella Coleman
-- Hacker's Delight	Hacker's Delight by Henry Warren (Hardcover) 
+- Hacker's Delight by Henry Warren  
 - Hackers: Heroes of the Computer Revolution by Steven Levy
-- Handbook of Model Rocketry	Handbook of Model Rocketry by G. Harry Stine (Paperback) 
+- Handbook of Model Rocketry by G. Harry Stine  
 - Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, Aurélien Géron
 - Hands-On RTOS with Microcontrollers: Building real-time embedded systems using FreeRTOS, STM32 MCUs, and SEGGER debug tools. by Brian Amos
 - Hannah Arendt and the Fragility of Human Dignity (En video de Samantha hill y Jon Macready)
 - Hard Landing: The Epic Contest for Power and Profits That Plunged the Airlines into Chaos by Thomas Petzinger Jr.
-- Hardwired Behavior: What Neuroscience Reveals about Morality	Hardwired Behavior: What Neuroscience Reveals about Morality by Laurence Tancredi (Hardcover) 
-- Harry Benson: 50 Years in Pictures	Harry Benson: 50 Years in Pictures by Harry Benson (Hardcover) |
-- Harvard Business Review on Supply Chain Management (Harvard Business Review Paperback Series)	Harvard Business Review on Supply Chain Management (Harvard Business Review Paperback Series) by Harvard Business School Press (Paperback) |
-- Hayek's Challenge: An Intellectual Biography of F.A. Hayek	Hayek's Challenge: An Intellectual Biography of F.A. Hayek by Bruce Caldwell (Hardcover) |
-- Hegel: A Very Short Introduction (Very Short Introductions Book 49)	Hegel: A Very Short Introduction (Very Short Introductions Book 49) by Peter Singer (Kindle Edition) 
+- Hardwired Behavior: What Neuroscience Reveals about Morality by Laurence Tancredi  
+- Harry Benson: 50 Years in Pictures by Harry Benson  |
+- Harvard Business Review on Supply Chain Management (Harvard Business Review Paperback Series)
+- Hayek's Challenge: An Intellectual Biography of F.A. Hayek by Bruce Caldwell
+- Hegel: A Very Short Introduction (Very Short Introductions Book 49) by Peter Singer  
 - Hegemony or Surviva‪l‬ America's Quest for Global Dominance by Noam Chomsky
 - Hello World by Hannah Fry
-- Hello World: Travels In Virtuality by Sue Thomas (Paperback) |
-- Henri Cartier-Bresson and the Artless Art	Henri Cartier-Bresson and the Artless Art by Jean-Pierre Montier, Henri Cartier-Bresson (Hardcover) 
-- Henri Cartier-Bresson: Scrapbook	Henri Cartier-Bresson: Scrapbook by Michel Frizot, Henri Cartier-Bresson (Hardcover) 
-- Heuristics and Biases (The Psychology of Intuitive Judgement)	Heuristics and Biases (The Psychology of Intuitive Judgement) by Ed. Gilovich, Thomas (Paperback) 
+- Hello World: Travels In Virtuality by Sue Thomas 
+- Henri Cartier-Bresson and the Artless Art by Jean-Pierre Montier, Henri Cartier-Bresson  
+- Henri Cartier-Bresson: Scrapbook by Michel Frizot, Henri Cartier-Bresson  
+- Heuristics and Biases (The Psychology of Intuitive Judgement) by Ed. Gilovich, Thomas  
 - Hieroglyphs: unlocking ancient Egypt. Llona Regulski.
 - Hiking with Nietzsche: On Becoming Who You Are by John Kaag
 - His Master's Voice by Stanislaw Lem
 - Historia del Rey Transparente. Rosa Montero.
-- History of Western Philosophy (Routledge Classics)	History of Western Philosophy (Routledge Classics) by Bertrand Russell (Paperback) |
+- History of Western Philosophy (Routledge Classics) by Bertrand Russell 
 - Hitler: 1889-1936 Hubris by Ian Kershaw
 - Hitler: 1936-1945 Nemesis by Ian Kershaw
 - Hogfather por Terry Pratchett 
-- Home Computers: 100 Icons that Defined a Digital Generation (https://thamesandhudson.com/home-computers-9780500022160)
-- Homegoing by Yaa Gyasi (En un post de reddit recomendado en una recomendación sobre ficción historia no occidental y/o blanca)
+- Home Computers: 100 Icons that Defined a Digital Generation
+- Homegoing by Yaa Gyasi (En un post de reddit recomendado en una conversación sobre ficción historia no occidental y/o blanca)
 - Homo Deus: A Brief History of Tomorrow by Yuval Noah Harari
 - Homo Sacer: Sovereign Power and Bare Life (Meridian: Crossing Aesthetics) by Giorgio Agamben
-- Honeybee Democracy	Honeybee Democracy by Thomas D. Seeley (Hardcover) 
+- Honeybee Democracy by Thomas D. Seeley 
 - Honoring the Code: Conversations with Great Game Designers (9781466567535): Matt Barton
 - Hope Against Hope. Nadezhda Mandelstam
-- Hope in the Dark: Untold Histories, Wild Possibilities	Hope in the Dark: Untold Histories, Wild Possibilities by Rebecca Solnit (Paperback) 
+- Hope in the Dark: Untold Histories, Wild Possibilities by Rebecca Solnit  
 - Horst: Sixty Years of Photography by Martin Kazmaier
 - How Adam Smith Can Change Your Life: An Unexpected Guide to Human Nature and Happiness, Russ Robert
 - How Buildings Learn: What Happens After They're Built by Stewart Brand
 - How Can the Human Mind Occur in the Physical Universe? (Oxford Series on Cognitive Models and Architectures) by John R. Anderson
-- How China Escaped the Poverty Trap (Cornell Studies in Political Economy): Yuen Yuen Ang: 9781501700200: Books(entrevista con la autora en Thinking Allowed, episodio “China today”)
+- How China Escaped the Poverty Trap (Cornell Studies in Political Economy): Yuen Yuen Ang: 9781501700200 (entrevista con la autora en Thinking Allowed, episodio “China today”)
 - How Hackers Are Disrupting Power, Surveillance, and Authoritarianism (https://mitpress.mit.edu/books/coding-democracy)
 - How Physics Makes Us Free (https://www.preposterousuniverse.com/podcast/2020/01/20/80-jenann-ismael-on-connecting-physics-to-the-world-of-experience/)
 - How Science Comprehends Chaos by Sunny Auyang
 - How the World Works (Real Story (Soft Skull Press)) by Noam Chomsky
-- How to Be Alone is a 2002 book collecting fourteen essays by American writer Jonathan Franzen.” from “How to Be Alone (book)”: https://en.wikipedia.org/wiki/How_to_Be_Alone_(book)
+- How to Be Alone is a 2002 book collecting fourteen essays by American writer Jonathan Franze
 - How to Be Idle by Tom Hodgkinson
-- How to Break Software: A Practical Guide to Testing W/CD	How to Break Software: A Practical Guide to Testing W/CD by James Whittaker (CD-ROM) 
-- How to Build a Business Rules Engine: Extending Application Functionality through Metadata Engineering (The Morgan Kaufmann Series in Data Management Systems)	How to Build a Business Rules Engine: Extending Application Functionality through Metadata Engineering (The Morgan Kaufmann Series in Data Management Systems) by Malcolm Chisholm (Paperback) 
-- How to Design Programs: An Introduction to Programming and Computing	How to Design Programs: An Introduction to Programming and Computing by Matthias Felleisen, Robert Bruce Findler (Hardcover) 
+- How to Break Software: A Practical Guide to Testing W/CD by James Whittaker (CD-ROM) 
+- How to Build a Business Rules Engine: Extending Application Functionality through Metadata Engineering (The Morgan Kaufmann Series in Data Management Systems) by Malcolm Chisholm  
+- How to Design Programs: An Introduction to Programming and Computing by Matthias Felleisen, Robert Bruce Findler  
 - How to Fold It: The Mathematics of Linkages, Origami, and Polyhedra: Joseph O'Rourke: 9780748794973
-- How to Hide an Empire: A History of the Greater United States	How to Hide an Empire: A History of the Greater United States by Daniel Immerwahr (Hardcover) |
+- How to Hide an Empire: A History of the Greater United States by Daniel Immerwahr 
 - How to Lie with Statistics by Darrell Huff
 - How to Read a Poem: And Fall in Love with Poetry, Edward Hirsch
 - How to Read and Do Proofs: An Introduction to Mathematical Thought Processes by Daniel Solow
-- How to Solve It: Modern Heuristics	How to Solve It: Modern Heuristics by Zbigniew Michalewicz, David B. Fogel (Hardcover) |
+- How to Solve It: Modern Heuristics by Zbigniew Michalewicz, David B. Fogel 
 - How We Became Our Data: A Genealogy of the Informational Person // Notre Dame Philosophical Reviews // University of Notre Dame (https://ndpr.nd.edu/news/how-we-became-our-data-a-genealogy-of-the-informational-perso/)
-- How We Know What Isn't So: The Fallibility of Human Reason in Everyday Life	How We Know What Isn't So: The Fallibility of Human Reason in Everyday Life by Thomas Gilovich (Paperback) 
+- How We Know What Isn't So: The Fallibility of Human Reason in Everyday Life by Thomas Gilovich  
 - Human Rights: A Very Short Introduction (Very Short Introductions) by Andrew Clapham
-- Human Universals (https://www.amazon.com/dp/007008209X/ref=cm_sw_r_oth_api_OinYAbXMWNDEJ) (Citado en “moral tribes”, pag. 49)
-- Human, All Too Human II and Unpublished Fragments from the Period of <I>Human, All Too Human II</I> (Spring 1878–Fall 1879): Volume 4 (The Complete Works of Friedrich Nietzsche) by Friedrich Nietzsche
+- Human Universals (Citado en “Moral tribes”, pag. 49)
+- Human, All Too Human II and Unpublished Fragments Volume 4 (The Complete Works of Friedrich Nietzsche) by Friedrich Nietzsche
 - Humanism and Terror: An Essay on the Communist Problem by Maurice Merleau-Ponty
 - Hunting Eichmann: How a Band of Survivors and a Young Spy Agency Chased Down the World's Most Notorious Nazi, Neal Bas comb
 - Hypatia of Alexandria (Revealing Antiquity) by Maria Dzielska
@@ -547,85 +519,80 @@ Libros a explorar / Books to explore
 - Hyperion (Hyperion Cantos, Book 1), Dan Simmons
 - I Am a Strange Loop por Douglas R. Hofstadter
 - I Am Dynamite!: A Life of Nietzsche by Sue Prideaux
-- I Think, Therefore I Laugh	I Think, Therefore I Laugh by John Allen Paulos (Paperback) 
+- I Think, Therefore I Laugh by John Allen Paulos  
 - IBM's 360 and Early 370 Systems (History of Computing) by Emerson W. Pugh
-- iCon Steve Jobs: The Greatest Second Act in the History of Business	iCon Steve Jobs: The Greatest Second Act in the History of Business by Jeffrey S. Young, William L. Simon (Hardcover) 
-- Idea Makers: Personal Perspectives on the Lives & Ideas of Some Notable People	Idea Makers: Personal Perspectives on the Lives & Ideas of Some Notable People by Stephen Wolfram (Hardcover) 
+- iCon Steve Jobs: The Greatest Second Act in the History of Business by Jeffrey S. Young, William L. Simon  
+- Idea Makers: Personal Perspectives on the Lives & Ideas of Some Notable People by Stephen Wolfram  
 - Ideas and Opinions (Modern Library) (9780679601050): Albert Einstein, Alan Lightman: Books
 - Identifying with Nationality Europeans, Ottomans, and Egyptians in Alexandria by Will Hanley (Columbia University Press) https://cup.columbia.edu/book/identifying-with-nationality/9780231177627
 - Identity: A Very Short Introduction (Very Short Introductions) by Florian Coulmas
-- Identity: The Demand for Dignity and the Politics of Resentment	Identity: The Demand for Dignity and the Politics of Resentment by Francis Fukuyama (Kindle Edition) 
-- Ideology And Utopia: An Introduction to the Sociology of Knowledge	Ideology And Utopia: An Introduction to the Sociology of Knowledge by Karl Mannheim, Louis Wirth (Paperback) 
+- Identity: The Demand for Dignity and the Politics of Resentment by Francis Fukuyama  
+- Ideology And Utopia: An Introduction to the Sociology of Knowledge by Karl Mannheim, Louis Wirth  
 - If on a Winter's Night a Traveler by Italo Calvino
 - Imagined Communities: Reflections on the Origin and Spread of Nationalism: Benedict Anderson: 9781784786755: Books
 - Immigration and Democracy (Oxford Political Theory) by Sarah Song
-- Implementation Patterns	Implementation Patterns by Kent Beck (Paperback) 
+- Implementation Patterns by Kent Beck  
 - Impossible Exchange, Jean Baudrillard
-- Impossible Languages By ANDREA MORO (https://www.penguinrandomhouse.com/books/657533/impossible-languages-by-andrea-moro/) (https://thereader.mitpress.mit.edu/the-sound-of-thought/)
+- Impossible Languages By Andrea Moro (https://thereader.mitpress.mit.edu/the-sound-of-thought/)
 - Impounded: Dorothea Lange and the Censored Images of Japanese American Internment by Linda Gordon
-- In Defense of Anarchism (with a New Preface)	In Defense of Anarchism (with a New Preface) by Robert Paul Wolff (Paperback) 
+- In Defense of Anarchism (with a New Preface)	In Defense of Anarchism (with a New Preface) by Robert Paul Wolff  
 - Infinite detail, Tim Maughan
-- In Focus: National Geographic Greatest Portraits	In Focus: National Geographic Greatest Portraits by National Geographic Society, William Albert Allard (Hardcover) 
+- In Focus: National Geographic Greatest Portraits by National Geographic Society, William Albert Allard  
 - In Gods We Trust: The Evolutionary Landscape of Religion (Evolution and Cognition) by Scott Atran
 - In Search of a Better World: A Human Rights Odyssey (CBC Massey Lectures) by Payam Akhavan
 - In Search of Memory: The Emergence of a New Science of Mind, Eric R. Kandel
-- In the Blink of an Eye: A Perspective on Film Editing, 2nd Edition	In the Blink of an Eye: A Perspective on Film Editing, 2nd Edition by Walter Murch, Francis Ford Coppola (Paperback) 
+- In the Blink of an Eye: A Perspective on Film Editing, 2nd Edition by Walter Murch, Francis Ford Coppola  
 - In the First Circle by Aleksandr I. Solzhenitsyn
-- In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin	In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin by Erik Larson (Kindle Edition) 
+- In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin by Erik Larson  
 - In the Plex: How Google Thinks, Works, and Shapes Our Lives by Steven Levy
 - In the Shadow of International Law: Secrecy and Regime Change in the Postwar World y Michael Poznansky (https://global.oup.com/academic/product/in-the-shadow-of-international-law-9780190096595)
-- Incident Response and Computer Forensics, Second Edition	Incident Response and Computer Forensics, Second Edition by Chris Prosise, Kevin Mandia (Paperback) 
+- Incident Response and Computer Forensics, Second Edition by Chris Prosise, Kevin Mandia  
 - Ineffability and its Metaphysics: The Unspeakable in Art, Religion, and Philosophy
-- Information and Randomness: An Algorithmic Perspective (Texts in Theoretical Computer Science. An EATCS Series)	Information and Randomness: An Algorithmic Perspective (Texts in Theoretical Computer Science. An EATCS Series) by Cristian S. Calude (Hardcover) 
-- Information Rules: A Strategic Guide to the Network Economy	Information Rules: A Strategic Guide to the Network Economy by Carl Shapiro, Hal R. Varian (Hardcover) 
-- Information Theory and Statistics (Dover Books on Mathematics)	Information Theory and Statistics (Dover Books on Mathematics) by Solomon Kullback (Paperback) 
-- Information Theory, Inference and Learning Algorithms	Information Theory, Inference and Learning Algorithms by David J. C. MacKay (Hardcover) 
+- Information and Randomness: An Algorithmic Perspective (Texts in Theoretical Computer Science. An EATCS Series) by Cristian S. Calude  
+- Information Rules: A Strategic Guide to the Network Economy by Carl Shapiro, Hal R. Varian  
+- Information Theory and Statistics (Dover Books on Mathematics)) by Solomon Kullback  
+- Information Theory, Inference and Learning Algorithms	Information Theory, Inference and Learning Algorithms by David J. C. MacKay  
 - Information: A Very Short Introduction by Luciano Floridi
 - Innate: How the Wiring of Our Brains Shapes Who We Are Kevin J. Mitchell (https://press.princeton.edu/books/paperback/9780691204154/innate)
-- Innumeracy by John Allen Paulos
-- Innumeracy: Mathematical Illiteracy and Its Consequences	Innumeracy: Mathematical Illiteracy and Its Consequences by John Allen Paulos (Paperback) 
-- Insanely Great: The Life and Times of Macintosh, the Computer that Changed Everything	Insanely Great: The Life and Times of Macintosh, the Computer that Changed Everything by Steven Levy (Paperback) |
+- Innumeracy: Mathematical Illiteracy and Its Consequences by John Allen Paulos  
+- Insanely Great: The Life and Times of Macintosh, the Computer that Changed Everything by Steven Levy 
 - Insanely Simple: The Obsession That Drives Apple's Success, Ken Segall
 - Inside Intel: Andy Grove and the Rise of the World's Most Powerful Chip Company by Tim Jackson
-- Inside Network Perimeter Security: The Definitive Guide to Firewalls, Vpns, Routers, and Intrusion Detection Systems	Inside Network Perimeter Security: The Definitive Guide to Firewalls, Vpns, Routers, and Intrusion Detection Systems by Lenny Zeltser, Scott Winters (Paperback) 
-- Intelligence: From Secrets to Policy . Mark M. Lowenthal .
-- Interconnections: Bridges, Routers, Switches, and Internetworking Protocols	Interconnections: Bridges, Routers, Switches, and Internetworking Protocols by Radia Perlman (Hardcover) 
-- Intrinsic Motivation and Self-Determination in Human Behavior (Perspectives in Social Psychology) https://www.amazon.com/Intrinsic-Motivation-Self-Determination-Perspectives-Psychology/dp/0306420228 (Fuente: En bibliografía del paper “World Discovery Models” (1902.07685.pdf) )
+- Inside Network Perimeter Security: The Definitive Guide to Firewalls, Vpns, Routers, and Intrusion Detection Systems by Lenny Zeltser, Scott Winters  
+- Intelligence: From Secrets to Policy . Mark M. Lowenthal
+- Interconnections: Bridges, Routers, Switches, and Internetworking Protocols by Radia Perlman  
+- Intrinsic Motivation and Self-Determination in Human Behavior (Perspectives in Social Psychology) (Fuente: En bibliografía del paper “World Discovery Models” (1902.07685.pdf) )
 - Introducing Time: A Graphic Guide by Craig Callender
-- Introduction to functional programming (Prentice Hall international series in computer science)	Introduction to functional programming (Prentice Hall international series in computer science) by Richard Bird (Hardcover) |
+- Introduction to functional programming (Prentice Hall international series in computer science) by Richard Bird 
 - Introduction to Lattices and Order by B. A. Davey
 - Introduction to Machine Learning with Python: A Guide for Data Scientists, Andreas C. Müller
 - Introduction to Real Analysis by Robert G. Bartle
 - Introduction to Systems Theory. Niklas Luhmann
-- Introduction to the Personal Software Process	Introduction to the Personal Software Process by Watts S Humphrey (Paperback) 
-- Introduction to the Theory of Computation by Michael Sipser (2012-06-27)	Introduction to the Theory of Computation by Michael Sipser (2012-06-27)
-- Intrusion Detection With SNORT, Apache, MySQL, PHP, And ACID	Intrusion Detection With SNORT, Apache, MySQL, PHP, And ACID by Rafeeq Rehman (Paperback) 
-- Intrusion Signatures and Analysis	Intrusion Signatures and Analysis by Matt Fearnow, Karen Federick (Paperback) |
+- Introduction to the Personal Software Process	by Watts S Humphrey  
+- Introduction to the Theory of Computation by Michael Sipser
+- Intrusion Detection With SNORT, Apache, MySQL, PHP, And ACID by Rafeeq Rehman  
+- Intrusion Signatures and Analysis by Matt Fearnow, Karen Federick 
 - Inventing Temperature: Measurement and Scientific Progress (Oxford Studies in Philosophy of Science) by Hasok Chang
-- Inventory Accuracy: People, Processes, & Technology	Inventory Accuracy: People, Processes, & Technology by David J. Piasecki (Hardcover) |
-- Inventory Management and Production Planning and Scheduling	Inventory Management and Production Planning and Scheduling by Edward A. Silver, David F. Pyke (Hardcover) |
+- Inventory Accuracy: People, Processes, & Technology by David J. Piasecki 
+- Inventory Management and Production Planning and Scheduling by Edward A. Silver, David F. Pyke  |
 - Iron Curtain: The Crushing of Eastern Europe, 1944-1956 by Anne Applebaum
 - Irony and Sarcasm by Roger Kreuz (https://mitpress.mit.edu/books/irony-and-sarcasm)
 - Irrational Man: A Study in Existential Philosophy by William Barrett
 - Is Water H2O?: Evidence, Realism and Pluralism (Boston Studies in the Philosophy and History of Science, 293) by Hasok Chang
-- Isaac Newton	Isaac Newton by James Gleick (Hardcover) |
 - Isaac Newton by James Gleick
-- Island	Island by Aldous Huxley (Kindle Edition) 
+- Island by Aldous Huxley  
 - Islands of Abandonment, NATURE REBOUNDING IN THE POST-HUMAN LANDSCAPE, By CAL FLYN
 - It From Bit or Bit From It?: On Physics and Information (The Frontiers Collection) by Anthony Aguirre
-- IT Systems Management: Designing, Implementing, and Managing World-Class Infrastructures	IT Systems Management: Designing, Implementing, and Managing World-Class Infrastructures by Rich Schiesser (Hardcover) 
+- IT Systems Management: Designing, Implementing, and Managing World-Class Infrastructures by Rich Schiesser  
 - J.R.R. Tolkien: A Biography by Humphrey Carpenter
 - Jacques Pépin New Complete Techniques by Jacques Pepin
 - James Hamilton: You Should Have Heard Just What I Seen: The Music Photography by Thurston Moore
 - Japan to 1600: A Social and Economic History by William Wayne Farris
-- Java: The Complete Reference, Eleventh Edition	Java: The Complete Reference, Eleventh Edition by Herbert Schildt (Paperback) 
-- Jazz	Jazz by Herman Leonard (Hardcover) |
+- Java: The Complete Reference, Eleventh Edition by Herbert Schildt  
 - Jazz by Herman Leonard
-- Jazz Icons: Series 2 (Boxed Set)	Jazz Icons: Series 2 (Boxed Set)
-- Jazz: A Film By Ken Burns	Jazz: A Film By Ken Burns
+- Jazz Icons: Series 2 (Boxed Set)
 - The Jesus Machine: How James Dobson, Focus on the Family, and Evangelical America Are Winning the Culture War. Dan Gilgoff. (Ref “Jesus and John Wayne”, chapter 4,21)
-- Joe Walsh: The Definitive Collection	Joe Walsh: The Definitive Collection by Joe Walsh (Audio CD) 
-- Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with Them in Some Capacity	Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with Them in Some Capacity by Joel Spolsky (Paperback) 
+- Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with Them in Some Capacity by Joel Spolsky  
 - Johnny Got His Gun by Dalton Trumbo
 - Journey of the Software Professional: The Sociology of Software Development by Luke Hohmann
 - Journey through Genius: The Great Theorems of Mathematics by William Dunham
@@ -633,209 +600,206 @@ Libros a explorar / Books to explore
 - Junkyard Jam Band. DIY Musical Instruments and Noisemakers, David Erik Nelson
 - Kant: A Complete Introduction (Teach Yourself: Philosophy & Religion) by Robert Wicks
 - Kant's Groundwork for the Metaphysics of Morals: A Commentary by Henry E. Allison
-- Karl Popper. A Centenary Assessment. Volume I - Life and Times, and Values in a World of Facts	Karl Popper. A Centenary Assessment. Volume I - Life and Times, and Values in a World of Facts by Ian Jarvie, Karl Milford (Paperback) 
+- Karl Popper. A Centenary Assessment. Volume I - Life and Times, and Values in a World of Facts by Ian Jarvie, Karl Milford  
 - Kelly: More Than My Share of It All by Clarence L. "Kelly" Johnson
-- Kerberos: A Network Authentication System	Kerberos: A Network Authentication System by Brian Tung (Paperback) 
-- Kernel Methods for Pattern Analysis	Kernel Methods for Pattern Analysis by John Shawe-Taylor (Hardcover) 
+- Kerberos: A Network Authentication System by Brian Tung  
+- Kernel Methods for Pattern Analysis by John Shawe-Taylor  
 - Kill Anything That Moves: The Real American War in Vietnam (American Empire Project) by Nick Turse
 - Kindred: Neanderthal Life, Love, Death and Art , by Rebecca Wragg Sykes
 - Know My Name: A Memoir by Chanel Miller
-- Know Your Enemy: Revealing the Security Tools, Tactics, and Motives of the Blackhat Community	Know Your Enemy: Revealing the Security Tools, Tactics, and Motives of the Blackhat Community by Honeynet Project (Paperback) 
+- Know Your Enemy: Revealing the Security Tools, Tactics, and Motives of the Blackhat Community by Honeynet Project  
 - Knowledge: A Very Short Introduction (Very Short Introductions) by Jennifer Nagel
-- La distinción: Criterio y bases sociales del gusto (Spanish Edition)	La distinción: Criterio y bases sociales del gusto (Spanish Edition) by Pierre Bourdieu (Kindle Edition) 
+- La distinción: Criterio y bases sociales del gusto (Spanish Edition) by Pierre Bourdieu  
 - Labor in the Global Digital Economy: The Cybertariat Comes of Age by Ursula Huws
 - Lady Luck: The Theory of Probability (Dover Books on Mathematics) by Warren Weaver
 - La nervadura de lo real. Imaginación y razón en Spinoza, Marilena Chaui Souza
 - La Planète des singes, Pierre Boulle
 - Lágrimas en la lluvia. Rosa Montero
-- Language and Mind by Noam Chomsky (Paperback) 
+- Language and Mind by Noam Chomsky  
 - Language Implementation Patterns: Create Your Own Domain Specific and General Programming Languages by Terence Parr
-- Language, Truth and Logic (Penguin Modern Classics) - Kindle edition by Ayer, A.J., Rogers, Ben.
-- Las ciudades invisibles (Biblioteca Italo Calvino nº 3) (Spanish Edition)	Las ciudades invisibles (Biblioteca Italo Calvino nº 3) (Spanish Edition) by Italo Calvino, Aurora Bernárdez (Kindle Edition) 
-- Last Witnesses: An Oral History of the Children of World War II	Last Witnesses: An Oral History of the Children of World War II by Svetlana Alexievich, Richard Pevear (Kindle Edition) 
+- Language, Truth and Logic (Penguin Modern Classics) -  by Ayer, A.J., Rogers, Ben.
+- Las ciudades invisibles (Biblioteca Italo Calvino nº 3) by Italo Calvino, Aurora Bernárdez  
+- Last Witnesses: An Oral History of the Children of World War II by Svetlana Alexievich, Richard Pevear  
 - Lave, Jean, Cognition in Practice: Mind, Mathematics, and Culture in Everyday Life, Cambridge University Press, 1988. (Ref in Norvig’s great essay “Teach Yourself Programming in Ten Years”)
-- Law, Sex, and Christian Society in Medieval Europe	Law, Sex, and Christian Society in Medieval Europe by James A. Brundage (Paperback) 
+- Law, Sex, and Christian Society in Medieval Europe by James A. Brundage  
 - Learn Calligraphy: The Complete Book of Lettering and Design by Margaret Shepherd
-- Learned Pigs & Fireproof Women: Unique, Eccentric and Amazing Entertainers	Learned Pigs & Fireproof Women: Unique, Eccentric and Amazing Entertainers by Ricky Jay (Paperback) 
-- Learning Resources Prepared Slides Combo Set, 48 Specimens	Learning Resources Prepared Slides Combo Set, 48 Specimens
-- Learning to See Creatively: Design, Color & Composition in Photography (Updated Edition)	Learning to See Creatively: Design, Color & Composition in Photography (Updated Edition) by Bryan Peterson (Paperback) 
-- Leibniz: A Very Short Introduction (Very Short Introductions)	Leibniz: A Very Short Introduction (Very Short Introductions) by Maria Rosa Antognazza (Kindle Edition) 
-- Leica m the Advanced School of Photography	Leica m the Advanced School of Photography by Gunter Osterloh (Hardcover) |
+- Learned Pigs & Fireproof Women: Unique, Eccentric and Amazing Entertainers by Ricky Jay  
+- Learning Resources Prepared Slides Combo Set, 48 Specimens
+- Learning to See Creatively: Design, Color & Composition in Photography (Updated Edition) by Bryan Peterson  
+- Leibniz: A Very Short Introduction by Maria Rosa Antognazza  
+- Leica m the Advanced School of Photography by Gunter Osterloh  |
 - Legacy of Violence: A History of the British Empire. Caroline Elkins 
 - Les années. Annie Ernaux.
 - Lessons from a Dark Time and Other Essays by Adam Hochschild
 - Letters to My Palestinian Neighbor: Yossi Klein Halevi: 9780062844910
 - L'événement. Annie Ernaux.
 - Leviathan (Penguin Classics) by Thomas Hobbes
-- Leviathan Wakes (The Expanse Book 1)	Leviathan Wakes (The Expanse Book 1) by James S. A. Corey (Kindle Edition) |
-- Liar's Poker: Rising Through the Wreckage on Wall Street	Liar's Poker: Rising Through the Wreckage on Wall Street by Michael Lewis (Paperback) 
+- Leviathan Wakes (The Expanse Book 1) by James S. A. Corey 
+- Liar's Poker: Rising Through the Wreckage on Wall Street by Michael Lewis  
 - Life’s Edge: The Search for What It Means to Be Alive, Zimmer.
-- Lightning in a Bottle: Chaos, Complexity, and Computation in Climate Science. ("This is my doctoral dissertation, which also features a lot of discussions of chaos. Chapters 5 and 6 in particular might be relevant.")
-- Like a Mother: A Feminist Journey Through the Science and Culture of Pregnancy - Kindle edition by Angela Garbes. Health, Fitness & Dieting Kindle eBooks . (Entrevista con autora en podcast “talk nerdy”)
+- Lightning in a Bottle: Chaos, Complexity, and Computation in Climate Science. ("...which also features a lot of discussions of chaos. Chapters 5 and 6 in particular might be relevant.")
+- Like a Mother: A Feminist Journey Through the Science and Culture of Pregnancy by Angela Garbes. (Entrevista con autora en podcast “Talk nerdy”)
 - Linguistics: An Introduction to Language and Communication, 6th edition (The MIT Press) by Adrian Akmajian
 - Lise Meitner: A Life in Physics (Volume 11) (9780520208605): Sime, Ruth Lewin
 - Lisp in Small Pieces. by Christian Queinnec
 - Literate Programming (Lecture Notes) by Donald E. Knuth
 - Logic for Philosophy, Theodore Sider
-- Logic	Logic by Wilfrid Hodges (Paperback) 
+- Logic by Wilfrid Hodges  
 - Logic: The Laws of Truth, by Nicholas J.J. Smith
 - Logicomix: An epic search for truth by Apostolos Doxiadis
 - Loneliness: Human Nature and the Need for Social Connection by John T. Cacioppo
-- Los Alamos	Los Alamos by William Eggleston (Hardcover) |
+- Los Alamos by William Eggleston  |
 - Lost Connections: Uncovering the Real Causes of Depression – and the Unexpected Solutions
-- Lost History: Contras, Cocaine, the Press & 'Project Truth'	Lost History: Contras, Cocaine, the Press & 'Project Truth' by Robert Parry (Paperback) |
+- Lost History: Contras, Cocaine, the Press & 'Project Truth' by Robert Parry  
 - Lost in Thought: The Hidden Pleasures of an Intellectual Life by Zena Hitz
 - Love and Math: The Heart of Hidden Reality by Edward Frenkel
-- Love's Knowledge: Essays on Philosophy and Literature	Love's Knowledge: Essays on Philosophy and Literature by Martha C. Nussbaum (Paperback) 
-- Ludwig Wittgenstein: The Duty of Genius	Ludwig Wittgenstein: The Duty of Genius by Ray Monk (Paperback) 
+- Love's Knowledge: Essays on Philosophy and Literature by Martha C. Nussbaum  
+- Ludwig Wittgenstein: The Duty of Genius by Ray Monk  
 - Luhmann Explained: From souls to systems. Hans-Georg Moeller.
 - Lying: Moral Choice in Public and Private Life by Sissela Bok
 - Lyrical and Critical Essays by Albert Camus
-- Machine Beauty: Elegance And The Heart Of Technology (Repr Ed) (Masterminds)	Machine Beauty: Elegance And The Heart Of Technology (Repr Ed) (Masterminds) by David Gelernter (Paperback) 
+- Machine Beauty: Elegance And The Heart Of Technology (Repr Ed) (Masterminds) by David Gelernter  
 - Madhouse at the End of the Earth. THE BELGICA'S JOURNEY INTO THE DARK ANTARCTIC NIGHT, by Julian Sancton
 - Magic Furnace by Marcus Choun
-- Magic Trees of the Mind: How to Nurture Your Child's Intelligence, Creativity, and Healthy Emotions from Birth Through Adolescence	Magic Trees of the Mind: How to Nurture Your Child's Intelligence, Creativity, and Healthy Emotions from Birth Through Adolescence by Marian Diamond, Janet Hopson (Paperback) 
-- Magritte: Attempting the Impossible	Magritte: Attempting the Impossible by Siegfried Gohr, René Magritte (Hardcover) |
+- Magic Trees of the Mind: How to Nurture Your Child's Intelligence, Creativity, and Healthy Emotions from Birth Through Adolescence by Marian Diamond, Janet Hopson  
+- Magritte: Attempting the Impossible by Siegfried Gohr, René Magritte  |
 - Make It Stick: The Science of Successful Learning by Peter C. Brown
 - Making Software: What Really Works, and Why We Believe It by Andy Oram
 - Malina by Ingeborg Bachmann
-- Manage I.T.: A Step by Step Guide to Help New and Aspiring IT Managers Make the Right Career Choices and Gain the Skills Necessary	Manage I.T.: A Step by Step Guide to Help New and Aspiring IT Managers Make the Right Career Choices and Gain the Skills Necessary by Joe Santana, Jim Donovan (Paperback) |
+- Manage I.T.: A Step by Step Guide to Help New and Aspiring IT Managers Make the Right Career Choices and Gain the Skills Necessary by Joe Santana, Jim Donovan  |
 - Managing Software Requirements: A Use Case Approach by Dean Leffingwell
-- Managing Technical People: Innovation, Teamwork, and the Software Process	Managing Technical People: Innovation, Teamwork, and the Software Process by Watts S Humphrey (Paperback) 
+- Managing Technical People: Innovation, Teamwork, and the Software Process by Watts S Humphrey  
 - Managing the Unmanageable
 - Manifold: Time, Stephen Baxter
 - Manufactured Landscapes: The Photographs of Edward Burtynsky by Edward Burtynsky
-- Map Of Middle Earth The Lord Of The Rings Nice Silk Fabric Cloth Wall Poster Print (20x13inch)	Map Of Middle Earth The Lord Of The Rings Nice Silk Fabric Cloth Wall Poster Print (20x13inch)
-- Marco Polo and the Encounter of East and West	Marco Polo and the Encounter of East and West by Suzanne Conklin Akbari, Amilcare Iannucci (Hardcover) |
+- Marco Polo and the Encounter of East and West	by Suzanne Conklin Akbari, Amilcare Iannucci  |
 - Markets in the Name of Socialism por Johanna Bockman
 - Marriage, a History: How Love Conquered Marriage by Stephanie Coontz
 - Martian's Daughter: A Memoir, von Neumann Whitman
 - Martians of Science: Five Physicists Who Changed the Twentieth Century by Istvan Hargittai
 - Marx, Capital and the Madness of Economic Reason
-- Marx's Concept of Man	Marx's Concept of Man by Erich Fromm, T. Bottomore (Kindle Edition) 
+- Marx's Concept of Man	Marx's Concept of Man by Erich Fromm, T. Bottomore  
 - Masochism: Coldness and Cruelty (French: Présentation de Sacher-Masoch) is a 1967 book by the philosopher Gilles Deleuze (ref by Samantha Hill @ the quarantine tapes podcast episode 171)
 - Mastering Bitcoin: Unlocking Digital Cryptocurrencies, Andreas M. Antonopoulos
 - Mastering Copperplate Calligraphy: A Step-by-Step Manual (Lettering, Calligraphy, Typography) by Eleanor Winters
-- Mastering Digital SLR Photography	Mastering Digital SLR Photography by David D. Busch (Paperback) 
-- Mastering the Requirements Process	Mastering the Requirements Process by Suzanne Robertson, James Robertson (Hardcover) 
-- Mathematical Excursions to the World's Great Buildings	Mathematical Excursions to the World's Great Buildings by Alexander J. Hahn (Hardcover) 
+- Mastering Digital SLR Photography by David D. Busch  
+- Mastering the Requirements Process by Suzanne Robertson, James Robertson  
 - Mathematical Excursions to the World's Great Buildings by Alexander J. Hahn
 - Mathematical Snapshots (http://store.doverpublications.com/0486409147.html)
-- Mathematician's Delight (Penguin mathematics)	Mathematician's Delight (Penguin mathematics) by W. W. Sawyer (Paperback) |
-- Mathematics and Humor	Mathematics and Humor by John Allen Paulos (Paperback) 
+- Mathematician's Delight (Penguin mathematics) by W. W. Sawyer  |
+- Mathematics and Humor	Mathematics and Humor by John Allen Paulos  
 - Mathematics and Its History (Undergraduate Texts in Mathematics)
 - Mathematics and Plausible Reasoning, Volume 1: Induction and Analogy in Mathematics: G. Polya: 9780691025094
 - Mathematics and the Unexpected, by Ivar Ekeland (University of Chicago Press, 1988)
-- Mathematics for Computer Graphics Applications (Volume 1)	Mathematics for Computer Graphics Applications (Volume 1) by Michael Mortenson (Hardcover) 
+- Mathematics for Computer Graphics Applications (Volume 1) by Michael Mortenson  
 - Mathematics: A Very Short Introduction (Very Short Introductions)" by Timothy Gowers
-- Max Weber: A Biography	Max Weber: A Biography by Marianne Weber (Kindle Edition) |
+- Max Weber: A Biography by Marianne Weber  |
 - Measurement by Paul Lockhart
 - Medieval Technology and Social Change by Lynn White
-- Meditations on Middle Earth	Meditations on Middle Earth by Karen Haber (Paperback) 
+- Meditations on Middle Earth by Karen Haber  
 - Meet Me at Jim & Andy's: Jazz Musicians and Their World by Gene Lees
-- Memories of Myself (PHOTOGRAPHY)	Memories of Myself (PHOTOGRAPHY) by Danny Lyon (Hardcover) |
+- Memories of Myself (PHOTOGRAPHY) by Danny Lyon  |
 - Memory Machines: The Evolution of Hypertext (Anthem Scholarship in the Digital Age), Belinda Barnet
 - Men in Dark Times by Hannah Arendt
 - Men's Merrell Polar Moc Waterproof (11.5 M U.S. in Iron Grey)	Men's Merrell Polar Moc Waterproof (11.5 M U.S. in Iron Grey)
-- Mensa Logic Puzzles	Mensa Logic Puzzles by Chronicle Books Staff (Misc. Supplies) 
+- Mensa Logic Puzzles by Chronicle Books Staff (Misc. Supplies) 
 - Menswear Revolution por Jay McCauley Bowstead (Entrevista con el autor en el podcast thinking allowed, episodio "Menswear Revolution" )
 - Mental Immunity: Infectious Ideas, Mind-Parasites, and the Search for a Better Way to Think by Andy Norman
 - Mere Civility: Disagreement and the Limits of Toleration. Teresa M. Bejan. 
 - Merleau-Ponty: La Experiencia del Pensamiento, Marilena Chaui Souza 
 - Metáforas de la vida cotidiana (Teorema. Serie Menor) (Spanish Edition) by Mark Johnson
 - Metaphysical Animals: How Four Women Brought Philosophy Back to Life.
-- METRO 2033. (ENGLISH Ebook) The novel behind the METRO: LAST LIGHT video game., Dmitry Glukhovsky
+- METRO 2033. The novel behind the METRO: LAST LIGHT video game., Dmitry Glukhovsky
 - Michel de Montaigne - The Complete Essays (Penguin Classics) by Michel de Montaigne
-- Michel Foucault: Beyond Structuralism and Hermeneutics	Michel Foucault: Beyond Structuralism and Hermeneutics by Hubert L. Dreyfus, Paul Rabinow (Kindle Edition) 
-- Michelangelo's Finger	Michelangelo's Finger by Raymond Tallis (Kindle Edition) 
-- Microsoft in the Mirror: Nineteen Insiders Reflect on the Experience	Microsoft in the Mirror: Nineteen Insiders Reflect on the Experience by Karin Carter (Paperback) |
+- Michel Foucault: Beyond Structuralism and Hermeneutics by Hubert L. Dreyfus, Paul Rabinow  
+- Michelangelo's Finger by Raymond Tallis  
+- Microsoft in the Mirror: Nineteen Insiders Reflect on the Experience by Karin Carter  |
 - Miles: The Autobiography by Miles Davis
 - Mimesis: The Representation of Reality in Western Literature, Erich Auerbach (ref podcast “Quarantine tapes”, episode 173)
 - Mindware: An Introduction to the Philosophy of Cognitive Science by Andy Clark
-- MIRROR WORLDS	MIRROR WORLDS by GELERNTER (Paperback) 
+- Mirror Worlds	by GELERNTER  
 - Misery, Stephen King
-- Mobile Robots: Inspiration to Implementation, Second Edition	Mobile Robots: Inspiration to Implementation, Second Edition by Joseph L. Jones, Bruce A. Seiger (Paperback) 
-- Modern Physics	Modern Physics by Paul A. Tipler, Ralph Llewellyn (Hardcover) |
+- Mobile Robots: Inspiration to Implementation, Second Edition by Joseph L. Jones, Bruce A. Seiger  
+- Modern Physics by Paul A. Tipler, Ralph Llewellyn  |
 - MONOPOLIZED, by David Dayen
-- Moon Lander: How We Developed the Apollo Lunar Module (Smithsonian History of Aviation and Spaceflight (Paperback)) by Thomas J. Kelly
+- Moon Lander: How We Developed the Apollo Lunar Module (Smithsonian History of Aviation and Spaceflight ) by Thomas J. Kelly
 - Moondust: In Search of the Men Who Fell to Earth by Andrew Smith
 - Moral Mazes: The World of Corporate Managers by Robert Jackall
-- Moral Minds: How Nature Designed Our Universal Sense of Right and Wrong	Moral Minds: How Nature Designed Our Universal Sense of Right and Wrong by Marc Hauser (Hardcover) 
-- Moral Panics and the Copyright Wars	Moral Panics and the Copyright Wars by William Patry (Hardcover) 
+- Moral Minds: How Nature Designed Our Universal Sense of Right and Wrong by Marc Hauser  
+- Moral Panics and the Copyright Wars by William Patry  
 - Moral Politics : How Liberals and Conservatives Think. George Lakoff. (Ref “Jesus and John Wayne”, chapter 4,23).
-- More Money Than God: Hedge Funds and the Making of a New Elite (Council on Foreign Relations Books (Penguin Press))	More Money Than God: Hedge Funds and the Making of a New Elite (Council on Foreign Relations Books (Penguin Press)) by Sebastian Mallaby (Paperback) 
+- More Money Than God: Hedge Funds and the Making of a New Elite (Council on Foreign Relations Books (Penguin Press)) by Sebastian Mallaby  
 - Mortal Republic: How Rome Fell into Tyranny by Edward J. Watts
 - Musashi by Eiji Yoshikawa & Charles Terry  (En un post de reddit recomendado en una recomendación sobre ficción historia no occidental y/o blanca)
 - Musonius Rufus: Lectures and Sayings, Cynthia King
 - My Brief History by Stephen Hawking
-- My Einstein: Essays by Twenty-four of the World's Leading Thinkers on the Man, His Work, and His Legacy	My Einstein: Essays by Twenty-four of the World's Leading Thinkers on the Man, His Work, and His Legacy by John Brockman (Hardcover) 
-- My Struggle: Book 1 - Kindle edition by Karl Ove Knausgaard, Don Bartlett
-- Mysticism and Logic (Dover Books on Western Philosophy)	Mysticism and Logic (Dover Books on Western Philosophy) by Bertrand Russell (Paperback) |
-- Mythical Man-Month, The: Essays on Software Engineering, Anniversary Edition	Mythical Man-Month, The: Essays on Software Engineering, Anniversary Edition by Frederick Brooks Jr. (Paperback) 
+- My Einstein: Essays by Twenty-four of the World's Leading Thinkers on the Man, His Work, and His Legacy by John Brockman  
+- My Struggle: Book 1 by Karl Ove Knausgaard, Don Bartlett
+- Mysticism and Logic (Dover Books on Western Philosophy) by Bertrand Russell  |
+- Mythical Man-Month, The: Essays on Software Engineering, Anniversary Edition by Frederick Brooks Jr.  
 - Myths to Live By by Joseph Campbell
-- Naive Set Theory (Undergraduate Texts in Mathematics)	Naive Set Theory (Undergraduate Texts in Mathematics) by P. R. Halmos (Hardcover) 
+- Naive Set Theory (Undergraduate Texts in Mathematics) by P. R. Halmos  
 - Narrative and Technology Ethics. Authors: Reijers, Wessel, Coeckelbergh, Mark
-- Naturalist	Naturalist by Edward O. Wilson (Paperback) |
 - Naturalist by Edward O. Wilson
 - Natural Symbols: Explorations in Cosmology . Mary Douglas.
 - Near Abroad: Putin, the West and the Contest over Ukraine and the Caucasus. by Gerard Toal.
-- Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices (The Morgan Kaufmann Series in Networking)	Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices (The Morgan Kaufmann Series in Networking) by George Varghese (Hardcover) 
-- Network Architecture and Development Series: Designing Routing and Switching Architectures	Network Architecture and Development Series: Designing Routing and Switching Architectures by Howard C. Berkowitz (Hardcover) |
+- Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices (The Morgan Kaufmann Series in Networking) by George Varghese  
+- Network Architecture and Development Series: Designing Routing and Switching Architectures by Howard C. Berkowitz  |
 - Network Attacks and Exploitation: A Framework eBook: Monte, Matthew:
-- Network Intrusion Detection: An Analysts' Handbook	Network Intrusion Detection: An Analysts' Handbook by Stephen Northcutt (Paperback) 
-- Networking Complete	Networking Complete by Sybex, Pat Coleman (Paperback) |
-- Networking: A Beginner's Guide (Network Professional's Library)	Networking: A Beginner's Guide (Network Professional's Library) by Bruce A. Hallberg (Paperback) 
-- Networks: A Very Short Introduction (Very Short Introductions)	Networks: A Very Short Introduction (Very Short Introductions) by Guido Caldarelli, Michele Catanzaro (Kindle Edition) 
-- Neural Networks for Pattern Recognition (Advanced Texts in Econometrics (Paperback))	Neural Networks for Pattern Recognition (Advanced Texts in Econometrics (Paperback)) by Christopher M. Bishop (Paperback) 
-- Neural Networks: A Comprehensive Foundation	Neural Networks: A Comprehensive Foundation by Simon Haykin (Hardcover) |
+- Network Intrusion Detection: An Analysts' Handbook by Stephen Northcutt  
+- Networking Complete by Sybex, Pat Coleman  |
+- Networking: A Beginner's Guide (Network Professional's Library) by Bruce A. Hallberg  
+- Networks: A Very Short Introduction (Very Short Introductions) by Guido Caldarelli, Michele Catanzaro  
+- Neural Networks for Pattern Recognition (Advanced Texts in Econometrics ) by Christopher M. Bishop  
+- Neural Networks: A Comprehensive Foundation by Simon Haykin  |
 - Never Let Me Go, Kazuo Ishiguro
-- New Father Book: What Every New Father Needs to Know to Be a Good Dad	New Father Book: What Every New Father Needs to Know to Be a Good Dad by Wade F. Horn, Jeffrey Rosenberg (Paperback) |
-- Newton's Clock: Chaos in the Solar System	Newton's Clock: Chaos in the Solar System by Ivars Peterson (Paperback) 
+- New Father Book: What Every New Father Needs to Know to Be a Good Dad by Wade F. Horn, Jeffrey Rosenberg  |
+- Newton's Clock: Chaos in the Solar System by Ivars Peterson  
 - Nietzsche: Life as Literature (9780674624269): Alexander Nehamas: Books
 - Nietzsche: On the Genealogy of Morality and Other Writings (Cambridge Texts in the History of Political Thought) by Friedrich Nietzsche
-- Nietzsche: The Gay Science: With a Prelude in German Rhymes and an Appendix of Songs (Cambridge Texts in the History of Philosophy)	Nietzsche: The Gay Science: With a Prelude in German Rhymes and an Appendix of Songs (Cambridge Texts in the History of Philosophy) by Friedrich Nietzsche, Bernard Williams (Kindle Edition) |
-- Nietzsche: Thus Spoke Zarathustra (Cambridge Texts in the History of Philosophy)	Nietzsche: Thus Spoke Zarathustra (Cambridge Texts in the History of Philosophy) by Robert Pippin, Adrian Del Caro (Kindle Edition) |
-- Nihilism (The MIT Press Essential Knowledge series)	Nihilism (The MIT Press Essential Knowledge series) by Nolen Gertz (Paperback) 
+- Nietzsche: The Gay Science: With a Prelude in German Rhymes and an Appendix of Songs (Cambridge Texts in the History of Philosophy) by Friedrich Nietzsche, Bernard Williams  |
+- Nietzsche: Thus Spoke Zarathustra (Cambridge Texts in the History of Philosophy) by Robert Pippin, Adrian Del Caro  |
+- Nihilism (The MIT Press Essential Knowledge series) by Nolen Gertz  
 - Nihilism of Technology by Nolen Gertz
 - Ninefox Gambit (1) (Machineries of Empire) by Yoon Ha Lee
 - No Contest: The Case Against Competition, Alfie Kohn
 - No Platform, A History of Anti-Fascism, Universities and the Limits of Free Speech, By Evan Smith
 - No Time to Spare: Thinking About What Matters, Le Guin
-- Non-Photorealistic Rendering	Non-Photorealistic Rendering by Bruce Gooch, Amy Gooch (Hardcover) 
-- Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering by Stephen Strogatz. ("This is a textbook, but it's great, and really clearly written.")
+- Non-Photorealistic Rendering	Non-Photorealistic Rendering by Bruce Gooch, Amy Gooch  
+- Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering by Stephen Strogatz.
 - Normal Accidents: Living with High-Risk Technologies by Charles Perrow
 - Not by Reason Alone: Religion, History, and Identity in Early Modern Political Thought by Joshua Mitchell
-- Notebooks of the Mind: Explorations of Thinking	Notebooks of the Mind: Explorations of Thinking by Vera John-Steiner (Paperback) 
+- Notebooks of the Mind: Explorations of Thinking by Vera John-Steiner  
 - Number Theory (Dover Books on Mathematics) by George E. Andrews
 - Number Theory: A Very Short Introduction (Very Short Introductions): Wilson, Robin: 9780198798095
 - Obfuscation A USER'S GUIDE FOR PRIVACY AND PROTEST By FINN BRUNTON and HELEN NISSENBAUM (https://www.penguinrandomhouse.com/books/657301/obfuscation-by-finn-brunton-and-helen-nissenbaum/)
 - Object-Oriented Software Construction (Book/CD-ROM) (2nd Edition) by Bertrand Meyer
 - Oblomov, Ivan Goncharov
-- Occam's Razor: An Outside-In View of Contemporary Photography	Occam's Razor: An Outside-In View of Contemporary Photography by Bill Jay (Paperback) |
-- Occidental Mythology (Masks of God)	Occidental Mythology (Masks of God) by Joseph Campbell (Paperback) |
-- Of Mice and Men	Of Mice and Men by John Steinbeck (Mass Market Paperback) 
+- Occam's Razor: An Outside-In View of Contemporary Photography by Bill Jay  |
+- Occidental Mythology (Masks of God) by Joseph Campbell  |
+- Of Mice and Men by John Steinbeck (Mass Market Paperback) 
 - Of Time, Passion, and Knowledge by Julius Thomas Fraser
-- On Being a Photographer: A Practical Guide	On Being a Photographer: A Practical Guide by David Hurn, Bill Jay (Paperback) |
+- On Being a Photographer: A Practical Guide by David Hurn, Bill Jay  |
 - On Being and Becoming: An Existentialist Approach to Life (GUIDES TO THE GOOD LIFE SERIES): Gosetti-Ferencei, Jennifer Anna
 - On Being Me: A Personal Invitation to Philosophy J. David Velleman
 - On Complexity (Advances in Systems Theory, Complexity, and the Human Sciences) by Edgar Morin
 - On Earth as It Is in Heaven: Religion in Modern Latin America (Jaguar Books on Latin America) by Virginia Garrard-Burnett
-- On Evidence in Philosophy	On Evidence in Philosophy by William G. Lycan (Hardcover) 
+- On Evidence in Philosophy by William G. Lycan  
 - On happiness. Alain
-- On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines	On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines by Jeff Hawkins, Sandra Blakeslee (Hardcover) 
+- On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines by Jeff Hawkins, Sandra Blakeslee  
 - On Kissing, Tickling, and Being Bored: Psychoanalytic Essays on the Unexamined Life, Adam Phillips (ref author by host @ the quarantined tapes episode 171)
-- On Language: Chomsky's Classic Works Language and Responsibility and Reflections on Language in One Volume	On Language: Chomsky's Classic Works Language and Responsibility and Reflections on Language in One Volume by Noam Chomsky, Mitsou Ronat (Paperback) 
-- On Lisp: Advanced Techniques for Common Lisp	On Lisp: Advanced Techniques for Common Lisp by Paul Graham (Perfect Paperback) |
+- On Language: Chomsky's Classic Works Language and Responsibility and Reflections on Language in One Volume by Noam Chomsky, Mitsou Ronat  
+- On Lisp: Advanced Techniques for Common Lisp by Paul Graham (Perfect Paperback) |
 - On Power: The Natural History of Its Growth by Bertrand de Jouvenel
 - On Revolution (Penguin Classics) by Hannah Arendt
-- On the Abolition of All Political Parties (NYRB Classics)	On the Abolition of All Political Parties (NYRB Classics) by Simone Weil, Simon Leys (Paperback) 
+- On the Abolition of All Political Parties (NYRB Classics) by Simone Weil, Simon Leys  
 - On the Advantage and Disadvantage of History for Life (Hackett Classics) by Friedrich Nietzsche
 - On the Fourfold Root of the Principle of Sufficient Reason and Other Writings, Arthur Schopenhauer.
 - On the pleasure principle in culture. Robert Pfaller.
 - On Tyranny: Twenty Lessons from the Twentieth Century by Timothy Snyder
-- On Writing Well: The Classic Guide to Writing Nonfiction	On Writing Well: The Classic Guide to Writing Nonfiction by William Zinsser (Paperback) 
+- On Writing Well: The Classic Guide to Writing Nonfiction by William Zinsser  
 - On Writing: A Memoir Of The Craft, Stephen King
-- One Flew Over the Cuckoo's Nest: 50th Anniversary Edition	One Flew Over the Cuckoo's Nest: 50th Anniversary Edition by Ken Kesey, Robert Faggen (Kindle Edition) 
+- One Flew Over the Cuckoo's Nest: 50th Anniversary Edition by Ken Kesey, Robert Faggen  
 - One World The Ethics of Globalization, Peter Singer
 - Operating System Design: The Xinu Approach. by Douglas Comer
 - Optimal Control Theory: An Introduction (Dover Books on Electrical Engineering) by Donald E. Kirk
@@ -843,223 +807,212 @@ Libros a explorar / Books to explore
 - Orlando, by Virginia Woolf
 - Osman's Dream: The History of the Ottoman Empire by Caroline Finkel
 - Otaku: Japan’s Database Animals by Hiroki Azuma
-- Our Inner Ape: A Leading Primatologist Explains Why We Are Who We Are	Our Inner Ape: A Leading Primatologist Explains Why We Are Who We Are by Frans de Waal (Paperback) 
+- Our Inner Ape: A Leading Primatologist Explains Why We Are Who We Are	by Frans de Waal  
 - Our Lady of Darkness, by Fritz Leiber
 - Out of the Crisis (The MIT Press) by W. Edwards Deming
-- OUT STEALING HORSES	OUT STEALING HORSES by Per Petterson (Paperback) 
-- Outline of a Theory of Practice (Cambridge Studies in Social and Cultural Anthropology Book 16)	Outline of a Theory of Practice (Cambridge Studies in Social and Cultural Anthropology Book 16) by Pierre Bourdieu, Richard Nice (Kindle Edition) |
+- OUT STEALING HORSES	OUT STEALING HORSES by Per Petterson  
+- Outline of a Theory of Practice (Cambridge Studies in Social and Cultural Anthropology Book 16) by Pierre Bourdieu, Richard Nice  |
 - Pachinko (National Book Award Finalist) by Min Jin Lee
-- Pale Blue Dot: A Vision of the Human Future in Space	Pale Blue Dot: A Vision of the Human Future in Space by Carl Sagan (Paperback) 
-- Pantone Postcard Box: 100 Postcards (Pantone Color Chip Card Set, Art Postcards)	Pantone Postcard Box: 100 Postcards (Pantone Color Chip Card Set, Art Postcards)
-- Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp	Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp by Peter Norvig (Paperback) 
+- Pale Blue Dot: A Vision of the Human Future in Space by Carl Sagan  
+- Pantone Postcard Box: 100 Postcards (Pantone Color Chip Card Set, Art Postcards)
+- Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp by Peter Norvig  
 - Paradoxes: 3rd (third) Edition by R. M. Sainsbury
 - Paradoxes from A to Z by Michael Clark
 - Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming, Simon Marlow
-- Parenting an Only Child: the Joys and Challenges of Raising Your One and Only	Parenting an Only Child: the Joys and Challenges of Raising Your One and Only by Susan Newman (Paperback) 
-- Parisians	Parisians by Peter Turnley, Edouard Boubat (Hardcover) |
+- Parenting an Only Child: the Joys and Challenges of Raising Your One and Only by Susan Newman  
+- Parisians by Peter Turnley, Edouard Boubat  |
 - Passionate Minds: Emilie du Chatelet, Voltaire, and the Great Love Affair of the Enlightenment by David Bodanis
 - Passwords (Radical Thinkers) by Jean Baudrillard
-- Pattern Recognition and Machine Learning (Information Science and Statistics)	Pattern Recognition and Machine Learning (Information Science and Statistics) by Christopher M. Bishop (Hardcover) 
-- Patterns of Enterprise Application Architecture	Patterns of Enterprise Application Architecture by Martin Fowler (Hardcover) 
+- Pattern Recognition and Machine Learning (Information Science and Statistics) by Christopher M. Bishop  
+- Patterns of Enterprise Application Architecture by Martin Fowler  
 - Penguin Classics Essays and Aphorisms (Penguin Pocket Hardbacks) by Arthur Schopenhaue
-- People in Focus: How to Photograph Anyone, Anywhere	People in Focus: How to Photograph Anyone, Anywhere by Bryan Peterson (Paperback) 
-- Peopleware: Productive Projects and Teams	Peopleware: Productive Projects and Teams by Tom DeMarco, Timothy Lister (Paperback) |
+- People in Focus: How to Photograph Anyone, Anywhere by Bryan Peterson  
+- Peopleware: Productive Projects and Teams by Tom DeMarco, Timothy Lister  |
 - Perception and Imaging: Photography--A Way of Seeing by Richard D. Zakia
 - Perceptrons, Reissue of the 1988 Expanded Edition with a new foreword by Léon Bottou: An Introduction to Computational Geometry (The MIT Press) by Marvin Minsky
 - Perfect Me: Beauty as an Ethical Ideal, by Heather Widdows
 - Performance Modeling and Design of Computer Systems (Queueing Theory in Action) by Mor Harchol-Balter
-- Personal Knowledge: Towards a Post-Critical Philosophy	Personal Knowledge: Towards a Post-Critical Philosophy by Michael Polanyi, Mary Jo Nye (Paperback) 
+- Personal Knowledge: Towards a Post-Critical Philosophy by Michael Polanyi, Mary Jo Nye  
 - Persuasive Technology by B. J. Fogg
-- Phaedrus (Hackett Classics)	Phaedrus (Hackett Classics) by Plato, Paul Woodruff (Kindle Edition) 
-- Philips 276E8VJSB 27" Monitor, 4K UHD IPS, 1 Billion+ Colors, Ultranarrow Borders, Lowblue, Multiview, 4Yr Advance Replacement Warranty	Philips 276E8VJSB 27" Monitor, 4K UHD IPS, 1 Billion+ Colors, Ultranarrow Borders, Lowblue, Multiview, 4Yr Advance Replacement Warranty
-- Philosophical Problems of Quantum Physics	Philosophical Problems of Quantum Physics by Werner Heisenberg (Paperback) |
+- Phaedrus (Hackett Classics) by Plato, Paul Woodruff  
+- Philosophical Problems of Quantum Physics by Werner Heisenberg  |
 - Philosophy and the Mirror of Nature: Thirtieth-Anniversary Edition (Princeton Classics, 30) by Richard Rorty
-- Philosophy in a Technological World: Gods and Titans	Philosophy in a Technological World: Gods and Titans by James Tartaglia (Hardcover) 
+- Philosophy in a Technological World: Gods and Titans by James Tartaglia  
 - Philosophy in the Flesh: the Embodied Mind & its Challenge to Western Thought by George Lakoff
-- Photographs Objects Histories: On the Materiality of Images (Material Cultures)	Photographs Objects Histories: On the Materiality of Images (Material Cultures) by Elizabeth Edwards, Janice Hart (Paperback) 
-- Photographs: George Eastman House43207832Photographs : George Eastman House	Photographs: George Eastman House43207832Photographs : George Eastman House by George Eastman House, Therese Mulligan (Paperback) 
-- Photography and Society (English and French Edition)	Photography and Society (English and French Edition) by Gisele Freund (Hardcover) |
-- Photography Unplugged	Photography Unplugged by Harald Mante (Hardcover) |
-- Physics for Entertainment, Book 2	Physics for Entertainment, Book 2 by Yakov Perelman (Hardcover) 
+- Photographs Objects Histories: On the Materiality of Images (Material Cultures) by Elizabeth Edwards, Janice Hart  
+- Photographs : George Eastman House by George Eastman House, Therese Mulligan  
+- Photography and Society (English and French Edition) by Gisele Freund  |
+- Photography Unplugged	Photography Unplugged by Harald Mante  |
+- Physics for Entertainment, Book 2 by Yakov Perelman  
 - Picture This How Pictures Work by Molly Bang
 - Piranesi by Susanna Clarke
 - Planetfall, Emma Newman
 - Plutocrats: The Rise of the New Global Super-Rich and the Fall of Everyone Else 
 - Poesía completa (Spanish Edition) by Alejandra Pizarnik
 - Poétique de la Relation. Édouard Glissant.
-- Poetry from the Future: Why a Global Liberation Movement Is Our Civilisation's Last Chance	Poetry from the Future: Why a Global Liberation Movement Is Our Civilisation's Last Chance by Srecko Horvat (Hardcover) 
+- Poetry from the Future: Why a Global Liberation Movement Is Our Civilisation's Last Chance by Srecko Horvat  
 - Polar Obsession by Paul Nicklen
-- Political Action: A Practical Guide to Movement Politics (New York Review Books Classics)	Political Action: A Practical Guide to Movement Politics (New York Review Books Classics) by Michael Walzer, Jon Wiener (Paperback) 
-- olitical Theology: A Critical Introduction. Saul Newman.
+- Political Action: A Practical Guide to Movement Politics (New York Review Books Classics) by Michael Walzer, Jon Wiener  
+- Political Theology: A Critical Introduction. Saul Newman.
 - Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty by Abhijit Banerjee
 - Por qué leer los clásicos (Biblioteca Calvino nº 19), Italo Calvino
-- Portraits: The World's Top Photographers	Portraits: The World's Top Photographers by Fergus Greer (Hardcover) |
+- Portraits: The World's Top Photographers by Fergus Greer  |
 - Postmortem: Une enquête de Kay Scarpetta (French Edition), Patricia Cornwell
 - Postwar: A History of Europe Since 1945 by Tony Judt
-- Practical Astronomy with your Calculator	Practical Astronomy with your Calculator by Peter Duffett-Smith (Paperback) 
-- Practical Parallel Programming (Scientific and Engineering Computation)	Practical Parallel Programming (Scientific and Engineering Computation) by Gregory V. Wilson (Hardcover) 
-- Practical Unix & Internet Security, 3rd Edition	Practical Unix & Internet Security, 3rd Edition by Simson Garfinkel, Gene Spafford (Paperback) 
-- Practical UNIX Programming	Practical UNIX Programming by Kay A. Robbins, Steven Robbins (Hardcover) |
+- Practical Astronomy with your Calculator by Peter Duffett-Smith  
+- Practical Parallel Programming (Scientific and Engineering Computation) by Gregory V. Wilson  
+- Practical Unix & Internet Security, 3rd Edition by Simson Garfinkel, Gene Spafford  
+- Practical UNIX Programming by Kay A. Robbins, Steven Robbins  |
 - Practical Wisdom by Barry Schwartz & Kenneth Sharpe (Referencia : en artículo blog “Would aliens understand lambda calculus?”)
 - Predict and Surveil: Data, Discretion, and the Future of Policing
-- Primates and Philosophers: How Morality Evolved (Princeton Science Library)	Primates and Philosophers: How Morality Evolved (Princeton Science Library) by Frans de Waal, Stephen Macedo (Hardcover) |
-- Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics	Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics by John Derbyshire (Hardcover) 
+- Primates and Philosophers: How Morality Evolved (Princeton Science Library) by Frans de Waal, Stephen Macedo  |
+- Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics by John Derbyshire  
 - Primitive Mythology (The Masks of God) by Joseph Campbell
-- Principles of the Business Rule Approach	Principles of the Business Rule Approach by Ronald G Ross (Paperback) 
-- Prisoner's Dilemma: John von Neumann, Game Theory, and the Puzzle of the Bomb	Prisoner's Dilemma: John von Neumann, Game Theory, and the Puzzle of the Bomb by William Poundstone (Paperback) 
+- Principles of the Business Rule Approach by Ronald G Ross  
+- Prisoner's Dilemma: John von Neumann, Game Theory, and the Puzzle of the Bomb by William Poundstone  
 - Privacy Engineering: A data flow and ontological approach, Ian Oliver
 - Privacy in Context: Technology, Policy, and the Integrity of Social Life by Helen Nissenbaum
 - Privacy in the Modern Age: The Search for Solutions by Marc Rotenberg
-- Privacy on the Line, updated and expanded edition: The Politics of Wiretapping and Encryption	Privacy on the Line, updated and expanded edition: The Politics of Wiretapping and Encryption by Whitfield Diffie, Susan Landau (Kindle Edition) 
+- Privacy on the Line, updated and expanded edition: The Politics of Wiretapping and Encryption by Whitfield Diffie, Susan Landau  
 - Private Government por Elizabeth Anderson
 - Private Government: How Employers Rule Our Lives (and Why We Don't Talk about It) 
-- Probabilistic Knowledge	Probabilistic Knowledge by Sarah Moss (Hardcover) 
+- Probabilistic Knowledge by Sarah Moss  
 - Probability Theory: The Logic of Science by E. T. Jaynes
 - Probably Approximately Correct: Nature's Algorithms for Learning and Prospering in a Complex World by Leslie Valiant
-- Procrastination: Why You Do It, What To Do About It	Procrastination: Why You Do It, What To Do About It by Jane Burka, Lenora M. Yuen (Paperback) 
-- Professional Software Development: Shorter Schedules, Higher Quality Products, More Successful Projects, Enhanced Careers	Professional Software Development: Shorter Schedules, Higher Quality Products, More Successful Projects, Enhanced Careers by Steve McConnell (Paperback) 
+- Procrastination: Why You Do It, What To Do About It by Jane Burka, Lenora M. Yuen  
+- Professional Software Development: Shorter Schedules, Higher Quality Products, More Successful Projects, Enhanced Careers by Steve McConnell  
 - Programmers at Work: Interviews With 19 Programmers Who Shaped the Computer Industry (Tempus) by Susan Lammers
-- Programming Expert Systems in Ops5: An Introduction to Rule-Based Programming (The Addison-Wesley series in artificial intelligence)	Programming Expert Systems in Ops5: An Introduction to Rule-Based Programming (The Addison-Wesley series in artificial intelligence) by Lee Brownston, R. Farrell (Hardcover) |
-- Programming from the Ground Up	Programming from the Ground Up by Jonathan Bartlett, Dominick Bruno Jr (Paperback) 
+- Programming Expert Systems in Ops5: An Introduction to Rule-Based Programming (The Addison-Wesley series in artificial intelligence) by Lee Brownston, R. Farrell  |
+- Programming from the Ground Up by Jonathan Bartlett, Dominick Bruno Jr  
 - Programming in Haskell, Graham Hutton
-- Programming Interviews Exposed: Secrets to Landing Your Next Job	Programming Interviews Exposed: Secrets to Landing Your Next Job by John Mongan, Noah Kindler (Paperback) |
-- Programming Language Pragmatics	Programming Language Pragmatics by Michael L. Scott (Hardcover) |
-- Programming on Purpose: Essays on Software Design	Programming on Purpose: Essays on Software Design by P. J. Plauger (Paperback) |
-- Project Management: Best Practices for It Professionals	Project Management: Best Practices for It Professionals by Richard Murch (Hardcover) |
+- Programming Interviews Exposed: Secrets to Landing Your Next Job by John Mongan, Noah Kindler  |
+- Programming Language Pragmatics by Michael L. Scott  |
+- Programming on Purpose: Essays on Software Design by P. J. Plauger  |
+- Project Management: Best Practices for It Professionals by Richard Murch  |
 - Prolog Programming for Artificial Intelligence (4th Edition) (International Computer Science Series) by Ivan Bratko
 - Prometheus Rising by Robert Anton Wilson
 - Propositional and Predicate Calculus: A Model of Argument by Derek Goldrei
 - Proust and the Squid: The Story and Science of the Reading Brain by Maryanne Wolf
-- Proust Was a Neuroscientist	Proust Was a Neuroscientist by Jonah Lehrer (Hardcover) |
+- Proust Was a Neuroscientist by Jonah Lehrer  |
 - Psychopolitics: Neoliberalism and New Technologies of Power (Verso Futures) 
 - Purity and Danger: An Analysis of Concepts of Pollution and Taboo is a 1966 book by the anthropologist and cultural theorist Mary Douglas. (Libro mencionado por Janine Wedel en un podcast sobre “How Power came to “Trump” policy and democracy”)
 - Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library), Mark Summerfield
 - QED: The Strange Theory of Light and Matter by Richard P. Feynman
 - Quality Is Free: The Art of Making Quality Certain: How to Manage Quality - So That It Becomes A Source of Profit for Your Business by Philip B. Crosby
 - Quantum Man: Richard Feynman's Life in Science (Great Discoveries) by Lawrence M. Krauss
-- Quartz 2D Graphics for Mac OS X Developers	Quartz 2D Graphics for Mac OS X Developers by R Scott Thompson (Paperback) 
-- Questioning Technology	Questioning Technology by Andrew Feenberg (Paperback) 
-- Race After Technology: Abolitionist Tools for the New Jim Code	Race After Technology: Abolitionist Tools for the New Jim Code by Ruha Benjamin (Paperback) 
+- Quartz 2D Graphics for Mac OS X Developers by R Scott Thompson  
+- Questioning Technology by Andrew Feenberg  
+- Race After Technology: Abolitionist Tools for the New Jim Code by Ruha Benjamin  
 - Rabbits, Terry Miles
 - Radical Uncertainty Decision-Making Beyond the Numbers (https://wwnorton.com/books/9781324004776)
-- Raise the Red Lantern: Three Novellas (9780060596330): Su Tong: Books  (En un post de reddit recomendado en una recomendación sobre ficción historia no occidental y/o blanca)
-- Range: Why Generalists Triumph in a Specialized World	Range: Why Generalists Triumph in a Specialized World by David J. Epstein (Kindle Edition) 
-- Rare Earth: Why Complex Life is Uncommon in the Universe	Rare Earth: Why Complex Life is Uncommon in the Universe by Peter D. Ward, Donald Brownlee (Hardcover) 
-- Real-Time Rendering, Second Edition	Real-Time Rendering, Second Edition by Tomas Akenine-Möller, Eric Haines (Hardcover) 
+- Raise the Red Lantern: Three Novellas (9780060596330): Su Tong: Books  (En un post de reddit recomendado en una conversación sobre ficción historia no occidental y/o blanca)
+- Range: Why Generalists Triumph in a Specialized World by David J. Epstein  
+- Rare Earth: Why Complex Life is Uncommon in the Universe by Peter D. Ward, Donald Brownlee  
+- Real-Time Rendering, Second Edition by Tomas Akenine-Möller, Eric Haines  
 - Realms of Tolkien: Images of Middle-earth by Ted Nasmith
 - Reasons and Persons by Derek Parfit
-- Reassembling the Social: An Introduction to Actor-Network-Theory (Clarendon Lectures in Management Studies)	Reassembling the Social: An Introduction to Actor-Network-Theory (Clarendon Lectures in Management Studies) by Bruno Latour (Paperback) 
-- Rebel Code: Linux And The Open Source Revolution	Rebel Code: Linux And The Open Source Revolution by Glyn Moody (Hardcover) |
+- Reassembling the Social: An Introduction to Actor-Network-Theory (Clarendon Lectures in Management Studies) by Bruno Latour  
+- Rebel Code: Linux And The Open Source Revolution by Glyn Moody  |
 - Red Famine: Stalin's War on Ukraine . by Anne Applebaum
 - Red Mars (Mars Trilogy) by Kim Stanley Robinson
 - Red Notice: A True Story of High Finance, Murder, and One Man's Fight for Justice by Bill Browder
-- Refactoring Databases: Evolutionary Database Design	Refactoring Databases: Evolutionary Database Design by Scott W. Ambler, Pramod J. Sadalage (Hardcover) 
-- Reflections on Kurt Gödel	Reflections on Kurt Gödel by Hao Wang (Paperback) 
+- Refactoring Databases: Evolutionary Database Design by Scott W. Ambler, Pramod J. Sadalage  
+- Reflections on Kurt Gödel by Hao Wang  
 - Reflections on Literature and Culture (Meridian: Crossing Aesthetics) by Hannah Arendt
-- Reflexiones sobre las causas de la libertad y de la opresión social (Spanish Edition)	Reflexiones sobre las causas de la libertad y de la opresión social (Spanish Edition) by Simone Weil, Rafael Blanco Vázquez (Kindle Edition) 
+- Reflexiones sobre las causas de la libertad y de la opresión social (Spanish Edition) by Simone Weil, Rafael Blanco Vázquez  
 - Regenesis: Feeding the World Without Devouring the Planet. George Monbiot.
 - Reliable Software Through Composite Design by Glenford J. Myers
 - Remember Me: Memory and Forgetting in the Digital Age. Davide Sisto.
 - Republic, Lost: How Money Corrupts Congress--and a Plan to Stop It by Lawrence Lessig
 - Rest: Why You Get More Done When You Work Less by Alex Soojung-Kim Pang
-- Rethinking Existentialism by Jonathan Webber (https://blackwells.co.uk/bookshop/product/Rethinking-Existentialism-by-Jonathan-Webber-author/9780198866763)
+- Rethinking Existentialism by Jonathan Webber
 - Rethinking Sovereign Debt: Politics, Reputation, and Legitimacy in Modern Finance by Odette Lienau
 - Return of a King: The Battle for Afghanistan, 1839-42. By William Dalrymple.
-- Revolution in The Valley: The Insanely Great Story of How the Mac Was Made	Revolution in The Valley: The Insanely Great Story of How the Mac Was Made by Andy Hertzfeld (Hardcover) 
+- Revolution in The Valley: The Insanely Great Story of How the Mac Was Made by Andy Hertzfeld  
 - Revolution in Time: Clocks and the Making of the Modern World, First Edition (Belknap Press) by David S. Landes
 - Revolution of the Ordinary: Literary Studies after Wittgenstein, Austin, and Cavell by Toril Moi
-- Richard Feynman: A Life in Science	Richard Feynman: A Life in Science by John Gribbin, Mary Gribbin (Hardcover) 
-- Rick Sammon's Digital Imaging Workshops: Step-by-Step Lessons on Editing with Adobe Photoshop Elements	Rick Sammon's Digital Imaging Workshops: Step-by-Step Lessons on Editing with Adobe Photoshop Elements by Rick Sammon (Paperback) 
-- Ricoeur on Time and Narrative: An Introduction to Temps et récit	Ricoeur on Time and Narrative: An Introduction to Temps et récit by William C. Dowling (Paperback) 
-- Rise and Kill First: The Secret History of Israel's Targeted Assassinations	Rise and Kill First: The Secret History of Israel's Targeted Assassinations by Ronen Bergman (Kindle Edition) 
+- Richard Feynman: A Life in Science by John Gribbin, Mary Gribbin  
+- Rick Sammon's Digital Imaging Workshops: Step-by-Step Lessons on Editing with Adobe Photoshop Elements by Rick Sammon  
+- Ricoeur on Time and Narrative: An Introduction to Temps et récit by William C. Dowling  
+- Rise and Kill First: The Secret History of Israel's Targeted Assassinations by Ronen Bergman  
 - Rise Up Women!: The Remarkable Lives of the Suffragettes. Diane Atkinson.
-- Robert Frank: The Americans	Robert Frank: The Americans by Robert Frank, Jack Kerouac (Hardcover) |
+- Robert Frank: The Americans by Robert Frank, Jack Kerouac  |
 - Robert Oppenheimer: A Life Inside the Center
 - Rocket Men: The Daring Odyssey of Apollo 8 and the Astronauts Who Made Man's First Journey to the Moon: Robert Kurson: 9780812988703: Books
-- Rome and the Mediterrean: The History of Rome from Its Foundation, Books 31-45	Rome and the Mediterrean: The History of Rome from Its Foundation, Books 31-45 by Titus Livy, Henry Bettenson (Paperback) 
+- Rome and the Mediterrean: The History of Rome from Its Foundation, Books 31-45 by Titus Livy, Henry Bettenson  
 - Salt Wars: The Battle Over the Biggest Killer in the American Diet: Jacobson, Michael: 9780262044448:
 - Sapiens: A Brief History of Humankind, Yuval Noah Harari
-- Sartre on Sin (Oxford Theology and Religion Monographs)	Sartre on Sin (Oxford Theology and Religion Monographs) by Kate Kirkpatrick (Paperback) 
 - Sartre on Sin (Oxford Theology and Religion Monographs) by Kate Kirkpatrick
 - Sarum: The Novel of England: Edward Rutherfurd: 8601400449639
-- Sassy: The Life Of Sarah Vaughan	Sassy: The Life Of Sarah Vaughan by Leslie Gourse (Paperback) 
+- Sassy: The Life Of Sarah Vaughan by Leslie Gourse  
 - Scale by Geoffrey West
-- Schaum's Outline of Graph Theory: Including Hundreds of Solved Problems	Schaum's Outline of Graph Theory: Including Hundreds of Solved Problems by V. Balakrishnan (Paperback) 
+- Schaum's Outline of Graph Theory: Including Hundreds of Solved Problems by V. Balakrishnan  
 - Schopenhauer: A Very Short Introduction, Christopher Janaway
 - Science and Cooking: Physics Meets Food, From Homemade to Haute Cuisine, Dr. Pia Sörensen (ref: Talk Nerdy podcast, episode 2021-03-08)
 - Science and Relativism: Some Key Controversies in the Philosophy of Science (Science and Its Conceptual Foundations series) by Larry Laudan
 - Science and the Production of Ignorance (https://mitpress.mit.edu/books/science-and-production-ignorance)
-- Science as a Way of Knowing: The Foundations of Modern Biology	Science as a Way of Knowing: The Foundations of Modern Biology by John A. Moore (Paperback) 
+- Science as a Way of Knowing: The Foundations of Modern Biology by John A. Moore  
 - Science Ink: Tattoos of the Science Obsessed by Carl Zimmer
 - Science, Truth, and Democracy. Philip Kitcher
 - Scrolling Forward: Making Sense of Documents in the Digital Age, David M. Levy
 - Secrets of the Temple: How the Federal Reserve Runs the Country by William Greider
 - Secrets: A Memoir of Vietnam and the Pentagon Papers, Daniel Ellsberg
 - Secrets: On the Ethics of Concealment and Revelation by Sissela Bok
-- Secure Architectures with OpenBSD: With OpenBSD	Secure Architectures with OpenBSD: With OpenBSD by Brandon Palmer, Jose Nazario (Paperback) 
+- Secure Architectures with OpenBSD: With OpenBSD by Brandon Palmer, Jose Nazario  
 - Security Engineering: A Guide to Building Dependable Distributed Systems by Ross J. Anderson
-- Security Warrior: Know Your Enemy	Security Warrior: Know Your Enemy by Cyrus Peikari, Anton Chuvakin (Paperback) 
+- Security Warrior: Know Your Enemy by Cyrus Peikari, Anton Chuvakin  
 - Seeing like a State: How Certain Schemes to Improve the Human Condition Have Failed: James C. Scott: 8581000003120: (ref en blog de Cal Newport)
-- Selections from the Prison Notebooks	Selections from the Prison Notebooks by Antonio Gramsci, Quintin Hoare (Paperback) 
+- Selections from the Prison Notebooks by Antonio Gramsci, Quintin Hoare  
 - Seveneves by Neal Stephenson
-- Sex at Dawn
-- Shamanism, Colonialism, and the Wild Man: A Study in Terror and Healing	Shamanism, Colonialism, and the Wild Man: A Study in Terror and Healing by Michael Taussig (Paperback) 
+- Sex at Dawn: The Prehistoric Origins of Modern Sexuality
+- Shamanism, Colonialism, and the Wild Man: A Study in Terror and Healing by Michael Taussig  
 - Sharp Objects: A Novel, Gillian Flynn
 - Shop Class as Soulcraft: An Inquiry Into the Value of Work (The Penguin Press, 2009)
-- Show Stopper!: The Breakneck Race to Create Windows NT and the Next Generation at Microsoft	Show Stopper!: The Breakneck Race to Create Windows NT and the Next Generation at Microsoft by G. Pascal Zachary (Hardcover) |
 - Showstopper!: The Breakneck Race to Create Windows NT and the Next Generation at Microsoft, G. Pascal Zachary
-- Si una noche de invierno un viajero (Biblioteca Italo Calvino nº 9) (Spanish Edition)	Si una noche de invierno un viajero (Biblioteca Italo Calvino nº 9) (Spanish Edition) by Italo Calvino, Esther Benítez (Kindle Edition) 
+- Si una noche de invierno un viajero (Biblioteca Italo Calvino nº 9) (Spanish Edition) by Italo Calvino, Esther Benítez  
 - SICK SOULS, HEALTHY MINDS How William James Can Save Your Life By John Kaag (https://www.nytimes.com/2020/03/17/books/review/sick-souls-healthy-minds-william-james-john-kaag.html )
-- Sid Meier's Memoir!: A Life in Computer Games	Sid Meier's Memoir!: A Life in Computer Games by Sid Meier (Hardcover) 
-- Silence	Silence by Shusako Endo (Paperback) 
-- Silence by Shusako Endo
-- Silencio by Shūsaku Endō  (En un post de reddit recomendado en una recomendación sobre ficción historia no occidental y/o blanca)
+- Sid Meier's Memoir!: A Life in Computer Games by Sid Meier  
+- Silencio by Shūsaku Endō  (En un post de reddit recomendado en una conversación sobre ficción historia no occidental y/o blanca)
 - Silicon Values: The Future of Free Speech Under Surveillance Capitalism. by Jillian C. York
 - Simulacra and Simulation (The Body, In Theory: Histories of Cultural Materialism) by Jean Baudrillard
 - Six Degrees: The Science of a Connected Age by Duncan J. Watts
-- Six Disciplines for Excellence by Gary Harpst (2004-05-01)	Six Disciplines for Excellence by Gary Harpst (2004-05-01) by Gary Harpst (Paperback) 
+- Six Disciplines for Excellence by Gary Harpst (2004-05-01) by Gary Harpst  
 - Sketchtravel (Hors collection) by Gérald Guerlais
-- Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency	Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency by Tom DeMarco (Paperback) 
+- Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency by Tom DeMarco  
 - Small Is Beautiful, 25th Anniversary Edition: Economics As If People Mattered: 25 Years Later . . . With Commentaries by E. F. Schumacher
-- Smalltalk Best Practice Patterns	Smalltalk Best Practice Patterns by Kent Beck (Paperback) 
-- Smithsonian Intimate Guide to Human Origins	Smithsonian Intimate Guide to Human Origins by Carl Zimmer (Hardcover) 
+- Smalltalk Best Practice Patterns by Kent Beck  
+- Smithsonian Intimate Guide to Human Origins by Carl Zimmer  
 - Sneaking a Look at God's Cards: Unraveling the Mysteries of Quantum Mechanics - Revised Edition by Giancarlo Ghirardi
 - Social Anarchism
 - Social Science, Technical Systems, and Cooperative Work: Beyond the Great Divide. 
 - Society Must Be Defended": Lectures at the Collège de France, 1975-1976 (Michel Foucault Lectures at the Collège de France, 5) by Michel Foucault
 - Society Of The Spectacle by Guy DEBORD
 - Sociobiology — Edward O. Wilson | Harvard University Press (http://www.hup.harvard.edu/catalog.php?isbn=9780674002357) (referencia encontrada en el libro socialanarchism@ibooks)
-- Software Architecture in Practice	Software Architecture in Practice by Len Bass, Paul Clements (Hardcover) 
-- Software Craftsmanship: The New Imperative	Software Craftsmanship: The New Imperative by Pete McBreen, Mike Hendrickson (Paperback) 
-- Software Engineering Classics: Software Project Survival Guide/ Debugging the Development Process/ Dynamics of Software Development (Programming/General)	Software Engineering Classics: Software Project Survival Guide/ Debugging the Development Process/ Dynamics of Software Development (Programming/General) by Steve Maguire, Steve McConnell (Paperback) |
-- Software Implementation (PRACTICAL SOFTWARE ENGINEERING)	Software Implementation (PRACTICAL SOFTWARE ENGINEERING) by Michael Marcotty (Paperback) |
-- Software Project Survival Guide (Pro -- Best Practices)	Software Project Survival Guide (Pro -- Best Practices) by Steve McConnell (Paperback) 
+- Software Architecture in Practice by Len Bass, Paul Clements  
+- Software Craftsmanship: The New Imperative by Pete McBreen, Mike Hendrickson  
+- Software Engineering Classics: Software Project Survival Guide/ Debugging the Development Process/ Dynamics of Software Development (Programming/General) by Steve Maguire, Steve McConnell  |
+- Software Implementation (PRACTICAL SOFTWARE ENGINEERING) by Michael Marcotty  |
+- Software Project Survival Guide (Pro -- Best Practices) by Steve McConnell  
 - Software Requirement Patterns (Developer Best Practices), Stephen Withall
 - Software Requirements (Developer Best Practices), Karl Wiegers
-- Software Requirements 2	Software Requirements 2 by Karl Wiegers (Paperback) 
-- Software Requirements: Objects, Functions and States (Revised Edition)	Software Requirements: Objects, Functions and States (Revised Edition) by Alan M Davis (Paperback) 
+- Software Requirements 2 by Karl Wiegers  
+- Software Requirements: Objects, Functions and States (Revised Edition) by Alan M Davis  
 - Solving the Procrastination Puzzle: A Concise Guide to Strategies for Change by Timothy A. Pychyl
 - Sophie's Choice by William Styron
-- Soul Made Flesh: The Discovery of the Brain--and How it Changed the World	Soul Made Flesh: The Discovery of the Brain--and How it Changed the World by Carl Zimmer (Paperback) 
 - Soul Made Flesh: The Discovery of the Brain--and How it Changed the World by Carl Zimmer
 - Sound and Symbol: Music and the External World (Bollingen Series XLIV) . Victor Zuckerkandl 
-- Space Between Words: The Origins of Silent Reading (Figurae: Reading Medieval Culture)	Space Between Words: The Origins of Silent Reading (Figurae: Reading Medieval Culture) by Paul Saenger (Paperback) 
-- Space Shuttle: The First 20 Years -- The Astronauts' Experiences in Their Own Words	Space Shuttle: The First 20 Years -- The Astronauts' Experiences in Their Own Words by DK Publishing (Hardcover) 
+- Space Between Words: The Origins of Silent Reading (Figurae: Reading Medieval Culture) by Paul Saenger  
+- Space Shuttle: The First 20 Years -- The Astronauts' Experiences in Their Own Words by DK Publishing  
 - Space, Time and the Limits of Human Understanding (The Frontiers Collection) by Shyam Wuppuluri
-- Sparks of Genius: The Thirteen Thinking Tools of the World's Most Creative People	Sparks of Genius: The Thirteen Thinking Tools of the World's Most Creative People by Robert S. Root-Bernstein, Michele M. Root-Bernstein (Paperback) 
-- Sparks of Genius: The Thirteen Thinking Tools of the World's Most Creative People by Robert S. Root-Bernstein
-- Speciation	Speciation by Jerry A. Coyne, H. Allen Orr (Paperback) 
-- Spying on Whales: The Past, Present, and Future of Earth's Most Awesome Creatures by Nick Pyenson
+- Sparks of Genius: The Thirteen Thinking Tools of the World's Most Creative People by Robert S. Root-Bernstein, Michele M. Root-Bernstein  
+- Speciation by Jerry A. Coyne, H. Allen Orr  
 - Spying on Whales: The Past, Present, and Future of Earth's Most Awesome Creatures: Nick Pyenson: 9780735224568: Books (Entrevista con autor en podcast “talk nerdy”)
 - SSH Mastery: OpenSSH, PuTTY, Tunnels and Keys (IT Mastery Book 1), Michael W. Lucas
 - Stalingrad. by Theodor Plievier
 - Standards Recipes for Reality, An investigation into standards, the invisible infrastructures of our technical, moral, social, and physical worlds. (https://mitpress.mit.edu/books/standards) 
-- Starring Ingrid Thulin, Gunnar Björnstrand (DVD) 
-- Starring John Coltrane, Dave Brubeck (DVD) |
-- Starring Ken Burns, Joe Thomas (DVD) 
 - Starstruck: The Business of Celebrity by Elizabeth Currid-Halkett
 - Steppes Shaped the Modern World, David W. Anthony
-- Steve Jobs: The Journey Is the Reward	Steve Jobs: The Journey Is the Reward by Jeffrey S. Young (Hardcover) |
+- Steve Jobs: The Journey Is the Reward	Steve Jobs: The Journey Is the Reward by Jeffrey S. Young  |
 - Stoicism (Volume 1) (Ancient Philosophies) by John Sellars
 - Stolen: How to Save the World from Financialisation by Grace Blakeley
 - Stories of Your Life and Others, Ted Chiang
@@ -1068,68 +1021,68 @@ Libros a explorar / Books to explore
 - Strangers to Ourselves: Discovering the Adaptive Unconscious by Timothy D. Wilson
 - Strongmen: From Mussolini to the Present. by Ruth Ben-Ghiat
 - Structural Model Error and the System Individuation Problem ("The first section of this provides a crash course on the basics of mathematical chaos theory aimed at philosophers")
-- Studyguide for Introduction To Operations Research by Hillier & Lieberman, ISBN 9780072462395 (Cram101 Textbook Outlines)	Studyguide for Introduction To Operations Research by Hillier & Lieberman, ISBN 9780072462395 (Cram101 Textbook Outlines)
+- Studyguide for Introduction To Operations Research by Hillier & Lieberman, ISBN 9780072462395 (Cram101 Textbook Outlines)
 - Studying with Miss Bishop: Memoirs from a Young Writer’s Life by Dana Gioia
-- Successful Lisp: How to Understand and Use Common Lisp	Successful Lisp: How to Understand and Use Common Lisp by David B. Lamkins (Paperback) 
+- Successful Lisp: How to Understand and Use Common Lisp by David B. Lamkins  
 - Surveillance or Security?: The Risks Posed by New Wiretapping Technologies (The MIT Press) by Susan Landau
 - Survival Psychology by J. Leach
 - Suspicious Minds: Why We Believe Conspiracy Theories, Rob Brotherton
 - Swearing Is Good For You by Emma Byrne
 - Symbolic Exchange and Death (Published in association with Theory, Culture & Society) by Jean Baudrillard
 - Synaptic Self: How Our Brains Become Who We Are, Joseph LeDoux
-- Syntactic Structures	Syntactic Structures by Noam Chomsky (Paperback) 
-- Systemantics: How Systems Work and Especially How They Fail	Systemantics: How Systems Work and Especially How They Fail by John Gall, R. O. Blechman (Hardcover) |
+- Syntactic Structures	Syntactic Structures by Noam Chomsky  
+- Systemantics: How Systems Work and Especially How They Fail	Systemantics: How Systems Work and Especially How They Fail by John Gall, R. O. Blechman  |
 - Systems Performance: Enterprise and the Cloud by Brendan Gregg
 - Systems Thinking: Managing Chaos and Complexity: A Platform for Designing Business Architecture, Jamshid Gharajedaghi
 - Take My Advice: Letters to the Next Generation from People Who Know a Thing or Two by James L. Harmon
 - Talking Nets An Oral History of Neural Networks (https://mitpress.mit.edu/books/talking-nets)
-- Tao of Network Security Monitoring, The: Beyond Intrusion Detection	Tao of Network Security Monitoring, The: Beyond Intrusion Detection by Richard Bejtlich (Paperback) 
-- Tao Te Ching, 25th-Anniversary Edition (English and Mandarin Chinese Edition)	Tao Te Ching, 25th-Anniversary Edition (English and Mandarin Chinese Edition) by Lao Tzu, Jane English (Paperback) |
-- Teach Your Child How to Think	Teach Your Child How to Think by Edward De Bono (Paperback) 
-- Technology and the Character of Contemporary Life: A Philosophical Inquiry	Technology and the Character of Contemporary Life: A Philosophical Inquiry by Albert Borgmann (Paperback) 
+- Tao of Network Security Monitoring, The: Beyond Intrusion Detection by Richard Bejtlich  
+- Tao Te Ching, 25th-Anniversary Edition (English and Mandarin Chinese Edition) by Lao Tzu, Jane English
+- Teach Your Child How to Think	Teach Your Child How to Think by Edward De Bono  
+- Technology and the Character of Contemporary Life: A Philosophical Inquiry	Technology and the Character of Contemporary Life: A Philosophical Inquiry by Albert Borgmann  
 - Technology and the Virtues: A Philosophical Guide to a Future Worth Wanting by Shannon Vallor
 - Technopoly: The Surrender of Culture to Technology by Neil Postman
 - Temp: How American Work, American Business, and the American Dream Became Temporary by Louis Hyman
 - Terror, Love and Brainwashing: Attachment in Cults and Totalitarian Systems, Alexandra Stein (ref podcast “embrace the void”, episode 184)
-- Tesla: Man Out of Time	Tesla: Man Out of Time by Margaret Cheney (Paperback) 
+- Tesla: Man Out of Time by Margaret Cheney  
 - Tete-a-Tete: The Tumultuous Lives and Loves of Simone de Beauvoir and Jean-Paul Sartre by Hazel Rowley
-- Tetralogue	Tetralogue by Timothy Williamson (Paperback) 
+- Tetralogue by Timothy Williamson  
 - The (Honest) Truth About Dishonesty: How We Lie to Everyone---Especially Ourselves by Dr. Dan Ariely
-- The 12 Bad Habits That Hold Good People Back: Overcoming the Behavior Patterns That Keep You From Getting Ahead	The 12 Bad Habits That Hold Good People Back: Overcoming the Behavior Patterns That Keep You From Getting Ahead by James Waldroop Ph.D., Timothy Butler Ph.D. (Paperback) 
+- The 12 Bad Habits That Hold Good People Back: Overcoming the Behavior Patterns That Keep You From Getting Ahead by James Waldroop Ph.D., Timothy Butler Ph.D.  
 - The Aeneid by Vergil 
-- The Age of Constantine the Great	The Age of Constantine the Great by Jacob Burckhardt, Moses Hadas (Paperback) 
-- The Age of Spiritual Machines: When Computers Exceed Human Intelligence	The Age of Spiritual Machines: When Computers Exceed Human Intelligence by Ray Kurzweil (Paperback) 
+- The Age of Constantine the Great by Jacob Burckhardt, Moses Hadas  
+- The Age of Spiritual Machines: When Computers Exceed Human Intelligence by Ray Kurzweil  
 - The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power by Shoshana Zuboff
 - The Agony and the Ecstasy: A Biographical Novel of Michelangelo by Irving Stone
-- The Algorithm Design Manual	The Algorithm Design Manual by Steve S. Skiena (Hardcover) |
-- The Anatomy of Fascism	The Anatomy of Fascism by Robert O. Paxton (Kindle Edition) 
-- The Ancient Book of Myth and War	The Ancient Book of Myth and War by Scott Morse, Lou Romano (Hardcover) |
+- The Algorithm Design Manual by Steve S. Skiena
+- The Anatomy of Fascism by Robert O. Paxton  
+- The Ancient Book of Myth and War by Scott Morse, Lou Romano
 - The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine, Petzold
 - The Antidote: Happiness for People Who Can't Stand Positive Thinking: Oliver Burkeman: 9780865478015
 - The Argonauts (9781555977351): Maggie Nelson: Books (Referencia en semanario universidad https://semanariouniversidad.com/suplementos/la-ficcion-contemporanea-esta-sobrevalorada/)
 - The Art of Computer Programming, Volumes 1-4A Boxed Set by Donald Knuth
-- The Art of Deception: Controlling the Human Element of Security	The Art of Deception: Controlling the Human Element of Security by Kevin D. Mitnick, William L. Simon (Hardcover) 
+- The Art of Deception: Controlling the Human Element of Security by Kevin D. Mitnick, William L. Simon  
 - The Art of Doing Science and Engineering. Richard W. Hamming
 - The Art of Electronics. by Paul Horowitz and Winfield Hill
 - The Art of Language Invention: From Horse-Lords to Dark Elves, the Words Behind World-Building (PENGUIN US) by David J. Peterson
 - The Art of Living: The Stoics on the Nature and Function of Philosophy (BCPaperbacks) by John Sellars
-- The Art of Pixar: 25th Anniv.: The Complete Color Scripts and Select Art from 25 Years of Animation	The Art of Pixar: 25th Anniv.: The Complete Color Scripts and Select Art from 25 Years of Animation by Amid Amidi (Hardcover) 
-- The Art of Resistance: My Four Years in the French Underground: A Memoir	The Art of Resistance: My Four Years in the French Underground: A Memoir by Justus Rosenberg (Hardcover) 
+- The Art of Pixar: 25th Anniv.: The Complete Color Scripts and Select Art from 25 Years of Animation by Amid Amidi  
+- The Art of Resistance: My Four Years in the French Underground: A Memoir by Justus Rosenberg  
 - The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities (Volume 1 of 2) by Mark Dowd
-- The Art of the Metaobject Protocol	The Art of the Metaobject Protocol by Gregor Kiczales, Jim des Rivieres (Paperback) 
-- The Art of Thinking: The Classic Guide to Increasing Brain Power	The Art of Thinking: The Classic Guide to Increasing Brain Power by Allen F. Harrison, Robert M. Bramson (Paperback) 
+- The Art of the Metaobject Protocol by Gregor Kiczales, Jim des Rivieres  
+- The Art of Thinking: The Classic Guide to Increasing Brain Power by Allen F. Harrison, Robert M. Bramson  
 - The Art of UNIX Programming (The Addison-Wesley Professional Computng Series) by Eric Raymond
-- The Artist in the Machine: The World of AI-Powered Creativity (The MIT Press)	The Artist in the Machine: The World of AI-Powered Creativity (The MIT Press) by Arthur I. Miller (Hardcover) 
-- The Ascent of Man by Jacob Bronowski (Paperback) 
+- The Artist in the Machine: The World of AI-Powered Creativity (The MIT Press) by Arthur I. Miller  
+- The Ascent of Man by Jacob Bronowski  
 - The Ascent of Money A Financial History of the World (https://www.penguin.co.uk/books/178/178638/the-ascent-of-money/9780141990262.html)
-- The Associated Press Stylebook	The Associated Press Stylebook by Norm Goldstein (Paperback) 
+- The Associated Press Stylebook by Norm Goldstein  
 - The Atlas of Middle-Earth (Revised Edition) by Karen Wynn Fonstad
 - The Attention Merchants: The Epic Scramble to Get Inside Our Heads, Tim Wu
 - The Balkans: Nationalism, War, and the Great Powers, 1804-2011 by Misha Glenny
-- The Basic Writings of Bertrand Russell	The Basic Writings of Bertrand Russell by Bertrand Russell (Paperback) 
+- The Basic Writings of Bertrand Russell by Bertrand Russell  
 - The Baudelaire Fractal by Lisa Robertson
-- The Best of Newspaper Design (No. 24)	The Best of Newspaper Design (No. 24) by Society for News Design (Paperback) |
-- The Best Software Writing I: Selected and Introduced by Joel Spolsky	The Best Software Writing I: Selected and Introduced by Joel Spolsky by Avram Joel Spolsky (Paperback) 
+- The Best of Newspaper Design (No. 24)	The Best of Newspaper Design (No. 24) by Society for News Design  |
+- The Best Software Writing I: Selected and Introduced by Joel Spolsky by Avram Joel Spolsky  
 - The Best Things in Life: A Guide to What Really Matters (Philosophy in Action) by Thomas Hurka
 - The Big Love: Life & Death With Bill Evans by Laurie Verchomin
 - The Big Switch: Rewiring the World, from Edison to Google. Nicholas Carr
@@ -1137,23 +1090,23 @@ Libros a explorar / Books to explore
 - The Book of Memory: A Study Of Memory In Medieval Culture (Cambridge Studies in Medieval Literature) by Mary Carruthers
 - The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger, Marc Levinson
 - The Brief Wondrous Life of Oscar Wao by Junot Díaz
-- The Brothers Karamazov: A Novel in Four Parts With Epilogue (traducción recomendada de Richard Pevear (Translator), Larissa Volokhonsky (Translator)) https://www.amazon.com/Brothers-Karamazov-Novel-Parts-Epilogue-ebook/dp/B004ZM10OE/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1525976648&sr=1-1
+- The Brothers Karamazov: A Novel in Four Parts With Epilogue (traducción recomendada de Richard Pevear (Translator), Larissa Volokhonsky (Translator)) 
 - The Burglary: The Discovery of J. Edgar Hoover's Secret FBI by Betty Medsger
-- The Cabling Handbook	The Cabling Handbook by John R. Vacca, John Vacca (Paperback) 
+- The Cabling Handbook	The Cabling Handbook by John R. Vacca, John Vacca  
 - The Cambridge Companion To Hannah Arendt (Cambridge Companions to Philosophy) by Ed. Villa, Dana
-- The Cambridge Companion to Heidegger's Being and Time (Cambridge Companions to Philosophy)	The Cambridge Companion to Heidegger's Being and Time (Cambridge Companions to Philosophy) by Mark A. Wrathall (Kindle Edition) |
+- The Cambridge Companion to Heidegger's Being and Time (Cambridge Companions to Philosophy) by Mark A. Wrathall  |
 - The Cambridge Companion to the Stoics (Cambridge Companions to Philosophy) by Brad Inwood
 - The Cambridge History of Philosophy of the Scientific Revolution.
-- The Capitalist Manifesto	The Capitalist Manifesto by Andrew Bernstein (Paperback) 
+- The Capitalist Manifesto by Andrew Bernstein  
 - The Checklist Manifesto
-- The Child in Time (Ian McEwan Series Book 1) - Kindle edition by Ian McEwan. Literature & Fiction Kindle eBooks . 
+- The Child in Time (Ian McEwan Series Book 1) -  by Ian McEwan. Literature & Fiction Kindle eBooks . 
 - The China Mirage por James Bradley
 - The Chronicles of Dragon Collection (Series 1 Omnibus, Books 1-10): The Ultimate Dragon Book Fantasy Collection, Craig Halloran
-- The Civilization of the Renaissance in Italy (Penguin Classics)	The Civilization of the Renaissance in Italy (Penguin Classics) by Jacob Burckhardt, Peter Murray (Paperback) 
-- The Clock Of The Long Now	The Clock Of The Long Now by Stewart Brand (Paperback) 
-- The Cluetrain Manifesto: The End of Business as Usual	The Cluetrain Manifesto: The End of Business as Usual by Rick Levine, Christopher Locke (Paperback) 
+- The Civilization of the Renaissance in Italy (Penguin Classics) by Jacob Burckhardt, Peter Murray  
+- The Clock Of The Long Now by Stewart Brand  
+- The Cluetrain Manifesto: The End of Business as Usual by Rick Levine, Christopher Locke  
 - The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet, David Kahn
-- The Collected Poems of William Carlos Williams, Vol. 2: 1939-1962	The Collected Poems of William Carlos Williams, Vol. 2: 1939-1962 by William Carlos Williams, Christopher MacGowan (Hardcover) |
+- The Collected Poems of William Carlos Williams, Vol. 2: 1939-1962 by William Carlos Williams, Christopher MacGowan  |
 - The Coming of the Third Reich by Richard J. Evans
 - The Commercialization of Intimate Life: Notes from Home and Work (Citado en “the tyranny of choice”)
 - The Complete Essays of Montaigne by Michel de Montaigne
@@ -1171,50 +1124,48 @@ Libros a explorar / Books to explore
 - The Counter-Creationism Handbook by Mark Isaak
 - The Creative Habit: Learn It and Use It for Life by Twyla Tharp
 - The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage by Cliff Stoll
-- The Cult of Mac	The Cult of Mac by Leander Kahney (Hardcover) 
-- The Culture Code: An Ingenious Way to Understand Why People Around the World Live and Buy as They Do	The Culture Code: An Ingenious Way to Understand Why People Around the World Live and Buy as They Do by Clotaire Rapaille (Hardcover) |
-- The Culture of Narcissism: American Life in an Age of Diminishing Expectations - Kindle edition by Christopher Lasch. Politics & Social Sciences Kindle eBooks .(Recomendado en un thread de /r/sociology (What are the must read books/authors/papers about the sociology of celebrity and fame? https://reddit.com/r/sociology/comments/8q9xew/what_are_the_must_read_booksauthorspapers_about/)
-- The Data Model Resource Book: A Library of Logical Data Models and Data Warehouse Designs	The Data Model Resource Book: A Library of Logical Data Models and Data Warehouse Designs by Len Silverston, W. H. Inmon (Paperback) 
-- The David Foster Wallace Reader	The David Foster Wallace Reader by David Foster Wallace (Kindle Edition) 
-- The Death Algorithm and Other Digital Dilemmas (Untimely Meditations)	The Death Algorithm and Other Digital Dilemmas (Untimely Meditations) by Roberto Simanowski, Jefferson Chase (Paperback) 
+- The Cult of Mac by Leander Kahney  
+- The Culture Code: An Ingenious Way to Understand Why People Around the World Live and Buy as They Do by Clotaire Rapaille  |
+- The Culture of Narcissism: American Life in an Age of Diminishing Expectations -  by Christopher Lasch. Politics & Social Sciences Kindle eBooks .(Recomendado en un thread de /r/sociology (What are the must read books/authors/papers about the sociology of celebrity and fame? https://reddit.com/r/sociology/comments/8q9xew/what_are_the_must_read_booksauthorspapers_about/)
+- The Data Model Resource Book: A Library of Logical Data Models and Data Warehouse Designs by Len Silverston, W. H. Inmon  
+- The David Foster Wallace Reader by David Foster Wallace  
+- The Death Algorithm and Other Digital Dilemmas (Untimely Meditations) by Roberto Simanowski, Jefferson Chase  
 - The Decipherment of Linear B John Chadwick (Canto Classics) (source GEB)
 - The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy 
 - The Democracy Project: A History, a Crisis, a Movement by David Graeber
 - The Design of the UNIX Operating System by Maurice Bach
 - The Diamond Age: Or, a Young Lady's Illustrated Primer (Bantam Spectra Book), Neal Stephenson
 - The Digital Person: Technology and Privacy in the Information Age by Daniel J Solove
-- The Discovery of France: A Historical Geography from the Revolution to the First World War	The Discovery of France: A Historical Geography from the Revolution to the First World War by Graham Robb (Hardcover) 
+- The Discovery of France: A Historical Geography from the Revolution to the First World War by Graham Robb  
 - The Disordered Cosmos: A Journey into Dark Matter, Spacetime, and Dreams Deferred, Chanda Prescod-Weinstein
-- The Disappearance of Rituals: A Topology of the Present
-1st Edition.  Byung-Chul Han.
+- The Disappearance of Rituals: A Topology of the Present, by Byung-Chul Han.
 - The Divide by Jason Hickel
 - The Doomsday Machine: Confessions of a Nuclear War Planner by Daniel Ellsberg
 - The Dream Machine: J. C. R. Licklider and the Revolution That Made Computing Personal, M. Mitchell Waldrop
 - The Dream Master (The Nebula Award-Winning Novel) by Roger Zelazny
-- The Eagle's Gift	The Eagle's Gift by Carlos Castaneda (Paperback) 
 - The Eagle's Gift by Carlos Castaneda
-- The Early History of Rome: Books I-V of the History of Rome from its Foundation (Penguin Classics) (Bks. 1-5)	The Early History of Rome: Books I-V of the History of Rome from its Foundation (Penguin Classics) (Bks. 1-5) by Titus Livy, Aubrey de Selincourt (Mass Market Paperback) |
+- The Early History of Rome: Books I-V of the History of Rome from its Foundation (Penguin Classics) (Bks. 1-5) by Titus Livy, Aubrey de Selincourt (Mass Market Paperback) |
 - The Eichmann Trial. Deborah E. Lipstadt
 - The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory, Brian Greene
-- The Elements of Murder: A History of Poison	The Elements of Murder: A History of Poison by John Emsley (Hardcover) |
+- The Elements of Murder: A History of Poison by John Emsley  |
 - The Elements of Programming Style, 2nd Edition by Brian W. Kernighan
 - The Elements of Typographic Style by Robert Bringhurst
-- The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind	The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind by Marvin Minsky (Hardcover) 
+- The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind by Marvin Minsky  
 - The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics (Oxford Landmark Science) by Roger Penrose
 - The Empire of Fashion: Dressing Modern Democracy. Gilles Lipovetsky.
-- The Empire Strikes Back: The Original Motion Picture Soundtrack (Special Edition)	The Empire Strikes Back: The Original Motion Picture Soundtrack (Special Edition) by Williams, John, London Symphony Orchestra (Audio CD) 
+- The Empire Strikes Back: The Original Motion Picture Soundtrack (Special Edition) by Williams, John, London Symphony Orchestra (Audio CD) 
 - The Empire Trap por Noel Maurer (Mencionado en https://americanaffairsjournal.org/2017/08/development-delusion-foreign-aid-inequality/)
 - The End of Everything (https://www.simonandschuster.com/books/The-End-of-Everything/Katie-Mack/9781982103545)
-- The End of Forgetting: Growing Up with Social Media	The End of Forgetting: Growing Up with Social Media by Kate Eichhorn (Hardcover) 
+- The End of Forgetting: Growing Up with Social Media by Kate Eichhorn  
 - The Essential Kierkegaard by Søren Kierkegaard
 - The Essential Writings of Machiavelli (Modern Library Classics) by Niccolo Machiavelli
 - The Eternal Decline and Fall of Rome: The History of a Dangerous Idea. Edward J. Watts .
 - The Evidence for Evolution by Alan R. Rogers
-- The Evolution of Cooperation	The Evolution of Cooperation by Robert Axelrod (Paperback) 
-- The Executive Guide to Information Security: Threats, Challenges, and Solutions	The Executive Guide to Information Security: Threats, Challenges, and Solutions by Mark Egan, Tim Mather (Paperback) 
+- The Evolution of Cooperation by Robert Axelrod  
+- The Executive Guide to Information Security: Threats, Challenges, and Solutions by Mark Egan, Tim Mather  
 - The Existentialist Reader: An Anthology of Key Texts by Paul S. MacDonald
 - The Existentialist's Survival Guide: How to Live Authentically in an Inauthentic Age by Gordon Marino
-- The Face of War	The Face of War by Martha Gellhorn (Paperback) 
+- The Face of War by Martha Gellhorn  
 - The Facebook Effect: The Inside Story of the Company That Is Connecting the World by David Kirkpatrick
 - The Faces of Injustice. Shklar
 - The Fall by Albert Camus
@@ -1224,56 +1175,55 @@ Libros a explorar / Books to explore
 - The Feed: A Novel, Nick Clark Windo
 - The Field Guide to Understanding 'Human Error', Sidney Dekker
 - The Fifth Season (The Broken Earth Book 1) , N. K. Jemisin
-- The First and Last Freedom	The First and Last Freedom by J. Krishnamurti, Aldous Huxley (Paperback) 
+- The First and Last Freedom by J. Krishnamurti, Aldous Huxley  
 - The First Scientist: Anaximander and His Legacy eBook: Carlo Rovelli: Kindle Store (Refer día en el libro “the order of time”)
-- The First Word: The Search for the Origins of Language	The First Word: The Search for the Origins of Language by Christine Kenneally (Hardcover) 
+- The First Word: The Search for the Origins of Language by Christine Kenneally  
 - The Fishermen: A Novel (Chigozie Obioma) 
 - The Fissured Workplace: Why Work Became So Bad for So Many and What Can Be Done to Improve It
-- The Five Dysfunctions of a Team: A Leadership Fable	The Five Dysfunctions of a Team: A Leadership Fable by Patrick Lencioni (Hardcover) 
-- The Flight of the Creative Class: The New Global Competition for Talent	The Flight of the Creative Class: The New Global Competition for Talent by Richard Florida (Hardcover) 
+- The Five Dysfunctions of a Team: A Leadership Fable by Patrick Lencioni  
+- The Flight of the Creative Class: The New Global Competition for Talent by Richard Florida  
 - The Food Lab: Better Home Cooking Through Science by J. Kenji López-Alt
 - The Fourth Part of the World eBook by Toby Lester | Simon & Schuster 
 - The Frodo Franchise: The Lord of the Rings and Modern Hollywood by Kristin Thompson
 - The Fuhrer: Hitler's Rise to Power by Konrad Heiden
-- The Fun of Programming (Cornerstones of Computing)	The Fun of Programming (Cornerstones of Computing) by Jeremy Gibbons, Oege de Moor (Paperback) 
+- The Fun of Programming (Cornerstones of Computing) by Jeremy Gibbons, Oege de Moor  
 - The Future Is History: How Totalitarianism Reclaimed Russia by Masha Gessen
 - The Future of Ideas: The Fate of the Commons in a Connected World by Lawrence Lessig
 - The Future of You: Can Your Identity Survive 21st-Century Technology? by Tracey Follows
-- The Gift of Rain by Tan Twan Eng  (En un post de reddit recomendado en una recomendación sobre ficción historia no occidental y/o blanca)
+- The Gift of Rain by Tan Twan Eng  (En un post de reddit recomendado en una conversación sobre ficción historia no occidental y/o blanca)
 - The Glass Bead Game: (Magister Ludi) A Novel, Hermann Hesse
-- The Glass Palace by Amitav Ghosh  (En un post de reddit recomendado en una recomendación sobre ficción historia no occidental y/o blanca)
+- The Glass Palace by Amitav Ghosh  (En un post de reddit recomendado en una conversación sobre ficción historia no occidental y/o blanca)
 - The Globalization of Addiction: A Study in Poverty of the Spirit by Bruce Alexander
 - The God Particle: If the Universe Is the Answer, What Is the Question? by Leon Lederman
 - The Googlization of Everything: (And Why We Should Worry): Siva Vaidhyanathan: 9780520258822: Books
 - The Grasshopper: Games, Life and Utopia. Bernard Suits
 - The Great Convergence: Information Technology and the New Globalization by Richard Baldwin
-- The Great Unraveling: Losing Our Way in the New Century (Updated and Expanded)	The Great Unraveling: Losing Our Way in the New Century (Updated and Expanded) by Paul R. Krugman (Paperback) 
+- The Great Unraveling: Losing Our Way in the New Century (Updated and Expanded) by Paul R. Krugman  
 - The Gutenberg Elegies: the fate of reading in an electronic age, by Sven Birkerts
-- The Haskell School of Expression: Learning Functional Programming through Multimedia	The Haskell School of Expression: Learning Functional Programming through Multimedia by Paul Hudak (Paperback) 
+- The Haskell School of Expression: Learning Functional Programming through Multimedia by Paul Hudak  
 - The Hidden Brain: How Our Unconscious Minds Elect Presidents, Control Markets, Wage Wars, and Save Our Lives by Shankar Vedantam
 - The Horse, the Wheel, and Language: How Bronze-Age Riders from the Eurasian
 - The House of Morgan: An American Banking Dynasty and the Rise of Modern Finance by Ron Chernow
 - The Human Condition: Second Edition by Hannah Arendt
 - The Human Touch: Our Part in the Creation of a Universe. Michael Frayn
 - The Icepick Surgeon: Murder, Fraud, Sabotage, Piracy, and Other Dastardly Deeds Perpetrated in the Name of Science. Sam Kean 
-- the idea factory
-- The Idiot (Penguin Classics)	The Idiot (Penguin Classics) by Fyodor Dostoyevsky, David McDuff (Kindle Edition) 
-- The Illusion of Conscious Will (Bradford Books)	The Illusion of Conscious Will (Bradford Books) by Daniel M. Wegner (Hardcover) 
+- The idea factory
+- The Idiot (Penguin Classics) by Fyodor Dostoyevsky, David McDuff  
+- The Illusion of Conscious Will (Bradford Books) by Daniel M. Wegner  
 - The Immortal King Rao. Vauhini Vara .
 - The Imperative (Studies in Continental Thought)
 - The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future, Kevin Kelly
 - The Infinite Conversation 1992 • Author: Maurice Blanchot (En introducción de “what is philosophy”)
-- The Ingmar Bergman Trilogy (Through a Glass Darkly / Winter Light / The Silence) (The Criterion Collection)	The Ingmar Bergman Trilogy (Through a Glass Darkly / Winter Light / The Silence) (The Criterion Collection)
-- The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business (Collins Business Essentials)	The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business (Collins Business Essentials) by Clayton M. Christensen (Paperback) |
-- The Innovator's Solution: Creating and Sustaining Successful Growth	The Innovator's Solution: Creating and Sustaining Successful Growth by Clayton M. Christensen, Michael E. Raynor (Hardcover) 
+- The Ingmar Bergman Trilogy (Through a Glass Darkly / Winter Light / The Silence) (The Criterion Collection)
+- The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business (Collins Business Essentials) by Clayton M. Christensen  |
+- The Innovator's Solution: Creating and Sustaining Successful Growth by Clayton M. Christensen, Michael E. Raynor  
 - The Intention Economy: When Customers Take Charge by Doc Searls
-- The Invention of the Jewish People	The Invention of the Jewish People by Shlomo Sand, Yael Lotan (Paperback) |
+- The Invention of the Jewish People by Shlomo Sand, Yael Lotan  |
 - The Italic Way to Beautiful Handwriting: Cursive and Calligraphic by Fred Eager
-- The Jazz Loft Project: Photographs and Tapes of W. Eugene Smith from 821 Sixth Avenue, 1957-1965 (KNOPF)	The Jazz Loft Project: Photographs and Tapes of W. Eugene Smith from 821 Sixth Avenue, 1957-1965 (KNOPF) by Sam Stephenson (Hardcover) |
 - The Jazz Loft Project: Photographs and Tapes of W. Eugene Smith from 821 Sixth Avenue, 1957-1965 (KNOPF) by Sam Stephenson
 - The Jewel-Hinged Jaw: Notes on the Language of Science Fiction, Samuel R. Delany
-- The Jugurthine War / The Conspiracy of Catiline (Penguin Classics)	The Jugurthine War / The Conspiracy of Catiline (Penguin Classics) by Sallust, S. A. Handford (Paperback) |
-- The Jungle Books (Clothbound Classics) by Rudyard Kipling (3-Apr-2014) Hardcover	The Jungle Books (Clothbound Classics) by Rudyard Kipling (3-Apr-2014) Hardcover
+- The Jugurthine War / The Conspiracy of Catiline (Penguin Classics) by Sallust, S. A. Handford  |
+- The Jungle Books (Clothbound Classics) by Rudyard Kipling (3-Apr-2014) Hardcover
 - The Just City (Thessaly), Jo Walton
 - The Kite Runner, Khaled Hosseini
 - The Known Citizen: A History of Privacy in Modern America by Sarah E. Igo
@@ -1288,10 +1238,10 @@ Libros a explorar / Books to explore
 - The Lies that Bind: Rethinking Identity by Kwame Anthony Appiah
 - The Life of the Mind (Harvest/HBJ Book) by Hannah Arendt
 - The Little Prover (The MIT Press) by Daniel P. Friedman
-- The Little Typer (The MIT Press)	The Little Typer (The MIT Press) by Daniel P. Friedman, David Thrane Christiansen (Paperback) 
-- The Lives of Ants	The Lives of Ants by Laurent Keller, Elisabeth Gordon (Kindle Edition) 
+- The Little Typer (The MIT Press) by Daniel P. Friedman, David Thrane Christiansen  
+- The Lives of Ants by Laurent Keller, Elisabeth Gordon  
 - The Logic Of Failure: Recognizing And Avoiding Error In Complex Situations, Dietrich Dorner
-- The Logic of Information: A Theory of Philosophy as Conceptual Design	The Logic of Information: A Theory of Philosophy as Conceptual Design by Luciano Floridi (Hardcover) 
+- The Logic of Information: A Theory of Philosophy as Conceptual Design by Luciano Floridi  
 - The Logic of Life: The Rational Economics of an Irrational World by Tim Harford
 - The Lord of the Rings Sketchbook by Alan Lee
 - The Making of a Cybertariat: Virtual Work in a Real World by Ursula Huws
@@ -1300,51 +1250,48 @@ Libros a explorar / Books to explore
 - The Man from the Future: The Visionary Ideas of John von Neumann. Ananyo Bhattacharya.
 - The Man Who Knew Infinity: A Life of the Genius Ramanujan: Robert Kanigel: 9780671750619
 - The Man Who Smiled (Kurt Wallander Series) by Henning Mankell
-- The Man Who Tasted Shapes (A Bradford Book)	The Man Who Tasted Shapes (A Bradford Book) by Richard E. Cytowic, Jonathan Cole (Kindle Edition) |
+- The Man Who Tasted Shapes (A Bradford Book) by Richard E. Cytowic, Jonathan Cole  |
 - The Managed Heart: Commercialization of Human Feeling (Citado en “the tyranny of choice”)
-- The Martian's Daughter: A Memoir	The Martian's Daughter: A Memoir by Marina Whitman (Kindle Edition) 
+- The Martian's Daughter: A Memoir by Marina Whitman  
 - The Master and Margarita, by Mikhail Bulgakov
 - The Master and His Emissary: The Divided Brain and the Making of the Western World (entrevista con el autor en EconTalk)
 - The Master Switch: The Rise and Fall of Information Empires by Tim Wu
-- The Mathematics of Marriage: Dynamic Nonlinear Models	The Mathematics of Marriage: Dynamic Nonlinear Models by John Mordechai Gottman, James D. Murray (Hardcover) |
+- The Mathematics of Marriage: Dynamic Nonlinear Models	The Mathematics of Marriage: Dynamic Nonlinear Models by John Mordechai Gottman, James D. Murray  |
 - The Mathematics of the Gods and the Algorithms of Men: A Cultural History by Paolo Zellini
 - The Mechanical Mind in History (https://mitpress.mit.edu/books/mechanical-mind-history)
 - The Mechanical Mind: A Philosophical Introduction to Minds, Machines and Mental Representation by Tim Crane
-- The Mechanism of Mind (Pelican)	The Mechanism of Mind (Pelican) by Edward de Bono (Paperback) 
+- The Mechanism of Mind (Pelican) by Edward de Bono  
 - The Memory Police. Yōko Ogawa.
-- The Metaphysics of Truth	The Metaphysics of Truth by Douglas Edwards (Hardcover) 
-- The Mezzanine: A Novel	The Mezzanine: A Novel by Nicholson Baker (Kindle Edition) 
+- The Metaphysics of Truth by Douglas Edwards  
+- The Mezzanine: A Novel by Nicholson Baker  
 - The Mismeasure of Man by Stephen Jay Gould
 - The Model as Muse: Embodying Fashion (Metropolitan Museum of Art) by Harold Koda
-- The Morality of Freedom	The Morality of Freedom by Joseph Raz (Paperback) 
+- The Morality of Freedom by Joseph Raz  
 - The Murder of Professor Schlick: The Rise and Fall of the Vienna Circle: Edmonds, David: 9780691164908
 - The Music of The Lord of the Rings Films: A Comprehensive Account of Howard Shore's Scores (Book and Rarities CD) by Doug Adams
-- The Myths of Innovation	The Myths of Innovation by Scott Berkun (Paperback) 
 - The Myths of Innovation by Scott Berkun
-- The Naked Ape: A Zoologist's Study of the Human Animal	The Naked Ape: A Zoologist's Study of the Human Animal by Desmond Morris (Paperback) 
+- The Naked Ape: A Zoologist's Study of the Human Animal by Desmond Morris  
 - The Name of the Wind (The Kingkiller Chronicle Book 1), Patrick Rothfuss
-- The Natural Way to Draw: A Working Plan for Art Study	The Natural Way to Draw: A Working Plan for Art Study by Kimon Nicolaides (Paperback) 
 - The Natural Way to Draw: A Working Plan for Art Study by Kimon Nicolaides
-- The Nature and Art of Workmanship	The Nature and Art of Workmanship by David Pye, James Pye (Paperback) |
+- The Nature and Art of Workmanship by David Pye, James Pye  |
 - The Nature of Computation by Cristopher Moore
 - The Nature of Space and Time  by Stephen Hawking & Roger Penrose
-- The Negative (Ansel Adams Photography)	The Negative (Ansel Adams Photography) by Ansel Adams, Robert Baker (Paperback) 
+- The Negative (Ansel Adams Photography) by Ansel Adams, Robert Baker  
 - The Net Delusion: The Dark Side of Internet Freedom by Evgeny Morozov
 - The New Confessions of an Economic Hit Man by John Perkins
 - The New Faces of Fascism: Populism and the Far Right by Enzo Traverso
 - The New Gods, Emil Cioran
 - The New New Thing : A Silicon Valley Story by Michael Lewis
 - The New Populism: Democracy Stares into the Abyss by Marco Revelli
-- The New York Times Magazine Photographs	The New York Times Magazine Photographs by Kathy Ryan, Gerald Marzorati (Hardcover) 
 - The New York Times Magazine Photographs by Kathy Ryan
-- The Newspaper Designer's Handbook	The Newspaper Designer's Handbook by Tim Harrower (Spiral-bound) |
-- The Non-Designer's Design Book: Design and Typographic Principles for the Visual Novice	The Non-Designer's Design Book: Design and Typographic Principles for the Visual Novice by Robin Williams (Paperback) |
-- The Nothing that Is: A Natural History of Zero	The Nothing that Is: A Natural History of Zero by Robert Kaplan, Ellen Kaplan (Paperback) 
+- The Newspaper Designer's Handbook by Tim Harrower (Spiral-bound) |
+- The Non-Designer's Design Book: Design and Typographic Principles for the Visual Novice by Robin Williams  |
+- The Nothing that Is: A Natural History of Zero by Robert Kaplan, Ellen Kaplan  
 - The Once and Future King by T. H. White
-- The Only Child: Being One, Loving One, Understanding One, Raising One	The Only Child: Being One, Loving One, Understanding One, Raising One by Darrell Sifford (Paperback) |
-- The Open Society and Its Enemies: New One-Volume Edition	The Open Society and Its Enemies: New One-Volume Edition by Karl R. Popper, Alan Ryan (Paperback) 
+- The Only Child: Being One, Loving One, Understanding One, Raising One by Darrell Sifford  |
+- The Open Society and Its Enemies: New One-Volume Edition by Karl R. Popper, Alan Ryan  
 - The Open: Man and Animal by Giorgio Agamben
-- THE ORIGINS OF PHOTOJOURNALISM IN AMERICA	THE ORIGINS OF PHOTOJOURNALISM IN AMERICA by MICHAEL L. CARLEBACH (Paperback) 
+- The origins of photojournalism in America by Michael L. Carlebach  
 - The Oxford Handbook of Empirical Aesthetics. Marcos Nadal and Oshin Vartanian.
 - The Oxford Handbook of Populism by Cristobal Rovira Kaltwasser
 - The Oxford History of the Classical World by John Boardman, Jasper Griffin 
@@ -1354,34 +1301,34 @@ Libros a explorar / Books to explore
 - The Particle at the End of the Universe: How the Hunt for the Higgs Boson Leads Us to the Edge of a New World by Sean Carroll
 - The Passionate State of Mind: And Other Aphorisms by Eric Hoffer
 - The Past, Present, and Future of Integrated History and Philosophy of Science
-- The Pearl of Anton	The Pearl of Anton by Gene Del Vecchio (Hardcover) 
+- The Pearl of Anton by Gene Del Vecchio  
 - The Pencil: A History of Design and Circumstance by Henry Petroski
 - The Peripheral, William Gibson
 - The Philip K. Dick Collection: A Library of America Boxed Set by Philip K. Dick
-- The Philip K. Dick MEGAPACK ®: 15 Classic Science Fiction Stories	The Philip K. Dick MEGAPACK ®: 15 Classic Science Fiction Stories by Philip K. Dick (Kindle Edition) 
+- The Philip K. Dick MEGAPACK ®: 15 Classic Science Fiction Stories by Philip K. Dick  
 - The Philosophical Breakfast Club: Four Remarkable Friends Who Transformed Science and Changed the World . By Laura J. Snyder
-- The Philosophy of Schopenhauer	The Philosophy of Schopenhauer by Bryan Magee (Paperback) 
-- The Philosophy of Simone de Beauvoir by Debra Bergoffen,
-- The Photographer's Eye: Composition and Design for Better Digital Photos	The Photographer's Eye: Composition and Design for Better Digital Photos by Michael Freeman (Paperback) 
+- The Philosophy of Schopenhauer by Bryan Magee  
+- The Philosophy of Simone de Beauvoir by Debra Bergoffen
+- The Photographer's Eye: Composition and Design for Better Digital Photos by Michael Freeman  
 - The Physics of Wall Street: A Brief History of Predicting the Unpredictable by James Owen Weatherall
 - The Plague, The Fall, Exile and the Kingdom, and Selected Essays (Everyman's Library) by Albert Camus
-- The Planet Sleeps	The Planet Sleeps by Sherrilyne Blakey-Smith, The Rankin Family (Audio CD) 
-- The Plausibility of Life: Resolving Darwin's Dilemma	The Plausibility of Life: Resolving Darwin's Dilemma by Marc W. Kirschner, John C. Gerhart (Hardcover) 
-- The Political Value of Time: Citizenship, Duration, and Democratic Justice	The Political Value of Time: Citizenship, Duration, and Democratic Justice by Elizabeth F. Cohen (Hardcover) 
+- The Planet Sleeps by Sherrilyne Blakey-Smith, The Rankin Family (Audio CD) 
+- The Plausibility of Life: Resolving Darwin's Dilemma by Marc W. Kirschner, John C. Gerhart  
+- The Political Value of Time: Citizenship, Duration, and Democratic Justice by Elizabeth F. Cohen  
 - The Politics of Modern Central America: Civil War, Democratization, and Underdevelopment by Fabrice Lehoucq
-- The Practice of Programming (Addison-Wesley Professional Computing Series)	The Practice of Programming (Addison-Wesley Professional Computing Series) by Brian Kernighan, Rob Pike (Paperback) 
+- The Practice of Programming (Addison-Wesley Professional Computing Series) by Brian Kernighan, Rob Pike  
 - The Practice of System and Network Administration, Second Edition by Thomas A. Limoncelli
-- The Predictive Mind, Jakob Hohwy (https://www.amazon.com/Predictive-Mind-Jakob-Hohwy/dp/0199686734) (Fuente: En bibliografía del paper “World Discovery Models” (1902.07685.pdf) ) “A new theory is taking hold in neuroscience. It is the theory that the brain is essentially a hypothesis-testing mechanism, one that attempts to minimise the error of its predictions about the sensory input it receives from the world. It is an attractive theory because powerful theoretical arguments support it, and yet it is at heart stunningly simple. Jakob Hohwy explains and explores this theory from the perspective of cognitive science and philosophy. The key argument throughout The Predictive Mind is that the mechanism explains the rich, deep, and multifaceted character of our conscious perception. It also gives a unified account of how perception is sculpted by attention, and how it depends on action. The mind is revealed as having a fragile and indirect relation to the world. Though we are deeply in tune with the world we are also strangely distanced from it.”
+- The Predictive Mind, Jakob Hohwy (Fuente: En bibliografía del paper “World Discovery Models” (1902.07685.pdf) ) “A new theory is taking hold in neuroscience. It is the theory that the brain is essentially a hypothesis-testing mechanism, one that attempts to minimise the error of its predictions about the sensory input it receives from the world. It is an attractive theory because powerful theoretical arguments support it, and yet it is at heart stunningly simple. Jakob Hohwy explains and explores this theory from the perspective of cognitive science and philosophy. The key argument throughout The Predictive Mind is that the mechanism explains the rich, deep, and multifaceted character of our conscious perception. It also gives a unified account of how perception is sculpted by attention, and how it depends on action. The mind is revealed as having a fragile and indirect relation to the world. Though we are deeply in tune with the world we are also strangely distanced from it.”
 - The Price of Altruism: George Price and the Search for the Origins of Kindness by Oren Harman
-- The Principles of Mathematics	The Principles of Mathematics by Bertrand Russell (Paperback) 
+- The Principles of Mathematics by Bertrand Russell  
 - The Printing Press as an Agent of Change: Communications and Cultural Trans (Complete in One Volume) by Elizabeth L. Eisenstein
-- The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey	The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey by Michael Huemer (Paperback) 
+- The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey by Michael Huemer  
 - The Promise of Happiness, Sara Ahmed
 - The Promise of Politics by Hannah Arendt
 - The Promise of the Child: Volume One of The Amaranthine Spectrum by Tom Toner
-- The Protestant Ethic and the Spirit of Capitalism: and Other Writings (Penguin Twentieth-Century Classics)	The Protestant Ethic and the Spirit of Capitalism: and Other Writings (Penguin Twentieth-Century Classics) by Max Weber, Peter Baehr (Kindle Edition) 
+- The Protestant Ethic and the Spirit of Capitalism: and Other Writings (Penguin Twentieth-Century Classics) by Max Weber, Peter Baehr  
 - The Psychology of Computer Programming: Silver Anniversary eBook Edition,  Gerald Weinberg
-- The Purity Myth: How America's Obsession with Virginity Is Hurting Young Women	The Purity Myth: How America's Obsession with Virginity Is Hurting Young Women by Jessica Valenti (Paperback) 
+- The Purity Myth: How America's Obsession with Virginity Is Hurting Young Women by Jessica Valenti  
 - The Pursuit of Loneliness, 20th Anniversary Edition 3rd Edition by Philip Slater (Author)
 - The Pursuit of Power: Technology, Armed Force, and Society since A.D. 1000 by William H. McNeill
 - The Puzzle Palace: Inside the National Security Agency, America's Most Secret Intelligence Organization by James Bamford
@@ -1394,27 +1341,27 @@ Libros a explorar / Books to explore
 - The Reasoned Schemer (The MIT Press) by Daniel P. Friedman
 - The Recursive Universe: Cosmic Complexity and the Limits of Scientific Knowledge (Dover Books on Science)
 - The Reflective Practitioner: How Professionals Think In Action by Donald A. Schon
-- The Relaxation & Stress Reduction Workbook	The Relaxation & Stress Reduction Workbook by Martha Davis, Matthew McKay (Paperback) 
+- The Relaxation & Stress Reduction Workbook by Martha Davis, Matthew McKay  
 - The Relevance of the Beautiful and Other Essays. Hans-Georg Gadamer
 - The Remains of the Day by Kazuo Ishiguro
 - The Repeal of Reticence: America's Cultural and Legal Struggles Over Free Speech, Obscenity, Sexual Liberation, and Modern Art 
 - The Restless Clock: A History of the Centuries-Long Argument over What Makes Living Things Tick by Jessica Riskin
 - The Revolt of The Public and the Crisis of Authority in the New Millennium by Martin Gurri
 - The Rhetoric of Reaction, Albert O. Hirschman
-- The Right to Privacy: Origins and Influence of a Nineteenth-Century Idea (Cambridge Intellectual Property and Information Law Book 40)	The Right to Privacy: Origins and Influence of a Nineteenth-Century Idea (Cambridge Intellectual Property and Information Law Book 40) by Megan Richardson (Kindle Edition) 
+- The Right to Privacy: Origins and Influence of a Nineteenth-Century Idea (Cambridge Intellectual Property and Information Law Book 40) by Megan Richardson  
 - The Right to Sex, Amia Srinivasan
 - The Righteous Mind by Jonathan Haidt (Citado en “moral tribes”)
 - The Rise and Fall of Ancient Egypt by Toby Wilkinson
 - The Rise and Fall of the Great Powers, Paul Kennedy
-- The Rise of the Creative Class: And How It's Transforming Work, Leisure, Community, and Everyday Life	The Rise of the Creative Class: And How It's Transforming Work, Leisure, Community, and Everyday Life by Richard Florida (Paperback) 
+- The Rise of the Creative Class: And How It's Transforming Work, Leisure, Community, and Everyday Life	The Rise of the Creative Class: And How It's Transforming Work, Leisure, Community, and Everyday Life by Richard Florida  
 - The Road by Cormac McCarthy
-- The Road to Reality: A Complete Guide to the Laws of the Universe	The Road to Reality: A Complete Guide to the Laws of the Universe by Roger Penrose (Paperback) 
+- The Road to Reality: A Complete Guide to the Laws of the Universe by Roger Penrose  
 - The Routledge Handbook of Philosophy of Information (Routledge Handbooks in Philosophy) by Luciano Floridi
 - The Ruby in the Smoke: A Sally Lockhart Mystery by Philip Pullman
-- The Sagas of Icelanders: (Penguin Classics Deluxe Edition)	The Sagas of Icelanders: (Penguin Classics Deluxe Edition) by Robert Kellogg, Various (Paperback) 
+- The Sagas of Icelanders: (Penguin Classics Deluxe Edition) by Robert Kellogg, Various  
 - The Sciences of the Artificial - 3rd Edition Paperback – October 1, 1996 by Herbert A. Simon  (Author)
-- The Second Great Depression	The Second Great Depression by Warren Brussee (Paperback) |
-- The Secret Agent (Oxford World's Classics)	The Secret Agent (Oxford World's Classics) by Joseph Conrad, John Lyon (Paperback) |
+- The Second Great Depression by Warren Brussee  |
+- The Secret Agent (Oxford World's Classics) by Joseph Conrad, John Lyon  |
 - The Secret History of Wonder Woman by Jill Lepore
 - The Secret Life of the Mind por Mariano 
 - The Self Illusion: How the Social Brain Creates Identity by Bruce Hood
@@ -1422,132 +1369,128 @@ Libros a explorar / Books to explore
 - The Shepherd's Life: Modern Dispatches from an Ancient Landscape. James Rebanks.
 - The Shockwave Rider by John Brunner
 - The silk roads, peter frankopan 
-- The Singing Life Of Birds: The Art And Science Of Listening To Birdsong	The Singing Life Of Birds: The Art And Science Of Listening To Birdsong by Donald Kroodsma (Hardcover) 
-- The Singularity Is Near: When Humans Transcend Biology	The Singularity Is Near: When Humans Transcend Biology by Ray Kurzweil (Hardcover) |
+- The Singing Life Of Birds: The Art And Science Of Listening To Birdsong by Donald Kroodsma  
+- The Singularity Is Near: When Humans Transcend Biology by Ray Kurzweil  |
 - The Situated Self (9780195375039): J.T. Ismael: Books
 - The Social Construction of What? by Ian Hacking
-- The Society of Mind	The Society of Mind by Marvin Minsky (Paperback) 
 - The Society of Mind by Marvin Minsky
 - The Sociological Imagination by C. Wright Mills
 - The Soul at Work: From Alienation to Autonomy (Semiotext(e) / Foreign Agents) by Franco "Bifo" Berardi
-- The Soul of A New Machine	The Soul of A New Machine by Tracy Kidder (Paperback) 
+- The Soul of A New Machine by Tracy Kidder  
 - The Soul of the Marionette: A Short Inquiry into Human Freedom by John Gray
-- The Space between Us: Social Geography and Politics - Kindle edition by Ryan D. Enos. Politics & Social Sciences Kindle eBooks . (recomendado en episodio de podcast “the Ezra Klein show” 20180723)
-- The Spectre of Race: How Discrimination Haunts Western Democracy	The Spectre of Race: How Discrimination Haunts Western Democracy by Michael G. Hanchard (Hardcover) 
+- The Space between Us: Social Geography and Politics -  by Ryan D. Enos. Politics & Social Sciences Kindle eBooks . (recomendado en episodio de podcast “the Ezra Klein show” 20180723)
+- The Spectre of Race: How Discrimination Haunts Western Democracy by Michael G. Hanchard  
 - The Sports Gene: Inside the Science of Extraordinary Athletic Performance by David Epstein
 - The Stand, Stephen King
 - The Stars My Destination by Alfred Bester
 - The Story of Jane: The Legendary Underground Feminist Abortion Service. Laura Kaplan
-- The Story of My Life (Signet Classics)	The Story of My Life (Signet Classics) by Helen Keller, Lou Ann Walker (Mass Market Paperback) |
-- The Story of Philosophy (Touchstone Books) (Touchstone Books (Paperback)) by Will Durant
+- The Story of My Life (Signet Classics) by Helen Keller, Lou Ann Walker (Mass Market Paperback) |
+- The Story of Philosophy (Touchstone Books) (Touchstone Books ) by Will Durant
 - The Story of Writing: Alphabets, Hieroglyphs & Pictograms by Andrew Robinson
 - The Strangest Man: The Hidden Life of Paul Dirac, Mystic of the Atom: Farmelo, Graham: 9780465022106
-- The Strategy and Tactics of Pricing: A Guide to Profitable Decision Making	The Strategy and Tactics of Pricing: A Guide to Profitable Decision Making by Thomas Nagle (Paperback) 
+- The Strategy and Tactics of Pricing: A Guide to Profitable Decision Making by Thomas Nagle  
 - The Structural Transformation of the Public Sphere: An Inquiry into a Category of Bourgeois Society (Studies in Contemporary German Social Thought) by Jürgen Habermas
-- The Substance of Style: How the Rise of Aesthetic Value Is Remaking Commerce, Culture, and Consciousness (P.S.)	The Substance of Style: How the Rise of Aesthetic Value Is Remaking Commerce, Culture, and Consciousness (P.S.) by Virginia Postrel (Paperback) 
+- The Substance of Style: How the Rise of Aesthetic Value Is Remaking Commerce, Culture, and Consciousness (P.S.) by Virginia Postrel  
 - The Subtlety of Sameness: A Theory and Computer Model of Analogy-Making, by Robert French
 - The Suit (Christopher Breward)
-- The Suit: Form, Function and Style	The Suit: Form, Function and Style by Christopher Breward (Hardcover) 
+- The Suit: Form, Function and Style by Christopher Breward  
 - The Sum of Small Things: A Theory of the Aspirational Class by Elizabeth Currid-Halkett
-- The Sun Kings: The Unexpected Tragedy of Richard Carrington and the Tale of How Modern Astronomy Began	The Sun Kings: The Unexpected Tragedy of Richard Carrington and the Tale of How Modern Astronomy Began by Stuart Clark (Paperback) 
+- The Sun Kings: The Unexpected Tragedy of Richard Carrington and the Tale of How Modern Astronomy Began by Stuart Clark  
 - The Symbolic Species: The Co-evolution of Language and the Brain by Terrence W. Deacon
 - The Taming of Chance (Ideas in Context, Series Number 17) by Ian Hacking
 - The Tangled Tree por David Quammen (Art en Nature. [https://www.nature.com/articles/d41586-018-05827-1](https://www.nature.com/articles/d41586-018-05827-1) )
-- The Technology Fallacy: How People Are the Real Key to Digital Transformation (Management on the Cutting Edge)	The Technology Fallacy: How People Are the Real Key to Digital Transformation (Management on the Cutting Edge) by Gerald C. Kane, Anh Nguyen Phillips (Hardcover) 
-- The Telephone Gambit: Chasing Alexander Graham Bell's Secret	The Telephone Gambit: Chasing Alexander Graham Bell's Secret by Seth Shulman (Hardcover) 
-- The Ten Most Beautiful Experiments	The Ten Most Beautiful Experiments by George Johnson (Hardcover) 
+- The Technology Fallacy: How People Are the Real Key to Digital Transformation (Management on the Cutting Edge) by Gerald C. Kane, Anh Nguyen Phillips  
+- The Telephone Gambit: Chasing Alexander Graham Bell's Secret by Seth Shulman  
+- The Ten Most Beautiful Experiments by George Johnson  
 - The Third Reich at War by Richard J. Evans
 - The Third Reich in Power (The History of the Third Reich) by Richard J. Evans
-- The Thousand Autumns of Jacob de Zoet by David Mitchell  (En un post de reddit recomendado en una recomendación sobre ficción historia no occidental y/o blanca)
-- The Three Escapes of Hannah Arendt: A Tyranny of Truth	The Three Escapes of Hannah Arendt: A Tyranny of Truth by Ken Krimstein (Hardcover) 
+- The Thousand Autumns of Jacob de Zoet by David Mitchell  (En un post de reddit recomendado en una conversación sobre ficción historia no occidental y/o blanca)
+- The Three Escapes of Hannah Arendt: A Tyranny of Truth by Ken Krimstein  
 - The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer (Pantheon Graphic Library) by Sydney Padua
 - The Transparent Society: Will Technology Force Us To Choose Between Privacy And Freedom? by David Brin
-- The Travels and Adventures of Serendipity: A Study in Sociological Semantics and the Sociology of Science	The Travels and Adventures of Serendipity: A Study in Sociological Semantics and the Sociology of Science by Robert K. Merton, Elinor Barber (Hardcover) |
+- The Travels and Adventures of Serendipity: A Study in Sociological Semantics and the Sociology of Science by Robert K. Merton, Elinor Barber  |
 - The Tree of Knowledge: The Biological Roots of Human Understanding by Humberto R. Maturana
-- The Trouble With Physics: The Rise of String Theory, the Fall of a Science, And What Comes Next	The Trouble With Physics: The Rise of String Theory, the Fall of a Science, And What Comes Next by Lee Smolin (Hardcover) 
+- The Trouble With Physics: The Rise of String Theory, the Fall of a Science, And What Comes Next by Lee Smolin  
 - The True Believer: Thoughts on the Nature of Mass Movements (Perennial Classics) by Eric Hoffer
-- The Twenty-Six Words That Created the Internet	The Twenty-Six Words That Created the Internet by Jeff Kosseff (Kindle Edition) 
-- The Two Cultures (Canto Classics)	The Two Cultures (Canto Classics) by C. P. Snow, Stefan Collini (Paperback) 
+- The Twenty-Six Words That Created the Internet by Jeff Kosseff  
+- The Two Cultures (Canto Classics) by C. P. Snow, Stefan Collini  
 - The Two Fundamental Problems of Ethics, Arthur Schopenhauer
 - The Tyranny of Experts: Economists, Dictators, and the Forgotten Rights of the Poor, William Easterly
 - Tyranny of Merit: What's Become of the Common Good, Michael Sandel  (ref: podcast “embrace the void”, episode 182)
 - The Tyranny of Metrics by Jerry Z. Muller
 - The Undercover Economist by Tim Harford
 - The Universal Traveller: A Guide to Creativity, Problem Solving & the Process of Reaching Goals (Crisp Professional Series) by Don Koberg
-- The Unnatural History of the Sea	The Unnatural History of the Sea by Dr. Callum Roberts (Hardcover) |
+- The Unnatural History of the Sea by Dr. Callum Roberts  |
 - The Use of Bodies (Meridian: Crossing Aesthetics) by Giorgio Agamben
 - The Value of Everything: Making and Taking in the Global Economy by Mariana Mazzucato
 - The values of bureaucracy (https://global.oup.com/academic/product/the-values-of-bureaucracy-9780199275465)
 - The Varieties of Scientific Experience: A Personal View of the Search for God by Carl Sagan
 - The Virtue of Nationalism by Yoram Hazony
-- The Visual Display of Quantitative Information	The Visual Display of Quantitative Information by Tufte, Edward R. (Hardcover) 
+- The Visual Display of Quantitative Information by Tufte, Edward R.  
 - The Vital Question: Energy, Evolution, and the Origins of Complex Life by Nick Lane
-- The War of Art: Break Through the Blocks and Win Your Inner Creative Battles	The War of Art: Break Through the Blocks and Win Your Inner Creative Battles by Steven Pressfield (Paperback) |
-- The Warriors: Reflections on Men in Battle	The Warriors: Reflections on Men in Battle by J. Glenn Gray, Hannah Arendt (Kindle Edition) 
+- The War of Art: Break Through the Blocks and Win Your Inner Creative Battles by Steven Pressfield  |
+- The Warriors: Reflections on Men in Battle by J. Glenn Gray, Hannah Arendt  
 - The Way of Kings (The Stormlight Archive, Book 1), Brandon Sanderson
 - The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws by Dafydd Stuttard
-- The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations	The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations by James Surowiecki (Hardcover) 
+- The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations by James Surowiecki  
 - The World According to Xi: Everything You Need to Know About the New China, Kerry Brown
-- The Working Life: The Promise and Betrayal of Modern Work	The Working Life: The Promise and Betrayal of Modern Work by Joanne B. Ciulla (Hardcover) |
-- The World As I See It	The World As I See It by Albert Einstein (Paperback) |
+- The Working Life: The Promise and Betrayal of Modern Work by Joanne B. Ciulla  |
+- The World As I See It	The World As I See It by Albert Einstein  |
 - The World as Will and Representation, Arthur Schopenhauer
 - The World Encyclopedia of Calligraphy: The Ultimate Compendium on the Art of Fine Writing-History, Craft, Technique by Christopher Calderhead
 - The World of Yesterday. Stefan Zweig .
 - The World Outside Your Head: On Becoming an Individual in an Age of Distraction.
-- The World Viewed: Reflections on the Ontology of Film, Enlarged Edition (Harvard Film Studies)	The World Viewed: Reflections on the Ontology of Film, Enlarged Edition (Harvard Film Studies) by Stanley Cavell (Paperback) 
+- The World Viewed: Reflections on the Ontology of Film, Enlarged Edition (Harvard Film Studies) by Stanley Cavell  
 - The Writing Life by Annie Dillard
-- The Yale Child Study Center Guide to Understanding Your Child: Healthy Development from Birth to Adolescence	The Yale Child Study Center Guide to Understanding Your Child: Healthy Development from Birth to Adolescence by Linda C. Mayes M.D., Donald J. Cohen M.D. (Hardcover) 
+- The Yale Child Study Center Guide to Understanding Your Child: Healthy Development from Birth to Adolescence by Linda C. Mayes M.D., Donald J. Cohen M.D.  
 - Them: Adventures with Extremists by Jon Ronson
 - Things That Bother Me: Death, Freedom, the Self, Etc. by Galen Strawson
-- Things That Make Us Smart: Defending Human Attributes In The Age Of The Machine (William Patrick Book)	Things That Make Us Smart: Defending Human Attributes In The Age Of The Machine (William Patrick Book) by Donald A. Norman (Paperback) 
+- Things That Make Us Smart: Defending Human Attributes In The Age Of The Machine (William Patrick Book) by Donald A. Norman  
 - Think: A Compelling Introduction to Philosophy by Simon Blackburn
 - Thinking to Some Purpose. Susan Stebbing.
-- This New Ocean: The Story of the First Space Age (Modern Library (Paperback)) by William E. Burrows
+- This New Ocean: The Story of the First Space Age (Modern Library ) by William E. Burrows
 - This Way for the Gas, Ladies and Gentlemen. Tadeusz Borowski
 - Thought Experiments in Science, Philosophy, and the Arts, Edited By Melanie Frappier, Letitia Meynell, James Robert Brown
-- Thoughts on Design	Thoughts on Design by Paul Rand, Michael Bierut (Kindle Edition) 
-- Thoughts on Design by Paul Rand
+- Thoughts on Design by Paul Rand, Michael Bierut  
 - Threat Modeling: Designing for Security by Adam Shostack
-- Through a Liquid Mirror	Through a Liquid Mirror by Wayne Levin (Paperback) 
 - Through a Liquid Mirror by Wayne Levin
-- Time and Free Will: An Essay on the Immediate Data of Consciousness	Time and Free Will: An Essay on the Immediate Data of Consciousness by Henri Bergson (Paperback) 
+- Time and Free Will: An Essay on the Immediate Data of Consciousness by Henri Bergson  
 - Time of the Magicians: Wittgenstein, Benjamin, Cassirer, Heidegger, and the Decade That Reinvented Philosophy
 - Time Travel: A History (9780804168922): James Gleick
-- Time's Arrow (Vintage International) - Kindle edition by Martin Amis. Literature & Fiction Kindle eBooks . (Ref “from eternity to here”)
+- Time's Arrow (Vintage International) -  by Martin Amis. Literature & Fiction Kindle eBooks . (Ref “from eternity to here”)
 - To End All Wars: A Story of Loyalty and Rebellion, 1914-1918 by Adam Hochschild
 - To Save Everything, Click Here: The Folly of Technological Solutionism, Evgeny Morozov
 - Tom Sparrow's The End of Phenomenology. (Via Reddit: https://reddit.com/r/askphilosophy/comments/fatp4p/what_are_the_most_recent_last_10_years_new/)
-- Trading Up: Why Consumers Want New Luxury Goods... And How Companies Create Them (Revised and Updated)	Trading Up: Why Consumers Want New Luxury Goods... And How Companies Create Them (Revised and Updated) by Michael J. Silverstein, Neil Fiske (Hardcover) 
+- Trading Up: Why Consumers Want New Luxury Goods... And How Companies Create Them (Revised and Updated) by Michael J. Silverstein, Neil Fiske  
 - Treasured: How Tutankhamun Shaped a Century. Christina Riggs.
 - Tribe: On Homecoming and Belonging: Sebastian Junger: 9781455566389
 - True Names: And the Opening of the Cyberspace Frontier by Vernor Vinge
-- Turing's Cathedral: The Origins of the Digital Universe by George Dyson
 - Turing's Cathedral: The Origins of the Digital Universe, George Dyson
 - Two Sides of the Moon: Our Story of the Cold War Space Race by David Scott
 - Uncanny Valley, Anna Wiener
 - Understanding Comics: The Invisible Art by Scott McCloud
-- Understanding Exposure: How to Shoot Great Photographs with a Film or Digital Camera (Updated Edition)	Understanding Exposure: How to Shoot Great Photographs with a Film or Digital Camera (Updated Edition) by Bryan Peterson (Paperback) 
-- Undoing Border Imperialism (Anarchist Interventions Book 6)	Undoing Border Imperialism (Anarchist Interventions Book 6) by Harsha Walia, Andrea Smith (Kindle Edition) 
+- Understanding Exposure: How to Shoot Great Photographs with a Film or Digital Camera (Updated Edition) by Bryan Peterson  
+- Undoing Border Imperialism (Anarchist Interventions Book 6) by Harsha Walia, Andrea Smith  
 - Unfinished Tales of Numenor and Middle-earth by Christopher Tolkien
 - Unholy Wars: Afghanistan, America and International Terrorism, by John Cooley
-- Unit Origami: Multidimensional Transformations	Unit Origami: Multidimensional Transformations by Tomoko Fuse (Paperback) 
-- Universal Principles of Design	Universal Principles of Design by William Lidwell, Kritina Holden (Hardcover) 
-- UNIX Network Programming: Networking APIs: Sockets and XTI; Volume 1	UNIX Network Programming: Networking APIs: Sockets and XTI; Volume 1 by W. Richard Stevens (Hardcover) 
+- Unit Origami: Multidimensional Transformations by Tomoko Fuse  
+- Universal Principles of Design by William Lidwell, Kritina Holden  
+- UNIX Network Programming: Networking APIs: Sockets and XTI; Volume 1 by W. Richard Stevens  
 - Un mundo común. Marina Garcés Mascareñas.
 - Unsung Heroes of World War II: The Story of the Navajo Code Talkers by Deanne Durrett
-- Unweaving the Rainbow: Science, Delusion and the Appetite for Wonder	Unweaving the Rainbow: Science, Delusion and the Appetite for Wonder by Richard Dawkins (Paperback)
+- Unweaving the Rainbow: Science, Delusion and the Appetite for Wonder by Richard Dawkins 
 - Un sac de billes. Joseph Joffo.
 - Ursula K. Le Guin: Always Coming Home (LOA #315): Author's Expanded Edition (Library of America Ursula K. Le Guin Edition) by Ursula K. Le Guin
 - Ursula K. Le Guin: The Hainish Novels and Stories: A Library of America Boxed Set by Ursula K. Le Guin
 - Utopia Is Creepy: And Other Provocations by Nicholas Carr
 - Vanity Fair: The Portraits: A Century of Iconic Images by Graydon Carter
-- Vibrations and Waves (M.I.T. Introductory Physics)	Vibrations and Waves (M.I.T. Introductory Physics) by A.P. French (Paperback) 
+- Vibrations and Waves (M.I.T. Introductory Physics) by A.P. French  
 - Virgin Nation: Sexual Purity and American Adolescence. Sara Moslener. (Ref “Jesus and John”, chapter 9,42)
-- Virtual Private Networks: Technologies and Solutions	Virtual Private Networks: Technologies and Solutions by Ruixi Yuan, W. Timothy Strayer (Paperback) 
-- Virtue Ethics: A Pluralistic View	Virtue Ethics: A Pluralistic View by Christine Swanton (Hardcover) 
-- Visual Explanations: Images and Quantities, Evidence and Narrative	Visual Explanations: Images and Quantities, Evidence and Narrative by Edward R. Tufte (Hardcover) 
-- Visual Storytelling with D3: An Introduction to Data Visualization in JavaScript (Addison-wesley Data and Analytics)	Visual Storytelling with D3: An Introduction to Data Visualization in JavaScript (Addison-wesley Data and Analytics) by Ritchie S. King (Kindle Edition) 
-- VISUALIZING ABSTRACT OBJECTS AND RELATIONS (World Scientific Computer Science)	VISUALIZING ABSTRACT OBJECTS AND RELATIONS (World Scientific Computer Science) by Tomihisa Kamada (Hardcover) 
+- Virtual Private Networks: Technologies and Solutions by Ruixi Yuan, W. Timothy Strayer  
+- Virtue Ethics: A Pluralistic View by Christine Swanton  
+- Visual Explanations: Images and Quantities, Evidence and Narrative by Edward R. Tufte  
+- Visual Storytelling with D3: An Introduction to Data Visualization in JavaScript (Addison-wesley Data and Analytics) by Ritchie S. King  
+- VISUALIZING ABSTRACT OBJECTS AND RELATIONS (World Scientific Computer Science) by Tomihisa Kamada  
 - Voces de Chernóbil
 - Voices in the Code: A Story about People, Their Values, and the Algorithm They Made. David G. Robinson .
 - Voodoo Science: The Road from Foolishness to Fraud by Robert L. Park
@@ -1556,26 +1499,24 @@ Libros a explorar / Books to explore
 - War and Peace and War: The Rise and Fall of Empires by Peter Turchin
 - Warspeak: Nietzsche's Victory over Nihilism.Lise van Boxel 
 - Washington's Long War on Syria (Stephen Gowans), Comentado en el blog “Zero Anthropology” (https://zeroanthropology.net/2018/05/10/book-review-washingtons-long-war-on-syria-by-stephen-gowans/)
-- Water for Elephants: A Novel	Water for Elephants: A Novel by Sara Gruen (Paperback) 
 - Water for Elephants: A Novel by Sara Gruen
 - Ways of Being: Animals, Plants, Machines: The Search for a Planetary Intelligence. James Bridle.
-- Ways of Seeing: Based on the BBC Television Series (Penguin Books for Art)	Ways of Seeing: Based on the BBC Television Series (Penguin Books for Art) by John Berger (Paperback) 
 - Ways of Seeing: Based on the BBC Television Series (Penguin Books for Art) by John Berger
 - Ways of the World: A Brief Global History with Sources, Volume 1 by Robert W. Strayer
-- We by Yevgeny Zamyatin, Clarence Brown (Paperback) 
-- Web Site Usability: A Designer's Guide (Interactive Technologies)	Web Site Usability: A Designer's Guide (Interactive Technologies) by Jared Spool, Tara Scanlon (Paperback) 
-- West of Eden: The End of Innocence at Apple Computer	West of Eden: The End of Innocence at Apple Computer by Frank Rose (Paperback) |
+- We by Yevgeny Zamyatin, Clarence Brown  
+- Web Site Usability: A Designer's Guide (Interactive Technologies) by Jared Spool, Tara Scanlon  
+- West of Eden: The End of Innocence at Apple Computer by Frank Rose  |
 - What algorithms want. https://mitpress.mit.edu/books/what-algorithms-want
 - What Do You Care What Other People Think?": Further Adventures of a Curious Character by Richard P. Feynman
-- What is Life?: With Mind and Matter and Autobiographical Sketches (Canto Classics)	What is Life?: With Mind and Matter and Autobiographical Sketches (Canto Classics) by Erwin Schrodinger/Penrose (Paperback) 
+- What is Life?: With Mind and Matter and Autobiographical Sketches (Canto Classics) by Erwin Schrodinger/Penrose  
 - What is Mathematics? by Courant and Robbins (Oxford University Press, 2nd edn., 1996) 
 - What Is Not Yours Is Not Yours, Helen Oyeyemi
 - What is Painting?: New Edition (Revised Edition), Julian Bell
 - What Is Real?: The Unfinished Quest for the Meaning of Quantum Physics, by Adam Becker
 - What is this thing called Knowledge? by Duncan Pritchard
 - What Really Matters: Living a Moral Life amidst Uncertainty and Danger (source: https://overcast.fm/+lznF9D-0 )
-- What We Believe but Cannot Prove: Today's Leading Thinkers on Science in the Age of Certainty (Edge Question Series)	What We Believe but Cannot Prove: Today's Leading Thinkers on Science in the Age of Certainty (Edge Question Series) by John Brockman (Paperback) 
-- What We Really Do All Day: Insights from the Centre for Time Use Research (Pelican Books)	What We Really Do All Day: Insights from the Centre for Time Use Research (Pelican Books) by Jonathan Gershuny, Oriel Sullivan (Paperback) 
+- What We Believe but Cannot Prove: Today's Leading Thinkers on Science in the Age of Certainty (Edge Question Series) by John Brockman  
+- What We Really Do All Day: Insights from the Centre for Time Use Research (Pelican Books) by Jonathan Gershuny, Oriel Sullivan  
 - When Computers Were Human by David Alan Grier
 - When Einstein Walked with Gödel: Excursions to the Edge of Thought by Jim Holt
 - Where Does The Weirdness Go?: Why Quantum Mechanics Is Strange, But Not As Strange As You Think by David Lindley
@@ -1584,37 +1525,37 @@ Libros a explorar / Books to explore
 - Where Wizards Stay Up Late: The Origins Of The Internet 
 - Whistling Vivaldi: How Stereotypes Affect Us and What We Can Do (Issues of Our Time), Claude M. Steele
 - Who Rules the World? por Noam Chomsky
-- Why I Am Not a Christian and Other Essays on Religion and Related Subjects	Why I Am Not a Christian and Other Essays on Religion and Related Subjects by Bertrand Russell, Paul Edwards (Paperback) 
+- Why I Am Not a Christian and Other Essays on Religion and Related Subjects by Bertrand Russell, Paul Edwards  
 - Why I Write (Penguin Great Ideas) by George Orwell
-- Why Liberalism Failed (Politics and Culture) by Patrick J. Deneen (Hardcover)
+- Why Liberalism Failed (Politics and Culture) by Patrick J. Deneen 
 - Why Nations Fail: The Origins of Power, Prosperity, and Poverty by Daron Acemoglu
-- Why People Believe Weird Things: Pseudoscience, Superstition, and Other Confusions of Our Time	Why People Believe Weird Things: Pseudoscience, Superstition, and Other Confusions of Our Time by Michael Shermer (Paperback) 
+- Why People Believe Weird Things: Pseudoscience, Superstition, and Other Confusions of Our Time by Michael Shermer  
 - Why Photographs Work: 52 Great Images Who Made Them, What Makes Them Special and Why by George Barr
-- Why Programs Fail: A Guide to Systematic Debugging	Why Programs Fail: A Guide to Systematic Debugging by Andreas Zeller (Paperback) |
+- Why Programs Fail: A Guide to Systematic Debugging by Andreas Zeller  |
 - Why read Marx today, https://www.amazon.com/Read-Marx-Today-Jonathan-Wolff/dp/0192805053 (Recomendado en Reddit para leer luego Hegel)
 - Why We Lie: The Evolutionary Roots of Deception and the Unconscious Mind by David Livingstone Smith
 - Why We Love: The Nature and Chemistry of Romantic Love by Helen Fisher
 - Wild Swans: Three Daughters of China by Jung Chang
 - Winners Take All: The Elite Charade of Changing the World by Anand Giridharadas
 - Winning Ways for Your Mathematical Plays: Volume 1 by Elwyn R. Berlekamp
-- Wolf Totem by Jiang Rong (En un post de reddit recomendado en una recomendación sobre ficción historia no occidental y/o blanca)
+- Wolf Totem by Jiang Rong (En un post de reddit recomendado en una conversación sobre ficción historia no occidental y/o blanca)
 - Women Are Heroes by Marco Berrebi
 - Women, Fire and Dangerous Things: What Categories Reveal About the Mind by George Lakoff
 - Work: The Last 1,000 Years by Andrea Komlosy
 - Working in Public: The Making and Maintenance of Open Source Software: Nadia Eghbal: 9780578675862
-- Working: People Talk About What They Do All Day and How They Feel About What They Do	Working: People Talk About What They Do All Day and How They Feel About What They Do by Studs Terkel (Paperback) 
+- Working: People Talk About What They Do All Day and How They Feel About What They Do by Studs Terkel  
 - World without end, Kingsbridge trilogy,  Ken Follett
-- Writing Effective Use Cases	Writing Effective Use Cases by Alistair Cockburn (Paperback) 
-- Writing Solid Code (Microsoft Programming Series)	Writing Solid Code (Microsoft Programming Series) by Steve Maguire (Paperback) 
+- Writing Effective Use Cases by Alistair Cockburn  
+- Writing Solid Code (Microsoft Programming Series) by Steve Maguire  
 - Why the World Does Not Exist, Markus Gabriel
 - Yemen in Crisis: Autocracy, Neo-Liberalism and the Disintegration of a State by Helen Lackner
-- You and Your Only Child: The Joys, Myths, and Challenges of Raising an Only Child	You and Your Only Child: The Joys, Myths, and Challenges of Raising an Only Child by Patricia Nachman, Andrea Thompson (Paperback) 
+- You and Your Only Child: The Joys, Myths, and Challenges of Raising an Only Child by Patricia Nachman, Andrea Thompson  
 - You and Your Profile: Identity After Authenticity, by Hans-Georg Moeller and Paul J. D'Ambrosio Columbia University Press
-- Zen and the Art of Motorcycle Maintenance: An Inquiry into Values	Zen and the Art of Motorcycle Maintenance: An Inquiry into Values by Robert M. Pirsig (Mass Market Paperback) |
-- Zen in the Art of Archery	Zen in the Art of Archery by Eugen Herrigel, R. F. C. Hull (Paperback) 
-- Zen in the Art of Photography	Zen in the Art of Photography by Robert Leverant (Perfect Paperback) 
+- Zen and the Art of Motorcycle Maintenance: An Inquiry into Values by Robert M. Pirsig (Mass Market Paperback) |
+- Zen in the Art of Archery by Eugen Herrigel, R. F. C. Hull  
+- Zen in the Art of Photography by Robert Leverant (Perfect Paperback) 
 - Zeno's Conscience, Italo Svevo.
-- Zero: The Biography of a Dangerous Idea	Zero: The Biography of a Dangerous Idea by Charles Seife (Paperback) 
+- Zero: The Biography of a Dangerous Idea by Charles Seife  
 - Zero K: A Novel, Don DeLillo
-- Zoom (Picture Puffin Books)	Zoom (Picture Puffin Books) by Istvan Banyai (Paperback) 
+- Zoom (Picture Puffin Books) by Istvan Banyai  
 - ZZT by Anna Anthropy - Boss Fight Book on the PC Classic – Boss Fight Books (https://bossfightbooks.com/products/zzt-by-anna-anthropy) (En entrevista con John Romero en gamasutra)
