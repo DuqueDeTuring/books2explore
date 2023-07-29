@@ -27,8 +27,8 @@ Libros a explorar / Books to explore
 - A Higher Call: An Incredible True Story of Combat and Chivalry in the War-Torn Skies of World War II by Adam Makos, Larry Alexander  
 - A history of Ancient Rome, Mary Beard 
 - A History of Modern Computing (History of Computing) by Paul E. Ceruzzi
-- A History of Modern Iran	A History of Modern Iran by Ervand Abrahamian  
-- A History of Saudi Arabia	A History of Saudi Arabia by Madawi al-Rasheed  
+- A History of Modern Iran by Ervand Abrahamian  
+- A History of Saudi Arabia by Madawi al-Rasheed  
 - A History of the Theories of Aether & Electricity: Two Volumes Bound As One by Edmund T. Whittaker  
 - A Little Hatred (The Age of Madness, 1) by Joe Abercrombie
 - A Living Work of Art: The Life and Science of Hendrik Antoon Lorentz, A. J. Kox
