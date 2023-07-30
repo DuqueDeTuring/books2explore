@@ -1480,6 +1480,7 @@
 - Unsung Heroes of World War II: The Story of the Navajo Code Talkers by Deanne Durrett
 - Unweaving the Rainbow: Science, Delusion and the Appetite for Wonder by Richard Dawkins 
 - Un sac de billes. Joseph Joffo.
+- Up to speed, the groundbreaking science of women athletes. By Chistine Yu.
 - Ursula K. Le Guin: Always Coming Home (LOA #315): Author's Expanded Edition (Library of America Ursula K. Le Guin Edition) by Ursula K. Le Guin
 - Ursula K. Le Guin: The Hainish Novels and Stories: A Library of America Boxed Set by Ursula K. Le Guin
 - Utopia Is Creepy: And Other Provocations by Nicholas Carr
