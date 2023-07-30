@@ -627,7 +627,7 @@ Libros a explorar / Books to explore
 - Learning Resources Prepared Slides Combo Set, 48 Specimens
 - Learning to See Creatively: Design, Color & Composition in Photography (Updated Edition) by Bryan Peterson  
 - Leibniz: A Very Short Introduction by Maria Rosa Antognazza  
-- Leica m the Advanced School of Photography by Gunter Osterloh  |
+- Leica m the Advanced School of Photography by Gunter Osterloh
 - Legacy of Violence: A History of the British Empire. Caroline Elkins 
 - Les années. Annie Ernaux.
 - Lessons from a Dark Time and Other Essays by Adam Hochschild
@@ -923,6 +923,7 @@ Libros a explorar / Books to explore
 - Regenesis: Feeding the World Without Devouring the Planet. George Monbiot.
 - Reliable Software Through Composite Design by Glenford J. Myers
 - Remember Me: Memory and Forgetting in the Digital Age. Davide Sisto.
+- Renaissance Gothic: Architecture and the Arts in Northern Europe, 1470-1540. By Ethan Matt Kavaler
 - Republic, Lost: How Money Corrupts Congress--and a Plan to Stop It by Lawrence Lessig
 - Rest: Why You Get More Done When You Work Less by Alex Soojung-Kim Pang
 - Rethinking Existentialism by Jonathan Webber
