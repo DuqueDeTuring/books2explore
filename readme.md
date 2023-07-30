@@ -981,7 +981,8 @@ Libros a explorar / Books to explore
 - Sketchtravel (Hors collection) by Gérald Guerlais
 - Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency by Tom DeMarco  
 - Small Is Beautiful, 25th Anniversary Edition: Economics As If People Mattered: 25 Years Later . . . With Commentaries by E. F. Schumacher
-- Smalltalk Best Practice Patterns by Kent Beck  
+- Smalltalk Best Practice Patterns by Kent Beck
+- Small things like these. by Claire Keegan.  #shelf #fiction #ireland
 - Smithsonian Intimate Guide to Human Origins by Carl Zimmer  
 - Sneaking a Look at God's Cards: Unraveling the Mysteries of Quantum Mechanics - Revised Edition by Giancarlo Ghirardi
 - Social Anarchism
