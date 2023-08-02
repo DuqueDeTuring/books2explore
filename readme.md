@@ -935,7 +935,8 @@
 - Ricoeur on Time and Narrative: An Introduction to Temps et récit by William C. Dowling  
 - Rise and Kill First: The Secret History of Israel's Targeted Assassinations by Ronen Bergman  
 - Rise Up Women!: The Remarkable Lives of the Suffragettes. Diane Atkinson.
-- Robert Frank: The Americans by Robert Frank, Jack Kerouac  |
+- Rites of Passage (To the Ends of the Earth trilogy). By William Golding.  #fiction #nautical
+- Robert Frank: The Americans by Robert Frank, Jack Kerouac
 - Robert Oppenheimer: A Life Inside the Center
 - Rocket Men: The Daring Odyssey of Apollo 8 and the Astronauts Who Made Man's First Journey to the Moon: Robert Kurson: 9780812988703: Books
 - Rome and the Mediterrean: The History of Rome from Its Foundation, Books 31-45 by Titus Livy, Henry Bettenson  
