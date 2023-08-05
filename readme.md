@@ -1158,6 +1158,7 @@
 - The Empire Trap por Noel Maurer (Mencionado en https://americanaffairsjournal.org/2017/08/development-delusion-foreign-aid-inequality/)
 - The End of Everything (https://www.simonandschuster.com/books/The-End-of-Everything/Katie-Mack/9781982103545)
 - The End of Forgetting: Growing Up with Social Media by Kate Eichhorn  
+- The Ends of the World: Volcanic Apocalypses, Lethal Oceans, and Our Quest to Understand Earth's Past Mass Extinctions. by Peter Brannen.
 - The Essential Kierkegaard by Søren Kierkegaard
 - The Essential Writings of Machiavelli (Modern Library Classics) by Niccolo Machiavelli
 - The Eternal Decline and Fall of Rome: The History of a Dangerous Idea. Edward J. Watts .
