@@ -808,7 +808,7 @@
 - Our Lady of Darkness, by Fritz Leiber
 - Out of the Crisis (The MIT Press) by W. Edwards Deming
 - OUT STEALING HORSES	OUT STEALING HORSES by Per Petterson  
-- Outline of a Theory of Practice (Cambridge Studies in Social and Cultural Anthropology Book 16) by Pierre Bourdieu, Richard Nice  |
+- Outline of a Theory of Practice (Cambridge Studies in Social and Cultural Anthropology Book 16) by Pierre Bourdieu, Richard Nice
 - Pachinko (National Book Award Finalist) by Min Jin Lee
 - Pale Blue Dot: A Vision of the Human Future in Space by Carl Sagan  
 - Pantone Postcard Box: 100 Postcards (Pantone Color Chip Card Set, Art Postcards)
@@ -824,7 +824,7 @@
 - Patterns of Enterprise Application Architecture by Martin Fowler  
 - Penguin Classics Essays and Aphorisms (Penguin Pocket Hardbacks) by Arthur Schopenhaue
 - People in Focus: How to Photograph Anyone, Anywhere by Bryan Peterson  
-- Peopleware: Productive Projects and Teams by Tom DeMarco, Timothy Lister  |
+- Peopleware: Productive Projects and Teams by Tom DeMarco, Timothy Lister
 - Perception and Imaging: Photography--A Way of Seeing by Richard D. Zakia
 - Perceptrons, Reissue of the 1988 Expanded Edition with a new foreword by Léon Bottou: An Introduction to Computational Geometry (The MIT Press) by Marvin Minsky
 - Perfect Me: Beauty as an Ethical Ideal, by Heather Widdows
@@ -832,14 +832,14 @@
 - Personal Knowledge: Towards a Post-Critical Philosophy by Michael Polanyi, Mary Jo Nye  
 - Persuasive Technology by B. J. Fogg
 - Phaedrus (Hackett Classics) by Plato, Paul Woodruff  
-- Philosophical Problems of Quantum Physics by Werner Heisenberg  |
+- Philosophical Problems of Quantum Physics by Werner Heisenberg
 - Philosophy and the Mirror of Nature: Thirtieth-Anniversary Edition (Princeton Classics, 30) by Richard Rorty
 - Philosophy in a Technological World: Gods and Titans by James Tartaglia  
 - Philosophy in the Flesh: the Embodied Mind & its Challenge to Western Thought by George Lakoff
 - Photographs Objects Histories: On the Materiality of Images (Material Cultures) by Elizabeth Edwards, Janice Hart  
 - Photographs : George Eastman House by George Eastman House, Therese Mulligan  
-- Photography and Society (English and French Edition) by Gisele Freund  |
-- Photography Unplugged	Photography Unplugged by Harald Mante  |
+- Photography and Society (English and French Edition) by Gisele Freund
+- Photography Unplugged by Harald Mante
 - Physics for Entertainment, Book 2 by Yakov Perelman  
 - Picture This How Pictures Work by Molly Bang
 - Piranesi by Susanna Clarke
