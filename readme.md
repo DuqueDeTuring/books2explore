@@ -699,7 +699,6 @@
 - Memories of Myself (PHOTOGRAPHY) by Danny Lyon  |
 - Memory Machines: The Evolution of Hypertext (Anthem Scholarship in the Digital Age), Belinda Barnet
 - Men in Dark Times by Hannah Arendt
-- Men's Merrell Polar Moc Waterproof (11.5 M U.S. in Iron Grey)	Men's Merrell Polar Moc Waterproof (11.5 M U.S. in Iron Grey)
 - Mensa Logic Puzzles by Chronicle Books Staff (Misc. Supplies) 
 - Menswear Revolution por Jay McCauley Bowstead (Entrevista con el autor en el podcast thinking allowed, episodio "Menswear Revolution" )
 - Mental Immunity: Infectious Ideas, Mind-Parasites, and the Search for a Better Way to Think by Andy Norman
