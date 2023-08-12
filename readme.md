@@ -714,7 +714,7 @@
 - Miles: The Autobiography by Miles Davis
 - Mimesis: The Representation of Reality in Western Literature, Erich Auerbach (ref podcast “Quarantine tapes”, episode 173)
 - Mindware: An Introduction to the Philosophy of Cognitive Science by Andy Clark
-- Mirror Worlds	by GELERNTER  
+- Mirror Worlds by GELERNTER  
 - Misery, Stephen King
 - Mobile Robots: Inspiration to Implementation, Second Edition by Joseph L. Jones, Bruce A. Seiger  
 - Modern Physics by Paul A. Tipler, Ralph Llewellyn  |
