@@ -586,7 +586,6 @@
 - Jacques Pépin New Complete Techniques by Jacques Pepin
 - James Hamilton: You Should Have Heard Just What I Seen: The Music Photography by Thurston Moore
 - Japan to 1600: A Social and Economic History by William Wayne Farris
-- Java: The Complete Reference, Eleventh Edition by Herbert Schildt  
 - Jazz by Herman Leonard
 - Jazz Icons: Series 2 (Boxed Set)
 - The Jesus Machine: How James Dobson, Focus on the Family, and Evangelical America Are Winning the Culture War. Dan Gilgoff. (Ref “Jesus and John Wayne”, chapter 4,21)
