@@ -101,13 +101,11 @@
 - American Fascists: The Christian Right and the War on America by Chris Hedges
 - American Photojournalism Comes of Age	American Photojournalism Comes of Age by Michael L. Carlebach 
 - American Power and the New Mandarins: Historical and Political Essays by Noam Chomsky
-- Amusing Ourselves to Death: Public Discourse in the Age of Show Business by Neil Postman
 - Amusing Ourselves to Death: Public Discourse in the Age of Show Business, Neil Postman
 - An Enquiry concerning Human Understanding (Oxford World's Classics) by David Hume
 - An Inner Silence: The Portraits of Henri Cartier-Bresson by Agnès Sire, Jean-Luc Nancy 
 - An Introduction to Broadband Networks: LANs, MANs, ATM, B-ISDN, and Optical Networks for Integrated Multimedia Telecommunications (Applications of Communications Theory) by Anthony S. Acampora  
-- An Introduction to Database Systems	An Introduction to Database Systems by C.J. Date  
-- An Introduction to Database Systems (v. 1)	An Introduction to Database Systems (v. 1) by C. J. Date  
+- An Introduction to Database Systems (v. 1) by C. J. Date  
 - An Introduction to Functional Programming Through Lambda Calculus (Dover Books on Mathematics) by Greg Michaelson
 - Anathem, Neal Stephenson
 - Anatomica, Joanna Ebenstein (ref: interview with author in talk nerdy, episode 2021-02-01)
@@ -146,7 +144,6 @@
 - Bad News From Israel by Greg Philo
 - Basic Algebra I: Second Edition (Dover Books on Mathematics) by Nathan Jacobson
 - Basic Algebra II: Second Edition (Dover Books on Mathematics) by Nathan Jacobson
-- Basic Category Theory for Computer Scientists (Foundations of Computing)	Basic Category Theory for Computer Scientists (Foundations of Computing) by Benjamin C. Pierce 
 - Basic Category Theory for Computer Scientists (Foundations of Computing) by Benjamin C. Pierce
 - Basic Economics:  A Citizen's Guide to the Economy	Basic Economics: A Citizen's Guide to the Economy by Thomas Sowell 
 - Basic Simple Type Theory (Cambridge Tracts in Theoretical Computer Science, Series Number 42) by J. Roger Hindley
@@ -160,7 +157,6 @@
 - Beren and Lúthien by J.R.R. Tolkien
 - Bertrand Russell by Ray Monk
 - Best Practice in Inventory Management	Best Practice in Inventory Management by Tony Wild  
-- Better Off: Flipping the Switch on Technology (P.S.)	Better Off: Flipping the Switch on Technology (P.S.) by Eric Brende  
 - Better Off: Flipping the Switch on Technology (P.S.) by Eric Brende
 - Between Christ and Caliph: Law, Marriage, and Christian Community in Early Islam (Divinations: Rereading Late Ancient Religion) by Lev E. Weitz  
 - Between Two Worlds: The Construction of the Ottoman State by Cemal Kafadar
@@ -717,7 +713,7 @@
 - Misery, Stephen King
 - Mobile Robots: Inspiration to Implementation, Second Edition by Joseph L. Jones, Bruce A. Seiger  
 - Modern Physics by Paul A. Tipler, Ralph Llewellyn  |
-- MONOPOLIZED, by David Dayen
+- Monopolized, by David Dayen
 - Moon Lander: How We Developed the Apollo Lunar Module (Smithsonian History of Aviation and Spaceflight ) by Thomas J. Kelly
 - Moondust: In Search of the Men Who Fell to Earth by Andrew Smith
 - Moral Mazes: The World of Corporate Managers by Robert Jackall
