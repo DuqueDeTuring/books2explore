@@ -11,7 +11,7 @@
 - A Brief History of Artificial Intelligence, Michael Wooldridge
 - A Brief History of the Paradox: Philosophy and the Labyrinths of the Mind by Roy Sorensen
 - A Brief History of the Philosophy of Time by Adrian Bardon
-- A Briefer History of Time: The Science Classic Made More Accessible	A Briefer History of Time: The Science Classic Made More Accessible by Stephen Hawking, Leonard Mlodinow  
+- A Briefer History of Time: The Science Classic Made More Accessible by Stephen Hawking, Leonard Mlodinow  
 - A Column of Fire, Kingsbridge trilogy,  Ken Follett
 - A Deepness in the Sky	A Deepness in the Sky by Vernor Vinge 
 - A Deepness in the Sky (Zones of Thought)  
