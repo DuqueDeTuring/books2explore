@@ -1487,7 +1487,7 @@
 - Virtue Ethics: A Pluralistic View by Christine Swanton  
 - Visual Explanations: Images and Quantities, Evidence and Narrative by Edward R. Tufte  
 - Visual Storytelling with D3: An Introduction to Data Visualization in JavaScript (Addison-wesley Data and Analytics) by Ritchie S. King  
-- VISUALIZING ABSTRACT OBJECTS AND RELATIONS (World Scientific Computer Science) by Tomihisa Kamada  
+- Visualizing abstract objects and relations (World Scientific Computer Science) by Tomihisa Kamada  
 - Voces de Chernóbil
 - Voices in the Code: A Story about People, Their Values, and the Algorithm They Made. David G. Robinson .
 - Voodoo Science: The Road from Foolishness to Fraud by Robert L. Park
