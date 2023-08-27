@@ -900,6 +900,7 @@
 - Raise the Red Lantern: Three Novellas (9780060596330): Su Tong: Books  (En un post de reddit recomendado en una conversación sobre ficción historia no occidental y/o blanca)
 - Range: Why Generalists Triumph in a Specialized World by David J. Epstein  
 - Rare Earth: Why Complex Life is Uncommon in the Universe by Peter D. Ward, Donald Brownlee  
+- Reaching for the Moon: The Autobiography of NASA Mathematican Katherine Johnson.
 - Real-Time Rendering, Second Edition by Tomas Akenine-Möller, Eric Haines  
 - Realms of Tolkien: Images of Middle-earth by Ted Nasmith
 - Reasons and Persons by Derek Parfit
