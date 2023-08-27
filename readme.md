@@ -615,6 +615,7 @@
 - Last Witnesses: An Oral History of the Children of World War II by Svetlana Alexievich, Richard Pevear  
 - Lave, Jean, Cognition in Practice: Mind, Mathematics, and Culture in Everyday Life, Cambridge University Press, 1988. (Ref in Norvig’s great essay “Teach Yourself Programming in Ten Years”)
 - Law, Sex, and Christian Society in Medieval Europe by James A. Brundage  
+- Le Soin est un humanisme. Cynthia Fleury.
 - Learn Calligraphy: The Complete Book of Lettering and Design by Margaret Shepherd
 - Learned Pigs & Fireproof Women: Unique, Eccentric and Amazing Entertainers by Ricky Jay  
 - Learning Resources Prepared Slides Combo Set, 48 Specimens
