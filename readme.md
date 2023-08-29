@@ -1558,3 +1558,15 @@
 - Zero K: A Novel, Don DeLillo
 - Zoom (Picture Puffin Books) by Istvan Banyai  
 - ZZT by Anna Anthropy - Boss Fight Book on the PC Classic – Boss Fight Books (https://bossfightbooks.com/products/zzt-by-anna-anthropy) (En entrevista con John Romero en gamasutra)
+- The Magic Mountain. Thomas Mann.
+- A writer's diary.  Fyodor Dostoevsky,  Kenneth Lantz (Translator).
+- Nova Samuel R. Delany.
+- Shy: A novel. Max Porter.
+- Rise of the Machines: A cybernetic history. Thomas Rid.
+- They Thought They Were Free: The Germans, 1933–45. Milton Sanford Mayer.
+- A is for Arsenic: The Poisons of Agatha Christie. Kathryn Harkup.
+- The Undersea Network (Sign, Storage, Transmission). Nicole Starosielski.
+- The right stuff. Tom Wolfe.
+- To hold up the sky. Cixin Liu.
+- Changing Planes. Ursula K. Le Guin.
+- À la recherche du temps perdu I - Du côté de chez Swann. Marcel Proust.
