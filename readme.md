@@ -768,7 +768,8 @@
 - Introduction to the Personal Software Process	by Watts S Humphrey  
 - Introduction to the Theory of Computation by Michael Sipser
 - Intrusion Detection With SNORT, Apache, MySQL, PHP, And ACID by Rafeeq Rehman  
-- Intrusion Signatures and Analysis by Matt Fearnow, Karen Federick 
+- Intrusion Signatures and Analysis by Matt Fearnow, Karen Federick
+- Intuition Pumps And Other Tools for Thinking. By Daniel C. Dennett.
 - Inventing Temperature: Measurement and Scientific Progress (Oxford Studies in Philosophy of Science) by Hasok Chang
 - Inventory Accuracy: People, Processes, & Technology by David J. Piasecki 
 - Inventory Management and Production Planning and Scheduling by Edward A. Silver, David F. Pyke  |
