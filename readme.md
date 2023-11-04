@@ -1372,6 +1372,7 @@
 - Smithsonian Intimate Guide to Human Origins by Carl Zimmer  
 - Sneaking a Look at God's Cards: Unraveling the Mysteries of Quantum Mechanics - Revised Edition by Giancarlo Ghirardi
 - Snow Crash: A Novel. By Neal Stephenson
+- Sobre héroes y tumbas. Por Ernesto Sabato.
 - Sobre la lectura (Spanish Edition). By Marcel Proust
 - Social Anarchism
 - Social Construction of Reality: A Treatise in the Sociology of Knowledge, The. By Peter L. Berger & Thomas Luckmann
