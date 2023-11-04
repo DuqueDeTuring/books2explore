@@ -374,6 +374,7 @@
 - Designing Data-Intensive Applications. By Martin Kleppmann
 - Designing Effective Database Systems	Designing Effective Database Systems by Rebecca M. Riordan  
 - Destiny Disrupted: A History of the World Through Islamic Eyes: Tamim Ansary: 9781586488130: Books
+- Determined: A Science of Life without Free Will. By Robert M. Sapolsky.
 - Dialogues and Essays (Oxford World's Classics) by Seneca
 - Dialogues and Essays (Oxford World's Classics). By Seneca
 - Dialogues Concerning Natural Religion (Hackett Classics) by David Hume
@@ -667,6 +668,7 @@
 - How Can the Human Mind Occur in the Physical Universe? (Oxford Series on Cognitive Models and Architectures) by John R. Anderson
 - How China Escaped the Poverty Trap (Cornell Studies in Political Economy): Yuen Yuen Ang: 9781501700200 (entrevista con la autora en Thinking Allowed, episodio “China today”)
 - How Hackers Are Disrupting Power, Surveillance, and Authoritarianism (https://mitpress.mit.edu/books/coding-democracy)
+- How Infrastructure Works: Inside the Systems That Shape Our World. By Deb Chachra.
 - How Linux Works: What Every Superuser Should Know. By Brian Ward
 - How Physics Makes Us Free (https://www.preposterousuniverse.com/podcast/2020/01/20/80-jenann-ismael-on-connecting-physics-to-the-world-of-experience/)
 - How Science Comprehends Chaos by Sunny Auyang
@@ -1510,7 +1512,8 @@
 - The Child in Time (Ian McEwan Series Book 1) -  by Ian McEwan. Literature & Fiction Kindle eBooks . 
 - The China Mirage por James Bradley
 - The Chronicles of Dragon Collection (Series 1 Omnibus, Books 1-10): The Ultimate Dragon Book Fantasy Collection, Craig Halloran
-- The Civilization of the Renaissance in Italy (Penguin Classics) by Jacob Burckhardt, Peter Murray  
+- The Civilization of the Renaissance in Italy (Penguin Classics) by Jacob Burckhardt, Peter Murray
+- The City in History: Its Origins, Its Transformations, and Its Prospects. By Lewis Mumford.
 - The Clock Of The Long Now by Stewart Brand  
 - The Cluetrain Manifesto: The End of Business as Usual by Rick Levine, Christopher Locke  
 - The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet, David Kahn
