@@ -481,6 +481,7 @@
 - Exile: The Legend of Drizzt. By R. A. Salvatore
 - Existentialism and Romantic Love by S. Cleary
 - Existentialism: A Reconstruction by David E. Cooper
+- Existentialists and Mystics: Writings on Philosophy and Literature. By  Iris Murdoch .
 - Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States by Albert O. Hirschman
 - Experience and the growth of understanding (International Library of the Philosophy of Education Volume 11)	Experience and the growth of understanding (International Library of the Philosophy of Education Volume 11) by D.W. Hamlyn  |
 - Experiences in Groups by W. R. Bion
