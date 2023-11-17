@@ -1049,7 +1049,6 @@
 - Ninefox Gambit (1) (Machineries of Empire) by Yoon Ha Lee
 - No Contest: The Case Against Competition, Alfie Kohn
 - No Platform, A History of Anti-Fascism, Universities and the Limits of Free Speech, By Evan Smith
-- No Time to Spare: Thinking About What Matters, Le Guin
 - No Time to Spare: Thinking About What Matters. By Ursula K. Le Guin
 - Noam Chomsky: The Kind of Anarchism I Believe in, and What's Wrong with Libertarians. By Michael S. Wilson
 - Non-Photorealistic Rendering	Non-Photorealistic Rendering by Bruce Gooch, Amy Gooch  
@@ -1714,6 +1713,7 @@
 - The Nothing that Is: A Natural History of Zero by Robert Kaplan, Ellen Kaplan  
 - The Once and Future King by T. H. White
 - The One Device: The Secret History of the iPhone (9780316546164): Brian Merchant: Books
+- The Ones Who Walk Away from Omelas: A Story. By Ursula K. Le Guin.
 - The Only Child: Being One, Loving One, Understanding One, Raising One by Darrell Sifford  |
 - The Open Society and Its Enemies: New One-Volume Edition by Karl R. Popper, Alan Ryan  
 - The Open: Man and Animal by Giorgio Agamben
@@ -1763,6 +1763,7 @@
 - The Quantum Universe by Brian Cox & Jeff Forshaw 
 - The Quest for a Universal Theory of Life: Searching for Life As We Don't Know It (Cambridge Astrobiology, Series Number 11), Carol Cleland (ref: Zimmer’s What is life)
 - The Rapture of the Nerds: A tale of the singularity, posthumanity, and awkward social situations, Cory Doctorow
+- The Unreal and the Real: The Selected Short Stories of Ursula K. Le Guin 
 - The Real Frank Zappa Book by Frank Zappa
 - The Real World of Technology, Ursula M. Franklin
 - The Reasoned Schemer (The MIT Press) by Daniel P. Friedman
