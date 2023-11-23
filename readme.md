@@ -1841,7 +1841,7 @@
 - The Tree of Knowledge: The Biological Roots of Human Understanding by Humberto R. Maturana
 - The Trouble With Physics: The Rise of String Theory, the Fall of a Science, And What Comes Next by Lee Smolin  
 - The True Believer: Thoughts on the Nature of Mass Movements (Perennial Classics) by Eric Hoffer
-- The Turkish Psychedelic Music Explosion: Anadolu Psych (1965-1980) by Daniel Spicer
+- The Turkish Psychedelic Music Explosion: Anadolu Psych (1965-1980) by Daniel Spicer #music #history
 - The Twenty-Six Words That Created the Internet by Jeff Kosseff  
 - The Two Cultures (Canto Classics) by C. P. Snow, Stefan Collini  
 - The Two Fundamental Problems of Ethics, Arthur Schopenhauer
