@@ -1011,7 +1011,8 @@
 - My Struggle: Book 1 by Karl Ove Knausgaard, Don Bartlett
 - Mysticism and Logic (Dover Books on Western Philosophy) by Bertrand Russell  |
 - Mythical Man-Month, Anniversary Edition: Essays on Software Engineering, The. By Frederick P. Brooks Jr.
-- Mythical Man-Month, The: Essays on Software Engineering, Anniversary Edition by Frederick Brooks Jr.  
+- Mythical Man-Month, The: Essays on Software Engineering, Anniversary Edition by Frederick Brooks Jr.
+- Mythos: (Ancient Greek Mythology Book for Adults, Modern Telling of Classical Greek Myths Book. By Stephen Fry.
 - Myths & Legends of Japan. By F. Hadland Davis
 - Myths of the Norsemen: From the Eddas and Sagas. By H. A. Guerber
 - Myths to Live By by Joseph Campbell
