@@ -253,7 +253,6 @@
 - Chaos: A Very Short Introduction by Lenny Smith
 - Chaos: Making a New Science. By James Gleick
 - Chaos: The Making of a New Science James Gleick  
-- Charmin To Go Seat Covers	Charmin To Go Seat Covers
 - Children of Ruin. By Adrian Tchaikovsky
 - Children of Time. By Adrian Tchaikovsky
 - Chip War: The Fight for the World's Most Critical Technology. Chris Miller
