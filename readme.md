@@ -844,7 +844,6 @@
 - Le Soin est un humanisme. Cynthia Fleury.
 - Learn Calligraphy: The Complete Book of Lettering and Design by Margaret Shepherd
 - Learned Pigs & Fireproof Women: Unique, Eccentric and Amazing Entertainers by Ricky Jay  
-- Learning Resources Prepared Slides Combo Set, 48 Specimens
 - Learning to See Creatively: Design, Color & Composition in Photography (Updated Edition) by Bryan Peterson  
 - Lectures and Clippings From My Scrap Book (Classic Reprint). By Lilla D. Windsor
 - Legacy of Violence: A History of the British Empire. Caroline Elkins 
