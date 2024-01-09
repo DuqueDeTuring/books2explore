@@ -1791,7 +1791,7 @@
 - The Second Great Depression by Warren Brussee  |
 - The Secret Agent (Oxford World's Classics) by Joseph Conrad, John Lyon  |
 - The Secret History of Wonder Woman by Jill Lepore
-- The Secret Life of the Mind por Mariano 
+- The Secret Life of the Mind: How Your Brain Thinks, Feels, and Decides. By Mariano Sigman.
 - The Self Illusion: How the Social Brain Creates Identity by Bruce Hood
 - The Sense of Style, Pinker
 - The Shepherd's Life: Modern Dispatches from an Ancient Landscape. James Rebanks.
