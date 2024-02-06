@@ -1105,6 +1105,7 @@
 - Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland. By Christopher R. Browning
 - Origins of Totalitarianism (Harvest Book, Hb244), The. By Hannah Arendt
 - Orlando, by Virginia Woolf
+- Orwell's Roses, by Rebecca Solnit. 
 - Osman's Dream: The History of the Ottoman Empire by Caroline Finkel
 - Osman's Dream: The History of the Ottoman Empire. By Caroline Finkel
 - Otaku: Japan’s Database Animals by Hiroki Azuma
