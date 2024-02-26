@@ -17,7 +17,8 @@
 - A Column of Fire, Kingsbridge trilogy,  Ken Follett
 - A Deepness in the Sky	A Deepness in the Sky by Vernor Vinge 
 - A Deepness in the Sky (Zones of Thought)  
-- A Discipline for Software Engineering	A Discipline for Software Engineering by Watts S. Humphrey  
+- A Discipline for Software Engineering	A Discipline for Software Engineering by Watts S. Humphrey
+- A Field Guide to Getting Lost. Rebecca Solnit.
 - A Fine Balance by Rohinton Mistry (En un post de reddit recomendado en una recomendación sobre ficción historia no occidental y/o blanca)
 - A Fire Upon The Deep (Zones of Thought, 1). Vernor Vinge
 - A Forest of Symbols: Art, Science, and Truth in the Long Nineteenth Century (Zone Books) by Andrei Pop  
@@ -911,6 +912,7 @@
 - Malina by Ingeborg Bachmann
 - Man in the High Castle, The. By Philip K. Dick
 - Man Without a Country, A. By Kurt Vonnegut
+- Man's Search for Meaning. Viktor E. Frankl.
 - Manage I.T.: A Step by Step Guide to Help New and Aspiring IT Managers Make the Right Career Choices and Gain the Skills Necessary by Joe Santana, Jim Donovan  |
 - Managing Humans: Biting and Humorous Tales of a Software Engineering Manager. By Michael Lopp
 - Managing Software Requirements: A Use Case Approach by Dean Leffingwell
