@@ -1862,7 +1862,7 @@
 - The Visual Display of Quantitative Information by Tufte, Edward R.  
 - The Vital Question: Energy, Evolution, and the Origins of Complex Life by Nick Lane
 - The War of Art: Break Through the Blocks and Win Your Inner Creative Battles by Steven Pressfield  |
-- The Warriors: Reflections on Men in Battle by J. Glenn Gray, Hannah Arendt  
+- The Warriors: Reflections on Men in Battle by J. Glenn Gray. Introduction by Hannah Arendt  
 - The Way of Kings (The Stormlight Archive, Book 1), Brandon Sanderson
 - The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws by Dafydd Stuttard
 - The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations by James Surowiecki  
